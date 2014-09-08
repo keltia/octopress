@@ -1,0 +1,15 @@
+[submodule ".themes/reynard"]
+	path = .themes/reynard
+	url = https://github.com/hyfather/reynard
+[submodule ".themes/cleanpress"]
+	path = .themes/cleanpress
+	url = http://github.com/macjasp/cleanpress
+[submodule ".themes/whitespace"]
+	path = .themes/whitespace
+	url = https://github.com/lucaslew/whitespace
+[submodule ".themes/oscailte"]
+	path = .themes/oscailte
+	url = https://github.com/coogie/oscailte/
+[submodule ".themes/octostrap3"]
+	path = .themes/octostrap3
+	url = https://github.com/kAworu/octostrap3
