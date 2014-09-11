@@ -1,3 +1,12 @@
+<div class="alignright search">
+	<a class="button">Search this blog</a>
+	<div class="container">
+		<form action="{{ site.simple_search }}" method="get">
+			<input type="text" name="q" results="0">
+			<input type="hidden" name="q" value="site:{{ site.url | shorthand_url }}">
+		</form>
+	</div>
+</div>
 <ul>
 	<li><a href="{{ root_url }}/">Blog</a></li>
 	<li><a href="{{ root_url }}/about">About</a></li>
