@@ -99,3 +99,8 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+# API keys
+flickr:
+  api_key: fd2d08b26f2b8e24e2e9eb10cdc15942
+  shared_secret: a269a672eca76bfa
