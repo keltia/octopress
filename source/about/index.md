@@ -2,7 +2,6 @@
 layout: page
 title: "about"
 date: 2014-09-12 10:44
-comments: true
 sharing: true
 footer: true
 ---
@@ -26,7 +25,7 @@ I'm a big fan of [J.R.R. Tolkien](http://en.wikipedia.org/wiki/Tolkien) but [Geo
 
 My Goodread profile with most of my books is [there](https://www.goodreads.com/user/show/3581338-ollivier).
 
-* [Cryptography](/topics/cryptography) has been of interest to me even before I owned my first computer (a ZX-81 if you want to know) back in 1980… My list of previously owned computers include an Oric Atmos, a Sinclair QL and various PCes.
+* [Cryptography](https://www.keltia.net/topics/cryptography) has been of interest to me even before I owned my first computer (a ZX-81 if you want to know) back in 1980… My list of previously owned computers include an Oric Atmos, a Sinclair QL and various PCes.
 
 * Typography is also something I'm interested in, mostly French but also English as well.  That includes fonts and how to write correctly.
 
@@ -42,7 +41,7 @@ Facebook: [Ollivier Robert](http://facebook.com/keltia/)<br/>
 
 ## E-mail
 
-* [main address @ keltia.net](mailto:roberto@keltia.net){:.external}<br/>
+* [main address @ keltia.net](mailto:roberto@keltia.net)<br/>
 * [FreeBSD project address @ FreeBSD.org](mailto:roberto@FreeBSD.org)<br/>
 * [Alternate address @ GMail](mailto:keltia@gmail.com)<br/>
 
@@ -50,7 +49,7 @@ Facebook: [Ollivier Robert](http://facebook.com/keltia/)<br/>
 
 ## PGP keys
 
-NEW GPG Key!  Please use only this [one there](/keys/8BE879B028731E1C.asc) from now on.
+NEW GPG Key!  Please use only this [one there](https://www.keltia.net/keys/8BE879B028731E1C.asc) from now on.
 
 The old one below uses all the bad keysizes/algorithms that are referenced [here](https://we.riseup.net/riseuplabs+paow/openpgp-best-practices#openpgp-key-checks).  Check your own!
 
@@ -69,7 +68,7 @@ My *old-old-do-not-use-any-more* GPG key is the following:
     uid                  Ollivier Robert <roberto@FreeBSD.org>
     sub   2048g/C267084D 1997-08-21
 
-You can find it on the current PGP servers like pgp.mit.edu or [here](/keys/7DCAE9D3.asc) but I do not recommend you to use it.
+You can find it on the current PGP servers like pgp.mit.edu or [here](https://www.keltia.net/keys/7DCAE9D3.asc) but I do not recommend you to use it.
 
 ## Security stuff
 
