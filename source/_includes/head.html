@@ -4,11 +4,20 @@
 	<script data-cfasync="false" type="text/javascript" src="//use.typekit.net/axj3cfp.js"></script>
 	<script data-cfasync="false" type="text/javascript">try{Typekit.load();}catch(e){}</script>
 	<meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="author" title="Ollivier Robert" href="https://www.keltia.net/people/roberto/" />
+    <meta name="description" content="Ollivier Robert's blog" />
+    <meta name="keywords" content="Ollivier Robert, Robert, Ollivier, Ollivier, Robert, keltia, keltounet, blog" />
+
 	<title>{% if page.title %}{{ page.title }} {% else %}{{site.subtitle}} {% endif %} | {{ site.title }}</title>
 
-<meta name="author" content="{{ site.author }}"> 
+<meta name="author" content="{{ site.author }}">
 {% capture description %}{% if page.description %}{{ page.description }}{% elsif site.description %}{{ site.description }}{%else%}{{ content | raw_content }}{% endif %}{% endcapture %}
 <meta name="description" content="{{ description | strip_html | condense_spaces | truncate:150 }}"> {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{%else%}<meta name="keywords" content="{{ site.keywords }}">{% endif %}
+
+    <!-- openid stuff -->
+    <link rel="openid2.provider" href="https://openid.stackexchange.com/openid/provider">
+    <link rel="openid2.local_id" href="https://openid.stackexchange.com/user/b43d5863-48cc-4125-8be1-e004d69c8233">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
