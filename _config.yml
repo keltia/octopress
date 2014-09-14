@@ -99,6 +99,9 @@ disqus_show_comment_count: true
 # Google Analytics
 google_analytics_tracking_id:
 
+# Addthis
+addthis_profile_id: ra-5415b5f077f75386
+
 # Facebook Like
 facebook_like: false
 
