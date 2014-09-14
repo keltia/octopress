@@ -3,6 +3,7 @@ layout: post
 title: "La Maison Kaiseki Sushi - Paris"
 date: 2014-09-13 23:59:22 +0200
 comments: true
+sharing: true
 categories: resto sushi japonais
 ---
 
