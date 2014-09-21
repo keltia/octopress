@@ -8,7 +8,7 @@ ssh_user       = "roberto@centre.keltia.net"
 ssh_port       = "22"
 document_root  = "/jails/www/www/blog.keltia.net/htdocs"
 rsync_delete   = false
-rsync_args     = ""  # Any extra arguments to pass to rsync
+rsync_args     = "-zz"  # Any extra arguments to pass to rsync
 deploy_default = "rsync"
 
 # This will be configured for you when you run config_deploy
