@@ -4,7 +4,7 @@ single: true
 ---
 
 <article class="post">{% include article.html %}</article>
-{% include post/date.html %}{{ time }}{% if updated %} {{ updated }}{% endif %}
+
 {% unless page.sharing == false %}
 	{% include post/sharing.html %}
 {% endunless %}

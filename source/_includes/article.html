@@ -18,7 +18,6 @@
 {% endif %}
 
 <div class="meta">
-    {% include post/author.html %}
 	{% include post/date.html %}{{ time }}{% if updated %} {{ updated }}{% endif %}
 	{% include post/categories.html %}
 	{% if site.disqus_short_name and site.disqus_show_comment_count == true %}
