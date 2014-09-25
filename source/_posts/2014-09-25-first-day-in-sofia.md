@@ -3,7 +3,7 @@ layout: post
 title: "First day in Sofia"
 date: 2014-09-25 23:44:42 +0300
 comments: true
-categories: freebsd devsummit sofia eurobsdcon
+categories: freebsd devsummit sofia eurobsdcon english
 ---
 
 So today was the first day of the [EuroBSDCOn 2014](http://2014.eurobsdcon.org/) conference, traditionally starting by two days of [FreeBSD](http://www.freebsd.org/) devsummit, a meeting of FreeBSD developers, talking about various topics and thinking about FreeBSD's future.
