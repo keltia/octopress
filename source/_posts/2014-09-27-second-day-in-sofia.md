@@ -7,7 +7,7 @@ categories: freebsd devsummit sofia eurobsdcon english
 ---
 
 Slightly less busy day during the second run of devsummit sessions, although the ones in the morning were pretty important for us.
-
+<!--more-->
 The first one was about the various new tools we have introduced in our development workflow like [Phabricator](https://reviews.freebsd.org/) for dealing with code reviews and discussions around commits and [Jenkins](https://jenkins.freebsd.org/) for Continuous Integration (mainly runs of compiling ports and various branches in the source tree).
 
 See {% img http://assets.keltia.net/photos/EuroBSDCon-2014/Devsummit/medium/devsummit-5347.jpg 'Arcanist for Phabricator' 'Arcanist, bapt' %}
