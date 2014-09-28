@@ -24,7 +24,7 @@ TL; DR: be open to new hardware & software features, mobile computing and embedd
 
 {% img http://assets.keltia.net/photos/EuroBSDCon-2014/Conference/medium/conference-32891.jpg 'Kirk McKusick' 'Kirk ZFS' %}
 
-Next talk was John-Mark Gurney's talk about optimizing [GELI](http://en.wikipedia.org/wiki/GELI) performance, while keeping sane and readable code, something which is not always easy when dealing with crypto code.  Lots of interesting bits here even though I've heard the talk before at [BSDCan](http://bsdcan.org/).
+Next talk was John-Mark Gurney's talk about optimizing [GELI](http://en.wikipedia.org/wiki/Geli_(software)) performance, while keeping sane and readable code, something which is not always easy when dealing with crypto code.  Lots of interesting bits here even though I've heard the talk before at [BSDCan](http://bsdcan.org/).
 
 Emmanuel Dreyfus then talked about [FUSE](http://en.wikipedia.org/wiki/FUSE) enhancements [NetBSD](http://www.netbsd.org/) have done, especially with the link to [PUFFS](http://www.netbsd.org/docs/puffs/), the FS framework they have been using for a long time.
 
