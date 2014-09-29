@@ -28,7 +28,7 @@ Next talk was John-Mark Gurney's talk about optimizing [GELI](http://en.wikipedi
 
 Emmanuel Dreyfus then talked about [FUSE](http://en.wikipedia.org/wiki/FUSE) enhancements [NetBSD](http://www.netbsd.org/) have done, especially with the link to [PUFFS](http://www.netbsd.org/docs/puffs/), the FS framework they have been using for a long time.
 
-Then an interesting session on using [Lua](http://en.wikipedia.org/wiki/Lua_(programming_language)) as an extension language for the NetBSD Packet Filter (NPF).  Quite a few questions on security and memory management, not sure they have all be answered.
+Then an interesting session on using [Lua](http://en.wikipedia.org/wiki/Lua_(programming_language\)) as an extension language for the NetBSD Packet Filter (NPF).  Quite a few questions on security and memory management, not sure they have all be answered.
 
  Andy Tanenbaum (yes, THE Andrew S. Tanenbaum himself) was next (and the last session) to talk about a few students and he reimplemented [Minix3](http://en.wikipedia.org/wiki/MINIX#MINIX_3){% fnin %}Yes I'm linking to the WP page and not the actual `http://www.minix3.org/` site because it seems broken at the moment.{% endfnin %} using the NetBSD userland.  Minix3 is a very interesting OS that does many things completely different.  Being a small micro-kernel (only 13k LOC) enables it to be very modular with most of its features actually running in userspace, which makes upgrades very easy and live (yes, including the filesystem).
 
