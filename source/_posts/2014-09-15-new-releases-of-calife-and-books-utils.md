@@ -10,8 +10,6 @@ I have a few software utilities, from long ago (esp. [Calife](https://www.keltia
 
 ### Calife
 
-I just issued release 3.0.4 of [Calife](https://www.keltia.net/programs/calife/). Please test.  You can find it on my [Bitbucket](https://bitbucket.org/keltia/calife/downloads) or [Github](https://github.com/keltia/calife/releases) repositories.  There is a `fingerprints` file signed with my GPG key.  Please, check the signature before using the files. 
-
 I just issued release 3.0.4 of [Calife](https://www.keltia.net/programs/calife/). Please test.  You can find it on my [Bitbucket](https://bitbucket.org/keltia/calife/downloads) or [Gibhub](https://github.com/keltia/calife/releases) repositories.  There is a `fingerprints` file signed with my GPG key.  Please, check the signature before using the files. BTW, the GPG key is [here](https://www.keltia.net/keys/8BE879B028731E1C.asc)
 
 I added the `%group` syntax in addition to the current `@group` one. It also uses a more secure `memzero(3)` routine.  It is also in the FreeBSD ports tree.
