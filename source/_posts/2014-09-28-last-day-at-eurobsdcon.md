@@ -38,7 +38,7 @@ We also had a final [keynote](http://2014.eurobsdcon.org/talks-and-schedule/talk
 
 Last but not least, the closing session!
 
-Short presentation about the [FreeBSD Foundation](http://freebsdfoundation.org/) by Deb Goodkin (staff, projects, fund raising and so on).  Philip Paeps (also known as Trouble) won the book! ("[FreeBSD Design and Implementation, 2nd Edition](http://www.informit.com/store/design-and-implementation-of-the-freebsd-operating-9780321968975?c3ch=LinkShare&c3nid=NZS3W7D*uS0)"
+Short presentation about the [FreeBSD Foundation](http://freebsdfoundation.org/) by Deb Goodkin (staff, projects, fund raising and so on).  Philip Paeps (also known as *Trouble*) won the book! ("[FreeBSD Design and Implementation, 2nd Edition](http://www.informit.com/store/design-and-implementation-of-the-freebsd-operating-9780321968975?c3ch=LinkShare&c3nid=NZS3W7D*uS0)").
 
 Google did its giveaway (the "raffle") of an ACER Chromebook.
 
