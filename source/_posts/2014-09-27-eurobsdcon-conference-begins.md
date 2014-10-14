@@ -3,6 +3,7 @@ layout: post
 title: "EuroBSDCon Conference begins!"
 date: 2014-09-27 14:02:27 +0300
 comments: true
+sharing: true
 categories: conference sofia eurobsdcon english
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: "Human behaviour"
 date: 2014-10-14 10:36:44 +0200
 comments: true
+sharing: true
 categories: sexism threats gamergate rant english infosec
 ---
 

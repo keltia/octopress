@@ -3,6 +3,7 @@ layout: post
 title: "Last day at EuroBSDCon"
 date: 2014-09-28 15:57:14 +0300
 comments: true
+sharing: true
 categories: conference sofia eurobsdcon english
 ---
 
