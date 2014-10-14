@@ -16,7 +16,7 @@ There is also the [@SeriousPony story](https://twitter.com/timbray/status/518848
 
 Both stories are unrelated and linked together: both speak about harassment.  Harassment of women more precisely.
 
-In one case, it is a part of the gaming crowd going berserk against women that do [serious gaming]([here](https://imgur.com/0o1uOPx) (like they like to think they do) or even some who do write games (See [this](https://twitter.com/Spacekatgal/status/520727151503757313), [Brianna's story](https://twitter.com/Spacekatgal/status/520739878993420290) and [here](http://venturebeat.com/2014/10/10/game-developer-brianna-wu-leaves-home-after-receiving-death-threats-for-speaking-out-in-support-of-women/)).
+In one case, it is a part of the gaming crowd going berserk against women that do [serious gaming](https://imgur.com/0o1uOPx) (like they like to think they do) or even some who do write games (See [this](https://twitter.com/Spacekatgal/status/520727151503757313), [Brianna's story](https://twitter.com/Spacekatgal/status/520739878993420290) and [here](http://venturebeat.com/2014/10/10/game-developer-brianna-wu-leaves-home-after-receiving-death-threats-for-speaking-out-in-support-of-women/)).
 
 In the other, it is part of the [InfoSec](https://en.wikipedia.org/wiki/Information_security) crowd doing the same, verbally if not physically abusing women that speak up.  Trying to push women away from this industry.  Just look how [Kevin Mitnick](https://en.wikipedia.org/wiki/Kevin_Mitnick) threathened to [call Randi's boss](https://twitter.com/freebsdgirl/status/518627837020884993) and make her lose her job.  Of course, being the courageous individual he is, he deleted the tweets afterward (sorry, the Internet does not forget).
 
