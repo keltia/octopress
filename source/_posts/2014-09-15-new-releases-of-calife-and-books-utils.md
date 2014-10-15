@@ -3,6 +3,7 @@ layout: post
 title: "New releases of calife &amp; books-utils"
 date: 2014-09-15 15:47:37 +0200
 comments: true
+sharing: true
 categories: software calife books-utils ruby english C
 ---
 

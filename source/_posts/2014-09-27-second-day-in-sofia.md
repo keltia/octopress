@@ -3,6 +3,7 @@ layout: post
 title: "Second day in Sofia"
 date: 2014-09-27 14:01:53 +0300
 comments: true
+sharing: true
 categories: freebsd devsummit sofia eurobsdcon english
 ---
 

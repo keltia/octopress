@@ -3,6 +3,7 @@ layout: post
 title: "SF&amp;F 2013 discovery: Lindsay Buroker"
 date: 2014-09-21 17:04:05 +0200
 comments: true
+sharing: true
 categories: sff steampunk author discovery 2013 english
 ---
 
