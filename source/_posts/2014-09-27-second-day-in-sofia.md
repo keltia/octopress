@@ -13,9 +13,9 @@ The first one was about the various new tools we have introduced in our developm
 
 See {% img http://assets.keltia.net/photos/EuroBSDCon-2014/Devsummit/medium/devsummit-5347.jpg 'Arcanist for Phabricator' 'Arcanist, bapt' %}
 
-Next we had a session on [DNS](http://en.wikipedia.org/wiki/Domain_Name_System) and how we use it in FreeBSD, both for serving zones and resolving names.  [DNSSEC](http://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions) is also very important, especially now that we have a validating resolver in base ([Unbound](http://en.wikipedia.org/wiki/Unbound_(DNS_server)).
+Next we had a session on {% wp Domain_Name_System "DNS" %} and how we use it in FreeBSD, both for serving zones and resolving names.  {% wp Domain_Name_System_Security_Extensions "DNSSEC" %} is also very important, especially now that we have a validating resolver in base ({% wp Unbound_(DNS_server) "Unbound" %}).
 
-During the afternoon, we had an interesting discussion with [John-Mark Gurney](https://twitter.com/encthenet) about all things crypto inside FreeBSD such as the Open Crypto framework, different algorithms and evolution (such as optimizing [SHA-256](http://en.wikipedia.org/wiki/SHA-2) which is pretty important for [ZFS](http://en.wikipedia.org/wiki/ZFS)).
+During the afternoon, we had an interesting discussion with [John-Mark Gurney](https://twitter.com/encthenet) about all things crypto inside FreeBSD such as the Open Crypto framework, different algorithms and evolution (such as optimizing {% wp SHA-2 "SHA-256" %}) which is pretty important for {% wp ZFS %}).
 
 During the evening, we had our second social event in a restaurant in the mountains with some local singing and dance, see the pictures and videos [here](http://assets.keltia.net/photos/EuroBSDCon-2014/Social1/index.html)
 
