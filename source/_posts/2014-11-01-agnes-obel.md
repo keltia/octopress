@@ -4,7 +4,7 @@ title: "Agnes Obel, la magie à l'état pur"
 date: 2014-11-01 17:18:06 +0100
 comments: true
 sharing: true
-categories: musique piano contrebasse magie fan
+categories: musique piano contrebasse magie fan french
 ---
 
 Grâce à [Radio Paradise](http://radioparadise.com/) j'ai récemment découvert une artiste danoise appelée Agnes Obel.
