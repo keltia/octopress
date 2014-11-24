@@ -49,11 +49,13 @@ Fin novembre, ayant un petit coup de blues (cf. mes [derniers articles du blog](
 
 _So long Pentax, and thanks for all the fish_{% fnin %}Toutes mes excuses à feu Douglas Adams.{% endfnin %}
 
+J'ai donc craqué pour le Fujifilm X-T1 (photo au dessus), qui reste le plus proche dans la gamme d'un reflex en terme d'ergonomie, avec ce viseur EVF exceptionnel et ses optiques fixes.
+
 Plein de changements donc :
 
 - passage à un appareil hybride, plus petit et compact et surtout plus léger ;
 - changement de focale, plus de zoom que des focales fixes ;
-- l'objectif principale n'est plus un équivalent 50mm comme l'était mon FA 31mm mais le XF23mm/f1.4 (donc un équivalent 35mm) d'où un changement important de perspective et donc une autre manière de prendre des photos ;
+- l'objectif principal n'est plus un équivalent 50mm comme l'était mon FA 31mm mais le XF23mm/f1.4 (donc un équivalent 35mm) d'où un changement important de perspective et donc une autre manière de prendre des photos ;
 - enfin un grand angle lumineux avec le XF14mm/f2.8 ;
 - et l'incontournable pour loi, le sublime XF56mm/f1.2, mon premier objectif si lumineux.
 
