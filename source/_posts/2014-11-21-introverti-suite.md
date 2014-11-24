@@ -36,7 +36,7 @@ Cette peur{% fnin %}Je connais très bien la litanie du {% wp Bene_Gesserit "Ben
 On n'a qu'une vie par contre et il n'y a pas de meilleure raison pour faire quelque chose.
 
 Je crois que la meilleure illustration sera ce dessin, vu passer il y a deux ans sur FB…
-{% img http://assets.keltia.net/images/life-easier-small.jpg "Pancarte" "Pancarte" %}
+{% img /images/life-easier-small.jpg "Pancarte" "Pancarte" %}
 …mais ça n'enlève pas la peur.
 
 Des fois, j'envie les extravertis quand même… mais finalement non. Aussi difficile que soit cette vie, c'est la mienne.
