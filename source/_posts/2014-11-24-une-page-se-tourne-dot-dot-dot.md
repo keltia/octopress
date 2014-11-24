@@ -74,4 +74,6 @@ Cet appareil et ces objectifs sont vraiment géniaux, c'est l'occasion de me ren
 
 L'album complet du concert est [ici](http://assets.keltia.net/photos/Norig-2014/).
 
+Notes
+-----
 {%footnotes_inline%}
