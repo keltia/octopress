@@ -9,7 +9,7 @@ categories: photo french hybride reflex pentax fujifilm
 
 ## Historique
 
-Ca faisait plus d'un an que ça me travaillait et c'est fait : après plus de 8 ans dans le monde numérique Pentax avec différents boitiers et objectifs (l'historique est [ici](https://www.keltia.net/articles/photography/cameras/), j'ai revendu mon matériel pour passer sur un appareil hybride.
+Ca faisait plus d'un an que ça me travaillait et c'est fait : après plus de 8 ans dans le monde numérique Pentax avec différents boitiers et objectifs, j'ai revendu mon matériel pour passer sur un appareil hybride.
 
 Pourtant, je venais de renouveler mon boitier l'année dernière avec le Pentax K-3, un superbe reflex comme je les aime, qui est bien entendu compatible avec mes objectifs, achetés au fil des ans, amoureusement pour constituer une sorte de sac photo idéal… mais lourd.
 <!--more-->
