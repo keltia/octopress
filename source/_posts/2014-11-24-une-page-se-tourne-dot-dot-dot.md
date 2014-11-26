@@ -21,13 +21,13 @@ Mon splendide objectif macro (cf. [ces photos](https://www.flickr.com/search/?te
 
 Un historique des mes divers appareils et objectifs se trouve [ici](https://www.keltia.net/articles/photography/cameras/).
 
-Du coup, ces derniers temps, je ne prenais pas toujours mon sac photo avec moi, ou alors juste le petit sac, avec forcément moins d'objectifs et j'ai fait beaucoup de photos avec le téléphone et ce n'est pas la même chose (même si je suis le premier à dire que les iPhone 5, 5S et 6 font d'excellents appareils photos — d'où la mort quasi-effective des compacts _point-and-shoot_).
+Du coup, ces derniers temps, je ne prenais pas toujours mon sac photo avec moi, ou alors juste le petit sac, avec forcément moins d'objectifs et j'ai fait beaucoup de photos avec le téléphone et ce n'est pas la même chose (même si je suis le premier à dire que les iPhone 5, 5S et 6 font d'excellents appareils photos — d'où la mort quasi-effective des compacts _point-and-shoot_). Tout comme à l'époque du vol de mon appareil argentique, le compact que j'avais racheté, aussi bon qu'il était, ne le remplaçait pas vraiment.
 
 ## L'erreur
 
 En novembre dernier, j'ai beaucoup réfléchit, me demandant si ça ne devenait pas le moment de passer à un hybride, ces nouveaux appareils plus compacts, sans le viseur optique et le miroir qui se relève, ces deux caractéristiques des reflex qui en font aussi la taille et le poids. Et encore, je n'ai jamais eu de reflex _full frame_ (avec une capteur 24x36 comme les appareils argentiques), dont les optiques sont _de facto_ plus grosses et plus lourdes pour accomoder le capteur plus grand.
 
-Les hybrides à l'époque étaient principalement les Olympus, au capteur encore plus petit que les APS-C (facteur de correction de x2), excellents au demeurant mais j'hésitais à descendre de taille ou les Sony émergents mais plus chers et franchement, je n'aime pas Sony pour plein de raisons (pas seulement liées à la photo d'ailleurs).
+Les hybrides à l'époque étaient principalement les Olympus, au capteur encore plus petit que les APS-C (facteur de correction de x2), excellents au demeurant mais j'hésitais à descendre de taille ou les Sony émergents mais plus chers et franchement, je n'aime pas Sony pour plein de raisons (pas seulement liées à la photo d'ailleurs). Le viseur électronique était également un problème, généralement trop lent, peu précis et peu lumineux. Les hybrides façon télémétrique (Fujifilm X-Pro1 ou X-E1 copiant les Leica sur le _look_ si ce n'est la fonctionnalité{% fnin %}Le X-Pro1 a un vrai viseur télémétrique optique, les X-E1/E2 n'ont qu'un EVF mais avec la même manière de l'utiliser.{% endfnin %}) ne m'intéressant pas vraiment…
 
 Du coup, mon K-5 prenant de l'âge (ce qui n'est pas un problème) et perdant de la valeur (ce qui en est un), j'ai décidé de prendre le K-3 qui venait de sortir quelques mois avant. Il avait tout pour plaire, un meilleur capteur (24 Mpxls), une meilleure gestion de l'exposition (86k zones au lieu de 77), un auto-focus bien amélioré mais aussi toujours compatible avec mes objectifs, toujours avec un boitier compact très agréable.
 
