@@ -57,7 +57,7 @@ Plein de changements donc :
 - changement de focale, plus de zoom que des focales fixes ;
 - l'objectif principal n'est plus un équivalent 50mm comme l'était mon FA 31mm mais le XF23mm/f1.4 (donc un équivalent 35mm) d'où un changement important de perspective et donc une autre manière de prendre des photos ;
 - enfin un grand angle lumineux avec le XF14mm/f2.8 ;
-- et l'incontournable pour loi, le sublime XF56mm/f1.2, mon premier objectif si lumineux.
+- et l'incontournable pour moi, le sublime XF56mm/f1.2, mon premier objectif si lumineux.
 
 Je n'ai pas remplacé le 55-300mm, on verra à l'usage si ça me pénalise, il y a de toute manière le 55-200mm/f4-5.8 chez Fuji.
 
