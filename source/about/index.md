@@ -73,3 +73,19 @@ You can find it on the current PGP servers like pgp.mit.edu or [here](https://ww
 ## Security stuff
 
 You can also find stuff on [Keybase](https://keybase.io/roberto), a new site aiming to do "crypto for the masses".
+
+## Legal Stuff
+
+This is a private blog, written solely by me, the author.  Most of its content is usable under the Creative Commons license called CC BY-NC-SA 3.0 (see [Wikipedia](http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) for exact terms and references).
+
+All images on Flickr & 500px are Copyright © by Ollivier Robert (unless specified otherwise), please contact me before using any of these.
+
+According to Art.6 of the French law « Loi de confiance dans l'économie numérique » (aka LCEN), I have to declare that this site is hosted on a dedicated machine by the following company:
+
+ONLINE SAS<br/>
+BP 438<br/>
+75366 PARIS CEDEX 08<br/>
+FRANCE<br/>
+
+If you need to contact the author of the site, please use the contact info above.
+
