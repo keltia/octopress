@@ -29,7 +29,7 @@ My Goodread profile with most of my books is [there](https://www.goodreads.com/u
 
 * Typography is also something I'm interested in, mostly French but also English as well.  That includes fonts and how to write correctly.
 
-* I listen to music all the time.  My favourite band is [Dead Can Dance](http://deadcandance.com/), closely followed by old songs from Deep Purple, Genesis, Jethro Tull and even some Hard Rock/Metal like Metallica, Iron Maiden and Apocalyptica.  I also like the music from Pat Benatar, Loreena McKennitt.
+* I listen to music all the time.  My favourite band is [Dead Can Dance](http://deadcandance.com/), closely followed by old songs from Deep Purple, Genesis, Jethro Tull and even some Hard Rock/Metal like Metallica, Iron Maiden and Apocalyptica.  I also like the music from Pat Benatar, Loreena McKennitt, Agnes Obel and many more.
 
 * Cats, I just love them.
 
