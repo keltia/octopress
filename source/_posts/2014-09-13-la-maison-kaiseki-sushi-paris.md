@@ -4,7 +4,7 @@ title: "La Maison Kaiseki Sushi - Paris"
 date: 2014-09-13 23:59:22 +0200
 comments: true
 sharing: true
-categories: resto sushi japonais
+categories: resto sushi japonais french
 ---
 
 Fort de la recommandation de [Farzad](https://twitter.com/Farzy) qui apprécie beaucoup les vrais restaurants de sushi, je suis allé goûter à la cuisine « créative » du chef Hisayuki Takeuchi à la [Maison Kaiseki](http://www.kaiseki.com/index_html.html).
