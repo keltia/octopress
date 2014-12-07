@@ -60,6 +60,8 @@ PS : voici une photo de l'entrée que j'avais prise la première fois, là enco
 
 {% img http://assets.keltia.net/blog/zen-00001.jpg 'toro ciboulette' 'Toro haché ciboulette' %}
 
+PPS : oui, je m'aperçois seulement maintenant que j'ai écrit un article parlant d'un restaurant *japonais* un 7 décembre.
+
 ### Conclusion
 
 Comme la première fois, excellente cuisine dans un cadre original et sympa, très bon service par un personnel professionnel et serviable, efficace et souriant. Les prix sont assez élevés (mais pas autant que [Kaiseki](/2014/09/13/la-maison-kaiseki-sushi-paris/) heureusement), dans la norme des *vrais* japonais.
