@@ -7,7 +7,7 @@ sharing: true
 categories: resto sushi japonais french
 ---
 
-J'ai déjà parlé de la Maison Zen sur [Twitter]() il y a quelques mois, l'ayant découvert par hasard en utilisant une application iOS qui permet de trouver des points d'intérêts autour de soi, la bien nommée [AroundMe](https://itunes.apple.com/us/app/aroundme/id290051590). Ayant passé une partie de l'après midi avec un copain à prendre des photos dans le coin, je me suis dit que c'était une bonne idée d'y repasser.
+J'ai déjà parlé de la Maison Zen sur [Twitter]() il y a quelques mois, l'ayant découvert par hasard en utilisant une application iOS qui permet de trouver des points d'intérêts autour de soi, la bien nommée [AroundMe](https://itunes.apple.com/us/app/aroundme/id290051590). Ayant passé une partie de l'après-midi avec un copain à prendre des photos dans le coin, je me suis dit que c'était une bonne idée d'y repasser.
 
 ### Résumé
 
@@ -46,7 +46,7 @@ Les makis de *toro* et ciboulette sont aussi appétissants :)
 
 Le tout est d'une excellente fraîcheur, servi rapidement et évidement je me délecte de voir la préparation devant moi (même si le comptoir masque un peu trop, les meilleures places avec une meilleure vue sont réservées) ainsi que ce qui est servi aux autres clients{% fnin %}Je suis arrivé à l'ouverture à 19h, très peu de monde mais ça se remplit très rapidement, réservez si vous êtes plusieurs…{% endfnin %}.
 
-Une fois n'est pas coutume — les restaurants japonais et asiatiques en générale ne sont pas réputés pour leurs desserts — voyant un dessert à la fraise{% fnin %}Mon fruit préféré, comment avez-vous deviné ?{% endfnin %}, je craque et la vision (et le goût !) est au rendez-vous. Jugez par vous mêmes :
+Une fois n'est pas coutume — les restaurants japonais et asiatiques en général ne sont pas réputés pour leurs desserts — voyant un dessert à la fraise{% fnin %}Mon fruit préféré, comment avez-vous deviné ?{% endfnin %}, je craque et la vision (et le goût !) est au rendez-vous. Jugez par vous mêmes :
 
 {% img http://assets.keltia.net/blog/zen-05872.jpg 'Gâteau fraise' 'Gâteau à la fraise' %}
 
