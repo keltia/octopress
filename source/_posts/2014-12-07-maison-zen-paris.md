@@ -30,7 +30,7 @@ La première fois que j'y allé au mois d'août, le chef m'avait même offert{% 
 
 ### La cuisine
 
-On reste sur du sushi-bar assez classque mais il n'y a pas que les sushis/sashimis mais plein d'autre plats aussi — comme les brochettes évidemment mais aussi des plats de viandes cuites, etc. Je reste quant à moi sur ma passion pour les nigiris :)
+On reste sur du sushi-bar assez classique mais il n'y a pas que les sushis/sashimis mais plein d'autre plats aussi — comme les brochettes évidemment mais aussi des plats de viandes cuites, etc. Je reste quant à moi sur ma passion pour les nigiris :)
 
 Après avoir choisi un assortiment de nigiris et un maki de {% wp Thon_gras 'toro' fr %} ou thon gras{% fnin %}Le toro est mon poisson favori mais il reste très rare et/ou très cher dans les restaurants… {% endfnin %} haché + ciboulette, on m'apporte une petite salade de légumes d'hiver, très bonne :
 
