@@ -7,7 +7,7 @@ sharing: true
 categories: resto sushi japonais french
 ---
 
-J'ai déjà parlé de la Maison Zen sur [Twitter]() il y a quelques mois, l'ayant découvert par hasard en utilisant une application iOS qui permet de trouver des points d'intérêts autour de soi, la bien nommée [AroundMe](https://itunes.apple.com/us/app/aroundme/id290051590). Ayant passé une partie de l'après-midi avec un copain à prendre des photos dans le coin, je me suis dit que c'était une bonne idée d'y repasser.
+J'ai déjà parlé de la Maison Zen sur [Twitter](https://twitter.com/Keltounet/status/498189644241334272) il y a quelques mois, l'ayant découvert par hasard en utilisant une application iOS qui permet de trouver des points d'intérêts autour de soi, la bien nommée [AroundMe](https://itunes.apple.com/us/app/aroundme/id290051590). Ayant passé une partie de l'après-midi avec un copain à prendre des photos dans le coin, je me suis dit que c'était une bonne idée d'y repasser.
 
 ### Résumé
 
