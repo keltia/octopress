@@ -23,7 +23,7 @@ Durant cette époque, nous avons installé des systèmes de pare-feu Internet, c
 
 On installait des {% wp Solaris_%28syst%C3%A8me_d%27exploitation%29 "SunOS4" fr %} un peu partout avec le HSC GateKeeper, nom du logiciel _firewall_ écrit à l'origine par Christophe, amélioré par moi et réécrit après par Marc Baudoin dans le cadre de la société Solsoft, créé pour l'occasion (et disparue depuis). Nous intervenions à l'AFUU{% fnin %}L'Association française des utilisateurs d'UNIX (AFUU) co-fondée par Hervé.{% endfnin %}, au Groupe SUR devenu l'[OSSIR](http://www.ossir.org/), au GERET (groupe des utilisateurs de RENATER) et autres conférences.
 
-C'était les premiers débuts d'Internet en France avec aussi la création de World-Net et FranceNet, les premiers fournisseurs d'accès grand public (même si ça n'a réellement percé qu'avec l'avènement de l'{% wp Asymmetric_Digital_Subscriber_Line "ADSL" fr %} plus tard, vers 1998-1999). Hervé avait un peu tendance à engager ses copains, ce qui donnait une équipe assez soudée et on a été plein à se succéder ainsi.
+C'était les débuts d'Internet en France avec aussi la création de World-Net et FranceNet, les premiers fournisseurs d'accès grand public (même si ça n'a réellement percé qu'avec l'avènement de l'{% wp Asymmetric_Digital_Subscriber_Line "ADSL" fr %} plus tard, vers 1998-1999). Hervé avait un peu tendance à engager ses copains, ce qui donnait une équipe assez soudée et on a été plein à se succéder ainsi.
 
 Christophe et Hervé sont aussi à l'origine de la création de la hiérarchie `fr.*` de {% wp Usenet "Usenet" fr %}, dont je m'occupe toujours en tant que Control.
 
