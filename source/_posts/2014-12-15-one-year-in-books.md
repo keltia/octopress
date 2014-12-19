@@ -35,7 +35,7 @@ I managed to read almost 40 books in 2014 (see my [Reading Challenge](https://ww
 
 ### Old authors
 
-- "The Others" #1 and #2 by [Anne Bishop](http://www.annebishop.com/).  I have been a great fan of the "Black Jewels" trilogy (and the other books in the series as well — except for "The Invisible Ring").  She returned with a urban fantasy (you know, modern stteing, werewolves, vampires and so on) which is one of the growing genres these days but with many twists and new characters.  I absolutely loved these two books (third one is for March or April — arghhh){% fnin %}Oh dear, while I was writing this article and checking on GR for references, I saw that she is planning for at least two more books…{% endfnin %}.
+- "The Others" #1 and #2 by [Anne Bishop](http://www.annebishop.com/).  I have been a great fan of the "Black Jewels" trilogy (and the other books in the series as well — except for "The Invisible Ring").  She returned with a urban fantasy (you know, modern setting, werewolves, vampires and so on) which is one of the growing genres these days but with many twists and new characters.  I absolutely loved these two books (third one is for March or April — arghhh){% fnin %}Oh dear, while I was writing this article and checking on GR for references, I saw that she is planning for at least two more books…{% endfnin %}.
 
 - "Shadows Return" by [Lynn Flewelling](http://www.sff.net/people/Lynn.Flewelling/).  I was very fond of the previous "Nightrunner" books, as I am of the "Tamír Triad".  That one is a lot darker and maybe dragging itself a bit, too long.  Still two books to go on the series.
 
@@ -52,7 +52,7 @@ I managed to read almost 40 books in 2014 (see my [Reading Challenge](https://ww
 - Final note in this section with "Dominion", a novella by [C.S. Friedman](http://www.csfriedman.com/) (again one of my favourite authors ever) set in the "Coldfire Trilogy" world.  You have to read all these.  Really.  Everything by C.S. Friedman in fact.
 
 ### New authors
-
+1
 The {% wp Steampunk "Steampunk" %} subgenre has been around for a long time (does the name Jules Verne strikes any chord? :)) but it has been recently coming back with a vengeance, with new authors.
 
 - [Lindsay Buroker](http://www.lindsayburoker.com/), even though I discovered her back in 2013 (see [this article](/2014/09/21/sf-and-f-2013-discovery-lindsay-buroker/)) is a new author here.  I read many of her books this year; from the "old" series of the "Emperor's Edge" to her new series "Dragon Blood" and "Rust and Relics".  I love her books.
