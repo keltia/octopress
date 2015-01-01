@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Un mois avec le X-T1 [LONG]"
+title: "Un mois avec le X-T1 (LONG + photos)"
 date: 2015-01-01 17:26:46 +0100
 comments: true
 sharing: true
@@ -11,7 +11,7 @@ Introduction
 ------------
 Ça fait un peu plus d'un mois que j'utilise le [Fujifilm X-T1](/une-page-se-tourne-dot-dot-dot/) comme appareil photo principal (l'iPhone 6 qui me tient lieu aussi de téléphone est toujours là :)) et je dois dire que ça me fait un bien fou.
 
-Cet appareil est tout simplement fantastique. Attention, cet article n'est pas une revue en tant que telle, d'autres s'y sont très bien pris pendant les mois suivant sa sortie, comme [DPreview (EN)](http://www.dpreview.com/reviews/fujifilm-x-t1) ou [Focus numérique (FR)](http://www.focus-numerique.com/test-1833/compact-a-objectifs-interchangeables-fujifilm-x-t1-presentation-caracteristiques-1.html) mais plus un retour d'expérience d'un photographe amateur, n'ayant pas plus de prétention que de se faire plaisir :)
+Cet appareil est tout simplement fantastique. Attention, cet article n'est pas un test en tant que tel, d'autres s'y sont très bien pris pendant les mois suivant sa sortie, comme [DPreview (EN)](http://www.dpreview.com/reviews/fujifilm-x-t1) ou [Focus numérique (FR)](http://www.focus-numerique.com/test-1833/compact-a-objectifs-interchangeables-fujifilm-x-t1-presentation-caracteristiques-1.html) mais plus un retour d'expérience d'un photographe amateur, n'ayant pas plus de prétention que de se faire plaisir :)
 <!--more-->
 ## Le look
 
