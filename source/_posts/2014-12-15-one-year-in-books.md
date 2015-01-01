@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2014 in books"
+title: "2014 in books (UPDATED)"
 date: 2014-12-15 20:49:06 +0100
 comments: true
 sharing: true
@@ -9,9 +9,11 @@ categories: english books reading ebooks
 
 2014 has been a very good year for my reading.  In fact, I have not read that many books in a year for a long time and am pretty happy about it.  Reading is very important to me and has been for a long time now, I remember thoroughly scrubbing the SciFi section of my town's library in the '80 (« Fleuve Noir », « Présence du futur »…) clean of everything I haven't read :)
 
-What made 2014 so efficient?  Foremost the desire to read more of course but the most important thing that happened is me buying that iPad Mini Retina in Oct, 2013.  I've switched from physical books to ebooks a long time ago, when all my books were still in cardboard following our move from one flat to another{% fnin %}Do not ask why there were still in cardboard after 5 years.{% endfnin %}.  Maybe I will devote an article to the subject…
+What made 2014 so efficient?  Foremost the desire and will to read more of course but the most important thing that happened is me buying that iPad Mini Retina back in Oct, 2013.  I've switched from physical books to ebooks a long time ago, when all my books were still in cardboard following our move from one flat to another{% fnin %}Do not ask why there were still in cardboard after 5 years.{% endfnin %}.  Maybe I will devote an article to the subject of ebooks…
+
+UPDATE: Finally got 42 books (yeah for #geek in me!) in for 2014, thanks Corwin of Amber :)
 <!--more-->
-Did I bought a e-reader then?  No, I was not ready to add yet another device for me to drag around.  Phone, generally a computer, digital camera, lenses and stuff.  I bought an iPad before (that was even before the iPad Mini was out) and while I enjoyed it for Twitter, surfing and the likes, it was definitely too heavy.  The screen was slightly too big too (yes, too big: reading a single page made it too big and in two page mode, they were too small).
+Did I bought a e-reader with {% wp E_Ink "e-Ink" %} then?  No, I was not ready to add yet another device for me to drag around.  Phone, generally a computer, digital camera, lenses and stuff.  I bought an iPad before (that was even before the iPad Mini was out) and while I enjoyed it for Twitter, surfing and the likes, it was definitely too heavy.  The screen was slightly too big too (yes, too big: reading a single page made it too big and in two page mode, they were too small).
 
 I was also reading on my iPhone often because, well, I did not always took my iPad with me (size, weight, remember?).  I even used my old HTC phone even though the screen was really crappy.
 
@@ -19,7 +21,7 @@ The original iPad Mini was nice (ideal size and much lighter!) but the screen re
 
 So I am now happily reading a lot of books on it.
 
-I used to use the iBooks application to read because the synchronization was really easy with [Calibre](https://www.keltia.net/programs/calibre/) but when Apple broke it with 10.9, I switched to [Marvin](https://itunes.apple.com/us/app/marvin-ebook-reader-for-epub/id667361209?mt=8) (which I heartily recommend!).
+I used to use the iBooks application to read because the synchronization was really easy with [Calibre](https://www.keltia.net/programs/calibre/) but when Apple broke it with 10.9, I switched to [Marvin](https://itunes.apple.com/us/app/marvin-ebook-reader-for-epub/id667361209?mt=8) (which I heartily recommend!).  Using the "nightly" theme and low-level of brightness, it may not be as effective as e-Ink mais it is pretty darn good.
 
 ## The list!
 
@@ -32,6 +34,8 @@ I managed to read almost 40 books in 2014 (see my [Reading Challenge](https://ww
 ### Old books
 
 - "The Godwars" trilogy by [Angus Wells](https://www.goodreads.com/author/show/15733.Angus_Wells).  It is probably not well-known, not the best ever fantasy trilogy but I do enjoy it everytime I read it.  It was quite difficult (and pricy!) to find it in ebook format.
+
+- I finally got in the three first Amber books in the last days of 2014.  The "Chronicles of Amber" by [Roger Zelazny](https://www.goodreads.com/author/show/3619.Roger_Zelazny)  is an old favourite of mine, even though I think I still have not forgiven him for dying before the completion of the series.  There too many fascinating loose ends{% fnin %}I'm looking at you both Logrus and Ghostweel, yes.{% endfnin %} in [Prince of Chaos](https://www.goodreads.com/book/show/61994.Prince_of_Chaos) that should have been connected in maybe 5 other books…  Many people dislike the second 5-book series with Merlin but I just think it is a different way to look at Amber and Merlin is a very interesting character to follow with both Amber and Chaos connections.
 
 ### Old authors
 
@@ -71,7 +75,7 @@ From time to time, it happens :)  I used to read a lot of computer books but the
 
 If I manage to read even more books this year, I will update this article.
 
-You may have noticed that all of these are in English.  Mostly due to my choice of reading genre, there are not that many French authors (although they fortunately exist) and for some reason, while I do love French, I pretty much prefer English ones.  I also happen to really really hate most of the translations ; SciFi is not a major genre in France so many editors will not choose the better translators and it really shows{% fnin %}Don't start me on "Sparhawk" being translated as « Émouchet » in Eddings' books. Please don't.{% endfnin %}.
+You may have noticed that all of these are in English.  Mostly due to my choice of reading genre, there are not that many French authors (although they fortunately exist) and for some reason, while I do love French, I pretty much prefer English ones.  I also happen to really really hate most of the translations ; SciFi is not a major genre in France so many editors will not choose the better translators and it really shows{% fnin %}Don't start me on "Sparhawk" being translated as « Émouchet » in Eddings' books. Please don't.{% endfnin %}.  I have been told the situation has improved though.
 
 There are some notable exceptions, the one I remember most particularly is Jean Bonnefoy who translated the [Hichhiker's Guide to the Galaxy](https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy?ac=1) by [Douglas Adams](http://www.douglasadams.com/) most spectacularly or the one who did [Piers Anthony](http://www.hipiers.com/)'s books ; they deserve heartfelt thanks for their work.
 
@@ -83,6 +87,7 @@ My profile on Goodreads is [here](https://www.goodreads.com/user/show/3581338-ol
 ### Series
 
 - [The Godwars](https://www.goodreads.com/series/49994-the-godwars)
+- [Chronicles of Amber](https://www.goodreads.com/series/40859-the-chronicles-of-amber)
 - [The Others](https://www.goodreads.com/series/99557-the-others)
 - [Black Jewels](https://www.goodreads.com/series/42209-the-black-jewels)
 - [Nightrunner series](https://www.goodreads.com/series/40357-nightrunner)
