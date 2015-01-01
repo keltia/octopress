@@ -51,9 +51,9 @@ Bref, que du bonheur.
 
 ## La qualité des images
 
-Ayant été relativement satisfait de la qualité des images venant de mes Pentax, je suis habitué au format {% wp APS-C "APS-C" fr %} et à ses limitations (photosites plus gros donc plus sensibles au bruit, profondeur de champ plus grande, etc.), je ne suis pas changé.
+Ayant été relativement satisfait de la qualité des images venant de mes Pentax, je suis habitué au format {% wp APS-C "APS-C" fr %} et à ses limitations (photosites plus petits donc plus sensibles au bruit, profondeur de champ plus grande, etc.), je ne suis pas changé.
 
-Ce qui l'est par contre, c'est ce capteur [X-Trans II](http://www.fujifilm.eu/fr/produits/appareils-photo-numeriques/appareils-a-objectif-interchangeable/model/x-t1/features/capteur-x-trans-ii-avance-et-processeur-exr-ii/), d'une technologie complètement différente de celle basée sur la {% wp Matrice_de_Bayer "Matrice de Beyer" fr %} est tout simplement étonnant dans sa définition, sa gestion du bruit et la qualité du rendu des couleurs. Fujifilm a réussi un exploit avec ce capteur.
+Ce qui l'est par contre, c'est ce capteur [X-Trans II](http://www.fujifilm.eu/fr/produits/appareils-photo-numeriques/appareils-a-objectif-interchangeable/model/x-t1/features/capteur-x-trans-ii-avance-et-processeur-exr-ii/), d'une technologie complètement différente de celle basée sur la {% wp Matrice_de_Bayer "Matrice de Beyer" fr %} est tout simplement étonnant dans sa définition, sa gestion du bruit, l'absence de filtre AA (_anti-aliasing_) et la qualité du rendu des couleurs. Fujifilm a réussi un exploit avec ce capteur.
 
 Malgré la baisse de définition comparé au K-3 (24 Mpxls vs 16.3 Mpxls) et la complexité pour les logiciels comme Lightroom à faire le post-traitement, les résultats (voir les photos de nuit en dessous) sont au rendez-vous et alliés à la qualité des objectifs Fujifilm, que de la satisfaction de ce côté.
 
@@ -67,7 +67,7 @@ J'ai donc uniquement des focales fixes :
 
 Les trois sont simplement fantastiques avec la mention « exceptionnel » pour le 56mm, avec son ouverture à ƒ1.2 et son {% wp Bokeh "bokeh" fr %} fabuleux.
 
-Ce choix assumé de ne pas avoir de zoom me permet de voir les choses différemment et me fait changer ma manière de vidualiser et prendre des photos, c'est très stimulant et manifestement, j'en avais besoin !
+Ce choix assumé de ne pas avoir de zoom me permet de voir les choses différemment et me fait changer ma manière de visualiser et prendre des photos, c'est très stimulant et manifestement, j'en avais besoin !
 
 En soi, la gamme optique pourrait être plus étendue, même si je suis conscient qu'elle est très jeune et qu'elle va évoluer.
 
@@ -87,7 +87,7 @@ Aucun appareil n'est parfait et le X-T1 ne fait pas exception.
 
 L'auto-focus pourrait être plus efficace comme l'on signalé les revues, notamment sur les sujets en mouvement. Je ne fais pas souvent de photos de sport donc je suis moins gêné que d'autres mais c'est à noter que de temps en temps, quand on on en a besoin, il pourrait être plus efficace.
 
-Le *vrai* point noir vient principalement de la batterie qui est beaucoup trop faible en autonomie. Il est clair que l'EVF a une grosse part de responsabilité (et je n'utilese quasiment jamais le mode "live-view", préférant celui où le viseur électronique est enclenché par l'approche de l'œil et fait tout, visée et menus). J'ai deux batteries et heureusement, je me serais sinon trouver fort marri lors de mes deux promenades parisiennes.
+Le *vrai* point noir vient principalement de la batterie qui est beaucoup trop faible en autonomie. Il est clair que l'EVF a une grosse part de responsabilité (et je n'utilise quasiment jamais le mode "live-view", préférant celui où le viseur électronique est enclenché par l'approche de l'œil et fait tout, visée et menus). J'ai deux batteries et heureusement, je me serais sinon trouver fort marri lors de mes deux promenades parisiennes.
 
 L'autre point décevant dans une construction plutôt remarquable est la trappe cachant la carte SD. Pour un appareil sensé être tropicalisé, elle est trop facile à bouger, n'a pas l'air vraiment étanche et parait trop fragile. Sur un appareil de ce prix, c'est très dommage. Un effort Fujifilm que diable !
 
