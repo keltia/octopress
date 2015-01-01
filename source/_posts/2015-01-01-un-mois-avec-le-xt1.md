@@ -37,7 +37,7 @@ La détection de visage que je n'utilisais jamais sur le K-5/K-3 puisque limité
 
 Je passe sur les informations comme l'histogramme et autres affichées dedans, les revues l'ont fait mieux que moi. Je ne pensais sincèrement pas pouvoir dire un jour que je préfère un EVF au bon vieux viseur optique (OVF) mais soyons clair celui du X-T1 est supérieur à ce que j'ai eu avant.
 
-Les deux molettes principales (ISO et vitesse) restent par contre encore beaucoup sur le mode A, le X-T1 ayant une manière de géré automatiquement les ISO très bien faire, bien mieux que ce que j'avais sur le K-3 : Je peux spécifier non seulement l'intervalle utilisé en Auto-ISO mais aussi la vitesse minimale à respecter, 1/80s en l'occurrence pour moi afin d'éviter les flous de bougé quel que soit l'objectif monté (j'ai les 14mm, 23mm et 56mm soit 21mm, 35mm et 85mm resp. en équivalent 35mm).
+Les deux molettes principales (ISO et vitesse) restent par contre encore beaucoup sur le mode A, le X-T1 ayant une manière de gérer automatiquement les ISO très bien faire, bien mieux que ce que j'avais sur le K-3 : Je peux spécifier non seulement l'intervalle utilisé en Auto-ISO mais aussi la vitesse minimale à respecter, 1/80s en l'occurrence pour moi afin d'éviter les flous de bougé quel que soit l'objectif monté (j'ai les 14mm, 23mm et 56mm soit 21mm, 35mm et 85mm resp. en équivalent 35mm).
 
 {% img http://assets.keltia.net/blog/blog-15977.jpg "X-T1 arrière" "X-T1 arrière" %}
 
