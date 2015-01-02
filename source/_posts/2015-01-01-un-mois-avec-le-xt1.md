@@ -11,7 +11,7 @@ Introduction
 ------------
 Ça fait un peu plus d'un mois que j'utilise le [Fujifilm X-T1](/une-page-se-tourne-dot-dot-dot/) comme appareil photo principal (l'iPhone 6 qui me tient lieu aussi de téléphone est toujours là :)) et je dois dire que ça me fait un bien fou.
 
-Cet appareil est tout simplement fantastique. Attention, cet article n'est pas un test en tant que tel, d'autres s'y sont très bien pris pendant les mois suivant sa sortie, comme [DPreview (EN)](http://www.dpreview.com/reviews/fujifilm-x-t1) ou [Focus numérique (FR)](http://www.focus-numerique.com/test-1833/compact-a-objectifs-interchangeables-fujifilm-x-t1-presentation-caracteristiques-1.html) mais plus un retour d'expérience d'un photographe amateur, n'ayant pas plus de prétention que de se faire plaisir :)
+Cet appareil est tout simplement fantastique. Attention, cet article n'est pas un test en tant que tel, d'autres s'y sont très bien pris pendant les mois suivant sa sortie, comme [DPreview (EN)](http://www.dpreview.com/reviews/fujifilm-x-t1) ou [Focus numérique (FR)](http://www.focus-numerique.com/test-1833/compact-a-objectifs-interchangeables-fujifilm-x-t1-presentation-caracteristiques-1.html) mais plus un retour d'expérience d'un photographe amateur, n'ayant pas plus de prétention que de se faire plaisir :)  Enfin, cet appareil n'est pas forcément pour tout le monde, il est cher et à titre personnel, vu les objectifs que j'ai pris, certaines photos ne sont pas possible (animalier ou zolis navions notamment).
 <!--more-->
 ## Le look
 
@@ -79,23 +79,25 @@ Ce qu'il manque selon moi :
 
 - des longues focales fixes lumineuses comme les Pentax 200mm/ƒ2.8 et 300mm/ƒ4 voire plus longues.
 
-J'ai depuis le premier article acheté une bague d'adaptation Pentax-Fuji pour utiliser mon Vivitar Macro est très bien, là encore l'EVF et les fonctions d'aide à la mise au point manuelle (pseudo-stigmomètre ou colorisation des zones nettes) font un excellent travail.
+J'ai depuis le premier article acheté une bague d'adaptation Pentax-Fuji pour utiliser mon Vivitar Macro ; elle est très bien, là encore l'EVF et les fonctions d'aide à la mise au point manuelle (pseudo-stigmomètre ou colorisation des zones nettes) font un excellent travail.
 
 ## Les mauvais points
 
 Aucun appareil n'est parfait et le X-T1 ne fait pas exception.
 
-L'auto-focus pourrait être plus efficace comme l'on signalé les revues, notamment sur les sujets en mouvement. Je ne fais pas souvent de photos de sport donc je suis moins gêné que d'autres mais c'est à noter que de temps en temps, quand on on en a besoin, il pourrait être plus efficace.
+L'auto-focus pourrait être plus efficace comme l'on signalé les revues, notamment sur les sujets en mouvement. Je ne fais pas souvent de photos de sport donc je suis moins gêné que d'autres mais c'est à noter que de temps en temps, quand on en a besoin, il pourrait être plus efficace.
 
-Le *vrai* point noir vient principalement de la batterie qui est beaucoup trop faible en autonomie. Il est clair que l'EVF a une grosse part de responsabilité (et je n'utilise quasiment jamais le mode "live-view", préférant celui où le viseur électronique est enclenché par l'approche de l'œil et fait tout, visée et menus). J'ai deux batteries et heureusement, je me serais sinon trouver fort marri lors de mes deux promenades parisiennes.
+Le *vrai* point noir vient principalement de la batterie qui est beaucoup trop faible en autonomie. Il est clair que l'EVF a une grosse part de responsabilité (et je n'utilise quasiment jamais le mode "live-view", préférant celui où le viseur électronique est enclenché par l'approche de l'œil et fait tout, visée et menus). J'ai deux batteries et heureusement, je me serais sinon trouvé fort marri lors de mes deux promenades parisiennes.
 
 L'autre point décevant dans une construction plutôt remarquable est la trappe cachant la carte SD. Pour un appareil sensé être tropicalisé, elle est trop facile à bouger, n'a pas l'air vraiment étanche et parait trop fragile. Sur un appareil de ce prix, c'est très dommage. Un effort Fujifilm que diable !
 
 ## Conclusion
 
-Malgré ses défauts, ce X-T1 est probablement la meilleure chose qui soit arrivé dans ma photographie depuis mon passage à la photo numérique en [2006 (EN)](https://www.keltia.net/articles/photography/cameras/). Il est petit, très ergonomique, dispose d'une qualité d'image exceptionnelle dépassant souvent mes réflex récents. Je m'amuse beaucoup à reprendre des photos, j'essaie plus de choses sur la composition, le type de photos, etc.
+Malgré ses défauts, ce X-T1 est probablement la meilleure chose qui soit arrivéé dans ma photographie depuis mon passage à la photo numérique en [2006 (EN)](https://www.keltia.net/articles/photography/cameras/). Il est petit, très ergonomique, dispose d'une qualité d'image exceptionnelle dépassant souvent mes réflex récents. Je m'amuse beaucoup à reprendre des photos, j'essaie plus de choses sur la composition, le type de photos, etc.
 
-J'ai longtemps hésité donc à passer à un hybride, notamment sur le viseur et la gamme d'objectifs et après un mois à prendre plus de 1600 (!) photos, je ne regrette rien{% fnin %}À part avoir pris le modèle noir et non pas le Graphite Silver qui, malgré son prix plus élevé de 200 € quand même, est tellement plus joli…{% endfnin %}. Rétrospectivement, ma décision de prendre le 23mm et pas le 35mm que j'avais été habitué avec le K-3 a été une bonne décision (changement de perspective principalement).
+J'ai longtemps hésité donc à passer à un hybride, notamment sur le viseur et la gamme d'objectifs et après un mois à prendre plus de 1600 (!) photos, je ne regrette rien{% fnin %}À part avoir pris le modèle noir et non pas le Graphite Silver qui, malgré son prix plus élevé de 200 € quand même, est tellement plus joli…{% endfnin %}{% fnin %}Je sais, il est facile de justifier a posteriori un achat ou masquer des inconvénients. Ce n'est pas le cas ici, j'essaie d'être honnête :){% endfnin %}. Rétrospectivement, ma décision de prendre le 23mm et pas le 35mm auquel j'avais été habitué avec le K-3 a été une bonne décision (changement de perspective principalement).
+
+Merci aussi à Fujifilm d'avoir les objectifs que je voulais dans sa gamme X, j'ai eu du mal à me séparer des Pentax FA 31mm et FA* 85mm, les 23mm et 56mm sont des successeurs tout à fait valables :)
 
 Ça me fait du bien de [re-]prendre mon pied à faire des photos.
 
