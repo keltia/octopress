@@ -76,7 +76,7 @@ Cet appareil et ces objectifs sont vraiment géniaux, c'est l'occasion de me ren
 
 L'album complet du concert est [ici](http://assets.keltia.net/photos/Norig-2014/).
 
-(la suite à cet article sur mon expérience avec le X-T1 est [ici](/2015/01/01/un-mois-avec-le-xt1/).
+M-A-J : la suite à cet article sur mon expérience avec le X-T1 est [ici](/2015/01/01/un-mois-avec-le-xt1/).
 
 Notes
 -----
