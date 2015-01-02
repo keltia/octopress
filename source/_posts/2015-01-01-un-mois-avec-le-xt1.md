@@ -97,7 +97,7 @@ Malgré ses défauts, ce X-T1 est probablement la meilleure chose qui soit arriv
 
 J'ai longtemps hésité donc à passer à un hybride, notamment sur le viseur et la gamme d'objectifs et après un mois à prendre plus de 1600 (!) photos, je ne regrette rien{% fnin %}À part avoir pris le modèle noir et non pas le Graphite Silver qui, malgré son prix plus élevé de 200 € quand même, est tellement plus joli…{% endfnin %}{% fnin %}Je sais, il est facile de justifier a posteriori un achat ou masquer des inconvénients. Ce n'est pas le cas ici, j'essaie d'être honnête :){% endfnin %}. Rétrospectivement, ma décision de prendre le 23mm et pas le 35mm auquel j'avais été habitué avec le K-3 a été une bonne décision (changement de perspective principalement).
 
-Merci aussi à Fujifilm d'avoir les objectifs que je voulais dans sa gamme X, j'ai eu du mal à me séparer des Pentax FA 31mm et FA* 85mm, les 23mm et 56mm sont des successeurs tout à fait valables :)
+Merci aussi à Fujifilm d'avoir les objectifs que je voulais dans sa gamme X, j'ai eu du mal à me séparer des Pentax FA 31mm et FA* 85mm, les 23mm et 56mm sont des successeurs tout à fait valables :)
 
 Ça me fait du bien de [re-]prendre mon pied à faire des photos.
 
