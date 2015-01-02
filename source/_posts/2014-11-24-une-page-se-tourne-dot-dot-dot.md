@@ -25,7 +25,7 @@ Du coup, ces derniers temps, je ne prenais pas toujours mon sac photo avec moi, 
 
 ## L'erreur
 
-En novembre dernier, j'ai beaucoup réfléchit, me demandant si ça ne devenait pas le moment de passer à un hybride, ces nouveaux appareils plus compacts, sans le viseur optique et le miroir qui se relève, ces deux caractéristiques des reflex qui en font aussi la taille et le poids. Et encore, je n'ai jamais eu de reflex _full frame_ (avec une capteur 24x36 comme les appareils argentiques), dont les optiques sont _de facto_ plus grosses et plus lourdes pour accomoder le capteur plus grand.
+En novembre dernier, j'ai beaucoup réfléchi, me demandant si ça ne devenait pas le moment de passer à un hybride, ces nouveaux appareils plus compacts, sans le viseur optique et le miroir qui se relève, ces deux caractéristiques des reflex qui en font aussi la taille et le poids. Et encore, je n'ai jamais eu de reflex _full frame_ (avec un capteur 24x36 comme les appareils argentiques), dont les optiques sont _de facto_ plus grosses et plus lourdes pour accomoder le capteur plus grand.
 
 Les hybrides à l'époque étaient principalement les Olympus, au capteur encore plus petit que les APS-C (facteur de correction de x2), excellents au demeurant mais j'hésitais à descendre de taille ou les Sony émergents mais plus chers et franchement, je n'aime pas Sony pour plein de raisons (pas seulement liées à la photo d'ailleurs). Le viseur électronique était également un problème, généralement trop lent, peu précis et peu lumineux. Les hybrides façon télémétrique (Fujifilm X-Pro1 ou X-E1 copiant les Leica sur le _look_ si ce n'est la fonctionnalité{% fnin %}Le X-Pro1 a un vrai viseur télémétrique optique, les X-E1/E2 n'ont qu'un EVF mais avec la même manière de l'utiliser.{% endfnin %}) ne m'intéressant pas vraiment…
 
@@ -41,7 +41,7 @@ Le questionnement demeure et a continué à me travailler toute l'année 2014 et
 
 Le prix reste élevé, comparable à celui mon reflex donc changer encore une semblait évidemment inenvisageable (et franchement pas raisonnable)… L'année se passe, je fait mes photos comme à l'habitude ([BSDCan]() à Ottawa, le BBQ annuel au boulot, les vacances, etc.).
 
-Vient, comme tous les ans, le Salon de la photo. J'y passe en coup de vent, pas vraiment le temps en fait et, finalement je ne fais qu'un seul stand… Fujifilm. Je teste les optiques qui sont là, le XF23mm/ƒ1.4, le zoom 18-135/ƒ3.5-5.6 OIS et surtout le XF56mm/ƒ1.2{% fnin %}J'ai une obsession avec les grandes ouvertures et la profondeur de champ, c'est comme ça…{% endfnin %} dont tout le monde parle et dit qu'il est magnifique. Je confirme.
+Vient, comme tous les ans, le Salon de la photo. J'y passe en coup de vent, pas vraiment le temps en fait et, finalement je ne fais qu'un seul stand… Fujifilm. Je teste les optiques qui sont là, le XF23mm/ƒ1.4, le zoom 18-135mm/ƒ3.5-5.6 OIS et surtout le XF56mm/ƒ1.2{% fnin %}J'ai une obsession avec les grandes ouvertures et la profondeur de champ, c'est comme ça…{% endfnin %} dont tout le monde parle et dit qu'il est magnifique. Je confirme.
 
 Fin novembre, ayant un petit coup de blues (cf. mes [derniers articles du blog](/categories/moi/)), je décide de sauter le pas… J'ai pu revendre le K-3 et les deux zooms qui vont avec (le DA 18-135mm et le DA 55-300mm) dans la boutique [Le Cirque](http://www.lecirque.fr/) sur le boulevard des filles du calvaire à Paris.
 
@@ -59,9 +59,9 @@ Plein de changements donc :
 - enfin un grand angle lumineux avec le XF14mm/ƒ2.8 ;
 - et l'incontournable pour moi, le sublime XF56mm/ƒ1.2, mon premier objectif si lumineux.
 
-Je n'ai pas remplacé le 55-300mm, on verra à l'usage si ça me pénalise, il y a de toute manière le 55-200mm/ƒ4-5.8 chez Fuji qui a l'air vraiment pas mal.
+Je n'ai pas remplacé le 55-300mm, on verra à l'usage si ça me pénalise, il y a de toute manière le [55-200/ƒ3.5-4.8 R LM OIS](http://www.fujifilm.com/products/digital_cameras/x/fujinon_lens_xf55_200mmf35_48_r_lm_ois/) chez Fujifilm qui a l'air vraiment pas mal.
 
-Le seul regret que j'ai pour l'instant est l'absence de réel objectif macro chez Fuji, le XF60mm/ƒ2.4 n'ayant qu'un rapport 1:2 en macro ce qui n'est pas suffisant pour ce que je fais. Un 90mm/ƒ2 devrait sortir en 2015, je l'attends avec impatience… s'il est bien macro. En attendant j'ai commandé un adaptateur pour le Vivitar ([celui-ci sur eBay](http://www.ebay.fr/itm/131278690350?ssPageName=STRK:MEWNX:IT&_trksid=p3984.m1497.l2649)).
+Le seul regret que j'ai pour l'instant est l'absence de réel objectif macro chez Fuji, le [XF60mm/ƒ2.4 R Macro](http://www.fujifilm.com/products/digital_cameras/x/fujinon_lens_xf60mmf24_r_macro/) n'ayant qu'un rapport 1:2 en macro ce qui n'est pas suffisant pour ce que je fais. Un 90mm/ƒ2 devrait sortir en 2015, je l'attends avec impatience… s'il est bien macro. En attendant j'ai commandé un adaptateur pour le Vivitar ([celui-ci sur eBay](http://www.ebay.fr/itm/131278690350?ssPageName=STRK:MEWNX:IT&_trksid=p3984.m1497.l2649)).
 
 ## Quelques photos (quand même :))
 
@@ -75,6 +75,8 @@ Exemple :
 Cet appareil et ces objectifs sont vraiment géniaux, c'est l'occasion de me renouveler en photo, des nouvelles habitudes, du changement, tout ce que j'aime. Là, je peux dire que je ne regrette pas.
 
 L'album complet du concert est [ici](http://assets.keltia.net/photos/Norig-2014/).
+
+(la suite à cet article sur mon expérience avec le X-T1 est [ici](/2015/01/01/un-mois-avec-le-xt1/).
 
 Notes
 -----
