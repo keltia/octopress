@@ -93,7 +93,7 @@ L'autre point décevant dans une construction plutôt remarquable est la trappe 
 
 ## Conclusion
 
-Malgré ses défauts, ce X-T1 est probablement la meilleure chose qui soit arrivéé dans ma photographie depuis mon passage à la photo numérique en [2006 (EN)](https://www.keltia.net/articles/photography/cameras/). Il est petit, très ergonomique, dispose d'une qualité d'image exceptionnelle dépassant souvent mes réflex récents. Je m'amuse beaucoup à reprendre des photos, j'essaie plus de choses sur la composition, le type de photos, etc.
+Malgré ses défauts, ce X-T1 est probablement la meilleure chose qui soit arrivée dans ma photographie depuis mon passage à la photo numérique en [2006 (EN)](https://www.keltia.net/articles/photography/cameras/). Il est petit, très ergonomique, dispose d'une qualité d'image exceptionnelle dépassant souvent mes réflex récents. Je m'amuse beaucoup à reprendre des photos, j'essaie plus de choses sur la composition, le type de photos, etc.
 
 J'ai longtemps hésité donc à passer à un hybride, notamment sur le viseur et la gamme d'objectifs et après un mois à prendre plus de 1600 (!) photos, je ne regrette rien{% fnin %}À part avoir pris le modèle noir et non pas le Graphite Silver qui, malgré son prix plus élevé de 200 € quand même, est tellement plus joli…{% endfnin %} {% fnin %}Je sais, il est facile de justifier a posteriori un achat ou masquer des inconvénients. Ce n'est pas le cas ici, j'essaie d'être honnête :){% endfnin %}. Rétrospectivement, ma décision de prendre le 23mm et pas le 35mm auquel j'avais été habitué avec le K-3 a été une bonne décision (changement de perspective principalement).
 
