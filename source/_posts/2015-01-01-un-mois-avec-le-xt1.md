@@ -23,7 +23,7 @@ Ordoncque, son aspect proche des reflex que j'ai utilisé pendant longtemps me p
 
 ## L'ergonomie
 
-J'avoue que si de prime abord, venant de reflex avec les petites molettes faisant tout en fonction de paramètres dans le menu (genre ouverture devant et vitesse derrière, ou l'inverse voire autre chose), les grosses molettes dédiées du X-T1 (ISO, vitesse et compensation d'exposition) me laissait un peu dubitatif{% fnin %}Le mot est sans doute un peu exagéré ici, je l'aurais _vraiment_ été que l'achat ne serait sans doute pas concrétisé.{% endfnin %} mais au final, c'est un retour aux sources et je suis *très* content.
+J'avoue que si de prime abord, venant de reflex avec les petites molettes faisant tout en fonction de paramètres dans le menu (genre ouverture devant et vitesse derrière, ou l'inverse voire autre chose), les grosses molettes dédiées du X-T1 (ISO, vitesse et compensation d'exposition) me laissait un peu dubitatif{% fnin %}Le mot est sans doute un peu exagéré ici, je l'aurais _vraiment_ été que l'achat ne se serait sans doute pas concrétisé.{% endfnin %} mais au final, c'est un retour aux sources et je suis *très* content.
 
 Je me prends à utiliser de plus en plus la compensation d'exposition{% fnin %}Notamment pour les photos de nuit.{% endfnin %}, aidé en celà par l'immense et génial, que dis-je, sublime viseur électronique (EVF en anglais).
 
