@@ -27,6 +27,8 @@ My Goodread profile with most of my books is [there](https://www.goodreads.com/u
 
 * [Cryptography](https://www.keltia.net/topics/cryptography) has been of interest to me even before I owned my first computer (a ZX-81 if you want to know) back in 1980… My list of previously owned computers include an Oric Atmos, a Sinclair QL and various PCes.
 
+* [Photography](https://www.keltia.net/topic/photography/) in case you haven't noticed on the site before :)
+
 * Typography is also something I'm interested in, mostly French but also English as well.  That includes fonts and how to write correctly.
 
 * I listen to music all the time.  My favourite band is [Dead Can Dance](http://deadcandance.com/), closely followed by old songs from Deep Purple, Genesis, Jethro Tull and even some Hard Rock/Metal like Metallica, Iron Maiden and Apocalyptica.  I also like the music from Pat Benatar, Loreena McKennitt, Agnes Obel and many more.
