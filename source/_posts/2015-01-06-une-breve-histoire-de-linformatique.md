@@ -103,7 +103,7 @@ Autre anecdote, j'ai acheté beaucoup de livres informatique dont celui de réf�
 
 J'y ai aussi piraté mon premier logiciel (le jeu d'échec de PSION Chess{% fnin %}Il y a prescription hein :){% endfnin %}) et, pendant mon apprentissage du langage C avec le compilateur Lattice C (alors _leader_ mondial des compilateurs sur Atari notamment, avant que Microsoft C{% fnin %}Comme souvent avec eux, MS avait acquit une licence Lattice C et le vendait sous son nom.{% endfnin %} et Turbo C ne le surpassent dans le monde PC), énervé d'avoir trop de bugs dans le compilateur et ses bibliothèques, je l'avais désassemblé et patché pour corriger les plus gros problèmes…
 
-Ce fut par ailleurs les déficiences de ce compilateur sur QL que la nouvelle étape est arrivée, le monde PC.
+Ce fut par ailleurs à cause des déficiences de ce compilateur sur QL que la nouvelle étape est arrivée, le monde PC.
 
 Les premiers PC (1987)
 ----------------------
