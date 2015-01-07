@@ -166,6 +166,8 @@ C'est en 1988, poussé par une de mes profs à l'IUT (Edwige P. sois-en éternel
 
 Suite au prochain épisode, celui-ci étant déjà fort (trop ?) long.
 
+(les images sont issues de la bibliothèque Wiki Commons, stockées localement pour aller plus vite)
+
 Références
 ----------
 
