@@ -11,7 +11,7 @@ categories: french préhistoire informatique dino sinclair pc unix
 
 Préambule
 ---------
-Avant que vous ne vous désespériez du titre{% fnin %}J'ai failli l'intituler « De l'histoire de l'informatique », j'aime bien les deux, en fait même si ce deuxième fait plus vieux français :){% endfnin %} de ce billet, non, je ne vais pas vous rabâcher une N-ième redite de l'Histoire (avec un grand H) de l'informatique. De multiples articles et livres ont précédé celui-ci — fort probabalement en mieux d'ailleurs. Je ne vais pas non plus comme le commence notre ami [Glazou](http://www.glazman.org/weblog/) [ici](http://glazman.org/CdG/xhtml/intro.xhtml) écrire un livre sur le sujet.
+Avant que vous ne vous désespériez du titre{% fnin %}J'ai failli l'intituler « De l'histoire de l'informatique », j'aime bien les deux, en fait même si ce deuxième fait plus vieux français :){% endfnin %} de ce billet, non, je ne vais pas vous rabâcher une N-ième redite de l'Histoire (avec un grand H) de l'informatique. De multiples articles et livres ont précédé celui-ci — fort probablement en mieux d'ailleurs. Je ne vais pas non plus comme le commence notre ami [Glazou](http://www.glazman.org/weblog/) [ici](http://glazman.org/CdG/xhtml/intro.xhtml) écrire un livre sur le sujet.
 
 Il n'a pour but que de relater mon expérience personnelle en la matière, laquelle traverse quand même peu ou prou 34 ans de mon existence (oui, j'ai passé plus de temps avec un ordinateur que sans, enfance comprise). Ce n'est pas non plus, j'espère, un billet sur le « ah c'était mieux avant »{% fnin %}Je vous le jure, c'était différent et même si j'ai beaucoup aimé les débuts, la période actuelle est quand même aussi intéressante.{% endfnin %} en mode « ancien combattant ». Quoique… vous jugerez :).
 
