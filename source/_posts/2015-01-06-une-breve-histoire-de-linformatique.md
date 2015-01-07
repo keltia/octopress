@@ -47,7 +47,7 @@ Le ZX81 (tout comme son prédécesseur le ZX80) était l'œuvre d'un britannique
 
 {% img http://assets.keltia.net/blog/320px-Oric1_01.jpg "Oric 1" "Oric 1" %}
 
-On passe là dans une tout autre dimension :
+On passe là dans une toute autre dimension :
 
 - processeur {% wp MOS_Technology_6502 "6502" fr %}, le même que l'Apple II mais à 1 MHz ;
 - « vrai » clavier assez caouchouteux, toujours QWERTY (mais US cette fois-ci, avec le #) ;
