@@ -29,7 +29,7 @@ Ordoncques, mon père, se disant que ça pouvait m'intéresser, m'acheta pour mo
 
 Les seules machines ayant des claviers français furent celles conçues en France comme les fameux {% wp Thomson_TO7 "TO7" fr %} et {% wp Thomson_MO5 "MO5" fr %}, lesquelles n'apparurent qu'après, en 1982. Ou encore l'{% wp Alice_(ordinateur) "Alice" fr %} pour les débuts de Matra-Hachette dans le domaine…
 
-Ce ZX81 donc, se programmait en {% wp BASIC "BASIC" fr %}, un langage de programmation inventé en 1963 et popularisé par les mcrio-ordinateurs précédemment cités (PET, Apple II, etc.). Très primitif encore, il était très limité par la mémoire de la machine, dotée de… *1* Ko.  Oui, oui, « un kilo-octet » de mémoire, il n'y a pas de faute{% fnin %}L'extension de mémoire de 16 Ko était assez chère…{% endfnin %}.
+Ce ZX81 donc, se programmait en {% wp BASIC "BASIC" fr %}, un langage de programmation inventé en 1963 et popularisé par les micro-ordinateurs précédemment cités (PET, Apple II, etc.). Très primitif encore, il était très limité par la mémoire de la machine, dotée de… *1* Ko.  Oui, oui, « un kilo-octet » de mémoire, il n'y a pas de faute{% fnin %}L'extension de mémoire de 16 Ko était assez chère…{% endfnin %}.
 
 J'ai donc commencé à m'y intéresser mais c'était trop peu pour faire beaucoup de choses, avouons-le. J'ai vaguement commencé regarder l'Assembleur mais la manière existant pour insérer le code dans la machine consistait à insérer un commentaire dans un programme BASIC, lequel allait modifier ledit commentaire pour y insérer, octet par octet, les instructions machine (du code auto-modifiant donc).
 
@@ -57,7 +57,7 @@ On passe là dans une tout autre dimension :
 
 Celui-ci fut co-financé entre mon père et moi par contre :)
 
-J'ai continué à faire de BASIC, l'assembleur me semblant assez limité (non tout le monde n'était pas fou du 6502 et de son {% wp "assembleur" fr %}, la manipulation avec la page 0, etc. sur un processeur 8 bits, franchement bof. De mémoire, le plus gros programme que j''ai écrit dessus permettait de calculer… les impôts — pas très sexy, je sais).
+J'ai continué à faire du BASIC, l'assembleur me semblant assez limité (non tout le monde n'était pas fou du 6502 et de son {% wp "assembleur" fr %}, la manipulation avec la page 0, etc. sur un processeur 8 bits, franchement bof. De mémoire, le plus gros programme que j''ai écrit dessus permettait de calculer… les impôts — pas très sexy, je sais).
 
 J'avais en parallèle commencé à fréquenter le club Microtel de Vanves, où j'habitais alors. On y trouvait des {% wp SMT_Goupil "Goupil 1 & 2" fr %} avec des disquettes de 8 pouces et des langages « modernes » comme le compilateur UCSD {% wp Pascal_(langage) "Pascal" fr %}, ancètre des environnements de programmation connus maintenant sous le nom d'{% wp Environnement_de_développement "IDE" fr %} avec éditeur et compilateur intégrés.
 
@@ -72,7 +72,7 @@ La révolution arrive néanmoins.
 La révolution 32 bits : Sinclair QL (1985)
 ---------------------------------------------
 
-Comme chacun sait, Apple, après l'échec cuisant du {% wp Apple_Lisa "Lisa" fr %} en 1983, révolutionnaire mais ultra-cher (70 000 F soit plus de 10 000 €, à l'époque !), sort le Macintosh en 1984, doté comme lui d'un microprocesseur 16/32 bits{% fnin %}Le terme de 16/32 bits bien de la structure interne et externe du CPU, les registres sont sur 32 bits mais le bus de données est sur 16 et le bus d'adresses sur 24 bits — le premier ralentit les échanges avec la mémoire et le deuxième limite la mémoire à 16 Mo.{% endfnin %}, le {% wp Motorola_68000 "Motorola 68000" fr %}. Ce processeur est très important ici puisque dans sa variation {% wp Motorola_68008 "68008" fr %}{% fnin %}Le 68008 est 8/16/32 bits avec un bus de données sur 8 bits (donc encore plus lent mais compatible avec des puces 8 bits pour le reste de la machine) et un bus d'adresses sur 20 bits uniquement, soir 1 Mo adressable pour le QL.{% endfnin %}, il va équiper mon 3e ordinateur, le {% wp Sinclair_QL "Sinclair QL" fr %}.
+Comme chacun sait, Apple, après l'échec cuisant du {% wp Apple_Lisa "Lisa" fr %} en 1983, révolutionnaire mais ultra-cher (70 000 F soit plus de 10 000 €, à l'époque !), sort le Macintosh en 1984, doté comme lui d'un microprocesseur 16/32 bits{% fnin %}Le terme de 16/32 bits vient de la structure interne et externe du CPU, les registres sont sur 32 bits mais le bus de données est sur 16 et le bus d'adresses sur 24 bits — le premier ralentit les échanges avec la mémoire et le deuxième limite la mémoire à 16 Mo.{% endfnin %}, le {% wp Motorola_68000 "Motorola 68000" fr %}. Ce processeur est très important ici puisque dans sa variation {% wp Motorola_68008 "68008" fr %}{% fnin %}Le 68008 est 8/16/32 bits avec un bus de données sur 8 bits (donc encore plus lent mais compatible avec des puces 8 bits pour le reste de la machine) et un bus d'adresses sur 20 bits uniquement, soir 1 Mo adressable pour le QL.{% endfnin %}, il va équiper mon 3e ordinateur, le {% wp Sinclair_QL "Sinclair QL" fr %}.
 
 {% img http://assets.keltia.net/blog/320px-Working-Sinclair-QL.jpg "Sinclair QL" "Sinclair QL" %}
 
@@ -84,16 +84,16 @@ Après quelques temps, vers 1986 je crois, ayant quelque argent et désirant mie
 
 Grâce à cette machine et son OS, j'ai pu :
 
-- encore amélioré mon anglais (et pas qu'en lisant) ;
+- encore améliorer mon anglais (et pas qu'en lisant) ;
 - apprendre enfin un assembleur moderne et puissant ;
 - apprendre la programmation structurée ;
 - commencer à programmer justement des outils de cryptographie, passion qui m'avait pris juste avant l'informatique en 1980 ;
-- utiliser mes premiers logiciels bureautique livrés avec (Quill, Abacus, Archive et Easel) de Psion ;
+- utiliser mes premiers logiciels bureautique livrés avec (Quill, Abacus, Archive et Easel de Psion) ;
 - apprendre le langage C et commencer à réellement bidouiller le système.
 
 Incidemment, j'ai pu participer à la création de l'association QL Contact France (QLCF) avec notamment mes amis [Daniel Toussaint](https://twitter.com/linealisa), [René Durand](https://twitter.com/re_durand), [Wolf Lenerz](http://www.wlenerz.com/smsqe/) et d'autres…  QLCF mériterait un article en soi je pense, peut-être plus tard.
 
-Je me suis lancé avec bonheur dans la programmation en Assembleur 68000, mon premier{% fnin %}De 1986 à 1988 à l'IUT d'Orsay, j'ai aussi beaucoup joué avec l'assembleur IBM/360, également 32 bits mais différemment :)){% endfnin %}réllement utilisable (déjà les goût de luxe me direz-vous). Comme je l'ai mentionné au dessus, j'ai fait mes premiers programmes de cryptographie avec entre autre un système de {% wp Système_à_répertoires "nomenclateur" fr %} basé sur le système allemand "Schlusseleft" (de mémoire, voir la référence en la matière "The Codebreakers" de {% wp David_Kahn "David Kahn" fr %}) et un système de substitution polyalphabétique… que j'ai vendu ! {% fnin %}Je fréquentais beaucoup la boutique de l'importateur du QL, DIRECO, en ces temps reculés près du Métro Georges V, lequel, intéressé par mon petit logiciel, m'a permis d'aller à la grande messe sinclairienne à Londres pour le vendre. Le voyage, en voiture puis bateau avec été épique, l'un des autres passagers présent avait un peu de canabis et fumait dans la voiture… jusqu'au moment de passer la douane française, il avait pris peur et jeté le mégot :)) — _Good ol' times_ :){% endfnin %} Il avait bien évidemment une interface graphique, etc. entièrement en Assembleur 68000.
+Je me suis lancé avec bonheur dans la programmation en Assembleur 68000, mon premier {% fnin %}De 1986 à 1988 à l'IUT d'Orsay, j'ai aussi beaucoup joué avec l'assembleur IBM/360, également 32 bits mais différemment :)){% endfnin %}réllement utilisable (déjà le goût du luxe me direz-vous). Comme je l'ai mentionné au dessus, j'ai fait mes premiers programmes de cryptographie avec entre autre un système de {% wp Système_à_répertoires "nomenclateur" fr %} basé sur le système allemand "Schlusseleft" (de mémoire, voir la référence en la matière "The Codebreakers" de {% wp David_Kahn "David Kahn" fr %}) et un système de substitution polyalphabétique… que j'ai vendu ! {% fnin %}Je fréquentais beaucoup la boutique de l'importateur du QL, DIRECO, en ces temps reculés près du Métro Georges V, lequel, intéressé par mon petit logiciel, m'a permis d'aller à la grande messe sinclairienne à Londres pour le vendre. Le voyage, en voiture puis bateau avec été épique, l'un des autres passagers présent avait un peu de canabis et fumait dans la voiture… jusqu'au moment de passer la douane française, il avait pris peur et jeté le mégot :)) — _Good ol' times_ :){% endfnin %} Il avait bien évidemment une interface graphique, etc. entièrement en Assembleur 68000.
 
 Sinclair, avec l'échec du QL et de sa voiture électrique, a été racheté (et coulé) par son concurrent direct, {% wp Amstrad "Amstrad" fr %}, concepteur des CPC-64 et CPC-6128 (bouh). Autant dire que ne les aimant déjà pas avant le rachat, celu-ci n'a pas amélioré mon opinion de M. Allan Sugar. Le QL a eu une deuxième vie dans le monde PC avec la reprise du QDOS par son auteur, {% wp Sinclair_QDOS "Tony Tebby" fr %}. Voir le site de Wolf Lenerz déjà mentionné :)
 
@@ -140,7 +140,7 @@ L'environnement mériterait un article à lui tout seul mais résumons :
 
 ### Fin
 
-Pourquoi est-ce que je mentionne l'IUT, à partir pour vous donner quelques anecdotes sur cette période ? Parce que mon premier PC, acheté 7 000 F (aïe), j'ai réussi à le revendre 9 000 F après avoir changé processeur, mis plus de mémoire et je crois changé la carte graphique, travaillant à mes heures perdus pour un assembleur de PC venant de Taiwan…
+Pourquoi est-ce que je mentionne l'IUT, à part pour vous donner quelques anecdotes sur cette période ? Parce que mon premier PC, acheté 7 000 F (aïe), j'ai réussi à le revendre 9 000 F après avoir changé processeur, mis plus de mémoire et je crois changé la carte graphique, travaillant à mes heures perdus pour un assembleur de PC venant de Taiwan…
 
 Du coup, j'ai pu passé à mieux (tout étant relatif) c-a-d un compatible PC-AT avec son processeur 16 bits, le {% wp Intel_80286 "80286" %} et, royalement, un disque de 40 Mo (le Seagate ST-225 puis remplacé par un 80 Mo, le ST-4096 (voir ci-dessous) pleine hauteur), une carte EGA (16 couleurs parmi 64) _via_ mon meilleur ami qui s'en séparait.
 
