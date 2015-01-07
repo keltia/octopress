@@ -131,6 +131,7 @@ L'environnement mériterait un article à lui tout seul mais résumons :
     DIVIDE A INTO B GIVING C REMINDER D ROUNDED.
 
   (ne me remerciez pas, c'est cadeau. Oui, c'est juste une division entière avec arrondi)
+
 ### Fin
 
 Pourquoi est-ce que je mentionne l'IUT, à partir pour vous donner quelques anecdotes sur cette période ? Parce que mon premier PC, acheté 7 000 F (aïe), j'ai réussi à le revendre 9 000 F après avoir changé processeur, mis plus de mémoire et je crois changé la carte graphique, travaillant à mes heures perdus pour un assembleur de PC venant de Taiwan…
