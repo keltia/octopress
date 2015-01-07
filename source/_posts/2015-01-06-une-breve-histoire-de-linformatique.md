@@ -16,7 +16,7 @@ Avant que vous ne vous désespériez du titre{% fnin %}J'ai failli l'intituler �
 Il n'a pour but que de relater mon expérience personnelle en la matière, laquelle traverse quand même peu ou prou 34 ans de mon existence (oui, j'ai passé plus de temps avec un ordinateur que sans, enfance comprise). Ce n'est pas non plus, j'espère, un billet sur le « ah c'était mieux avant »{% fnin %}Je vous le jure, c'était différent et même si j'ai beaucoup aimé les débuts, la période actuelle est quand même aussi intéressante.{% endfnin %} en mode « ancien combattant ». Quoique… vous jugerez :).
 
 Ça a été une période magique avec constamment des choses à découvrir et à apprendre (une certaine définition de la vie selon moi). Non pas que la période actuelle n'ait pas les mêmes possibilités loin s'en faut mais on avait l'impression de défricher un terrain inconnu et j'étais quand même beaucoup plus jeune et la vision de l'avenir et de son développement est forcément différente.
-
+<!--more-->
 Il était une fois… le ZX81
 --------------------------
 Non, je n'ai pas commencé comme tant d'autres avec un {% wp Altair_8800 "Altair" fr %}, un {% wp Commodore_PET "Commodore PET" fr %} ou encore le célèbrissime {% wp Apple_II "Apple II" fr %}. Ma mémoire me fait un peu défaut je dois avouer mais je ne me souvient pas m'être intéressé plus que ça aux ordinateurs avant mon premier sauf à consulter des revues de temps en temps, les machines étant trop chères à l'époque (1981, j'avais 14 ans). J'ai bien du en toucher un ou deux dans des magasins mais j'étais bien incapable d'en faire quoi que ce soit.
