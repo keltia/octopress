@@ -35,6 +35,10 @@ J'ai donc commencé à m'y intéresser mais c'était trop peu pour faire beaucou
 
 Ce fut aussi l'occasion de lire en anglais, les bouquins en français étant très rares (et chers). Sans parler évidemment du fait que les documentations des ordinateurs étaient elles-aussi dans la langue de Shakespeare.
 
+J'avais même fait une démonstration du ZX81 dans mon collège, étant l'un des premiers élèves à avoir un ordinateur à la maison… Le collège lui-même venant de recevoir ses premiers TRS-80.
+
+{% img http://assets.keltia.net/blog/388px-TRS-80_Model_I_-_Rechnermuseum_Cropped.jpg "TRS-80" "TRS-80" %}
+
 Malgré ses piètres performances et possibilités, j'étais accroché :)
 
 Petite transition : Oric-1 (1983)
