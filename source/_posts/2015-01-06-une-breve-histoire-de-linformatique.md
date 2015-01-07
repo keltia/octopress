@@ -140,7 +140,7 @@ L'environnement mériterait un article à lui tout seul mais résumons :
 
 ### Fin
 
-Pourquoi est-ce que je mentionne l'IUT, à part pour vous donner quelques anecdotes sur cette période ? Parce que mon premier PC, acheté 7 000 F (aïe), j'ai réussi à le revendre 9 000 F après avoir changé processeur, mis plus de mémoire et je crois changé la carte graphique, travaillant à mes heures perdus pour un assembleur de PC venant de Taiwan…
+Pourquoi est-ce que je mentionne l'IUT, à part pour vous donner quelques anecdotes sur cette période ? Parce que mon premier PC, acheté 7 000 F (aïe), j'ai réussi à le revendre 9 000 F après avoir changé processeur, mis plus de mémoire et je crois changé la carte graphique, travaillant à mes heures perdues pour un assembleur de PC venant de Taiwan…
 
 Du coup, j'ai pu passer à mieux (tout étant relatif) c-a-d un compatible PC-AT avec son processeur 16 bits, le {% wp Intel_80286 "80286" %} et, royalement, un disque de 40 Mo (le Seagate ST-225 puis remplacé par un 80 Mo, le ST-4096 (voir ci-dessous) pleine hauteur), une carte EGA (16 couleurs parmi 64) _via_ mon meilleur ami qui s'en séparait.
 
