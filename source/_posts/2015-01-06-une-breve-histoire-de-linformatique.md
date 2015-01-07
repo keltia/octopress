@@ -11,7 +11,7 @@ categories: french préhistoire informatique dino sinclair pc unix
 
 Préambule
 ---------
-Avant que vous ne vous désespériez du titre{% fnin %}J'ai failli l'intituler « De l'histoire de l'informatique », j'aime bien les deux, en fait même si ce deuxième fait plus vieux français :){% endfnin %} de ce billet, non, je ne vais pas vous rabâcher une N-ième redite fr l'Histoire (avec un grand H) de l'informatique. De multiples articles et livres ont précédé celui-ci — fort probabalement en mieux d'ailleurs. Je ne vais pas non plus comme le commence notre ami [Glazou](http://www.glazman.org/weblog/) [ici](http://glazman.org/CdG/xhtml/intro.xhtml) écrire un livre sur le sujet.
+Avant que vous ne vous désespériez du titre{% fnin %}J'ai failli l'intituler « De l'histoire de l'informatique », j'aime bien les deux, en fait même si ce deuxième fait plus vieux français :){% endfnin %} de ce billet, non, je ne vais pas vous rabâcher une N-ième redite de l'Histoire (avec un grand H) de l'informatique. De multiples articles et livres ont précédé celui-ci — fort probabalement en mieux d'ailleurs. Je ne vais pas non plus comme le commence notre ami [Glazou](http://www.glazman.org/weblog/) [ici](http://glazman.org/CdG/xhtml/intro.xhtml) écrire un livre sur le sujet.
 
 Il n'a pour but que de relater mon expérience personnelle en la matière, laquelle traverse quand même peu ou prou 34 ans de mon existence (oui, j'ai passé plus de temps avec un ordinateur que sans, enfance comprise). Ce n'est pas non plus, j'espère, un billet sur le « ah c'était mieux avant »{% fnin %}Je vous le jure, c'était différent et même si j'ai beaucoup aimé les débuts, la période actuelle est quand même aussi intéressante.{% endfnin %} en mode « ancien combattant ». Quoique… vous jugerez :).
 
@@ -19,7 +19,7 @@ Il n'a pour but que de relater mon expérience personnelle en la matière, laque
 
 Il était une fois… le ZX81
 --------------------------
-Non, je n'ai pas commencé comme tant d'autres avec un {% wp Altair_8800 "Altair" fr %}, un {% wp Commodore_PET "Commodore PET" fr %} ou encore le célèbrissime {% wp Apple_II "Apple II" fr %}. Ma mémoire me fait un peu défaut je dois avouer mais je ne me souvient pas m'être intéressé vraiment aux ordinateurs avant mon premier sauf à consulter des revues de temps en temps, les machines étant trop chères à l'époque (1981, j'avais 14 ans).
+Non, je n'ai pas commencé comme tant d'autres avec un {% wp Altair_8800 "Altair" fr %}, un {% wp Commodore_PET "Commodore PET" fr %} ou encore le célèbrissime {% wp Apple_II "Apple II" fr %}. Ma mémoire me fait un peu défaut je dois avouer mais je ne me souvient pas m'être intéressé plus que ça aux ordinateurs avant mon premier sauf à consulter des revues de temps en temps, les machines étant trop chères à l'époque (1981, j'avais 14 ans). J'ai bien du en toucher un ou deux dans des magasins mais j'étais bien incapable d'en faire quoi que ce soit.
 
 Ordoncques, mon père, se disant que ça pouvait m'intéresser, m'acheta pour mon anniversaire un {% wp ZX81 "Sinclair ZX81" fr %}. Je dois dire que qu'elles qu'aient été ses attentes à l'époque, je pense les avoir « un peu » dépassées :)
 
@@ -59,7 +59,9 @@ J'avais en parallèle commencé à fréquenter le club Microtel de Vanves, où j
 
 Entre temps, Sinclair a sorti son ZX Spectrum mais prépare déjà son successeur, le rythme était rapide à cette époque.
 
-Vous remarquerez que l'on reste pour l'instant dans l'univers des machines 8 bits pour les micro-ordinateurs (hormis l'OVNI appelé {% wp TI-99/4A "TI-99/4A" fr %}, le premier disposant d'un processeur 16 bits, le TMS9900).
+Vous remarquerez que l'on reste pour l'instant dans l'univers des machines 8 bits pour les micro-ordinateurs (hormis l'OVNI appelé {% wp TI-99/4A "TI-99/4A" fr %}, le premier disposant d'un processeur 16 bits, le TMS9900). Pas d'Atari 600XL ou 800 ici, je ne les voyais vraiment que comme des consoles de jeux et ça ne m'intéressait pas.
+
+{% img http://assets.keltia.net/blog/320px-Atari-600XL-PC.jpg "Atari 600XL" "Atari 600XL" %}
 
 La révolution arrive néanmoins.
 
@@ -89,13 +91,13 @@ Incidemment, j'ai pu participer à la création de l'association QL Contact Fran
 
 Je me suis lancé avec bonheur dans la programmation en Assembleur 68000, mon premier{% fnin %}De 1986 à 1988 à l'IUT d'Orsay, j'ai aussi beaucoup joué avec l'assembleur IBM/360, également 32 bits mais différemment :)){% endfnin %}. Comme je l'ai dit au dessus, j'ai fait mes programmes de cryptographie avec entre autre un système de {% wp Système_à_répertoires "nomenclateur" fr %} basé le système allemand "Schlusseleft" (de mémoire, voir la référence en la matière "The Codebreakers" de {% wp David_Kahn "David Kahn" fr %}) et un système de substitution polyalphabétique… que j'ai vendu ! {% fnin %}Je fréquentais beaucoup la boutique de l'importateur du QL, DIRECO, en ces temps reculés près du Métro Georges V, lequel, intéressé par mon petit logiciel, m'a permis d'aller à la grande messe sinclairienne à Londres pour le vendre. Le voyage, en voiture puis bateau avec été épique, l'un des autres passagers présent avait un peu de canabis et fumait dans la voiture… jusqu'au moment de passer la douane française, il avait pris peur et jeté le mégot :)) — _Good ol' times_ :){% endfnin %}
 
-Sinclair, avec l'échec du QL et de sa voiture électrique, a été racheté (et coulé) par son concurrent direct, {% wp Amstrad "Amstrad" fr %}, concepteur des CPC-64 et CPC-6128 (bouh). Autant dire que ne les aimant pas avant le rachat, celu-ci n'a pas amélioré mon opinion de M. Allan Sugar. Le QL a eu une deuxième vie dans le monde PC avec la reprise du QDOS par son auteur, {% wp Sinclair_QDOS "Tony Tebby" fr %}.
+Sinclair, avec l'échec du QL et de sa voiture électrique, a été racheté (et coulé) par son concurrent direct, {% wp Amstrad "Amstrad" fr %}, concepteur des CPC-64 et CPC-6128 (bouh). Autant dire que ne les aimant déjà pas avant le rachat, celu-ci n'a pas amélioré mon opinion de M. Allan Sugar. Le QL a eu une deuxième vie dans le monde PC avec la reprise du QDOS par son auteur, {% wp Sinclair_QDOS "Tony Tebby" fr %}. Voir le site de Wolf Lenerz déjà mentionné :)
 
 Chapitre anecdote, à un moment, ma belle-mère voulant me faire un cadeau, m'avait proposé de choisir un logiciel et j'avais hésité entre l'interpréteur {% wp Forth_(langage) "Forth" fr %} et un compilateur {% wp BCPL "BCPL" fr %}, ancêtre du C. J'avoue mettre beaucoup amusé avec le 2e :)
 
 Autre anecdote, j'ai acheté beaucoup de livres informatique dont celui de référence sur le langage Ada (voir la référence dessous), je ne pouvais pas l'utiliser, les compilateurs étant trop gros et « professionnels » mais la lecture fut intéressante (et m'a conforter dans mon opinion des dérivés de Pascal, je n'aime pas).
 
-J'y ai aussi piraté mon premier logiciel (le jeu d'échec de PSION Chess{% fnin %}Il y a prescription hein :){% endfnin %}) et, pendant mon apprentissage du langage C avec le compilateur Lattice C (alors _leader_ mondial des compilateurs sur Atari notamment, avant que Microsoft C{% fnin %}Comme souvent avec eux, MS avait acquit une licence Lattice C et le vendait sous son nom.{% endfnin %} et Turbo C ne le surpassent dans le monde PC), énervé d'avoir trop de bugs dans le compilateur et ses bibliothèques, je l'avais décompilé et patché pour corriger les plus gros problèmes…
+J'y ai aussi piraté mon premier logiciel (le jeu d'échec de PSION Chess{% fnin %}Il y a prescription hein :){% endfnin %}) et, pendant mon apprentissage du langage C avec le compilateur Lattice C (alors _leader_ mondial des compilateurs sur Atari notamment, avant que Microsoft C{% fnin %}Comme souvent avec eux, MS avait acquit une licence Lattice C et le vendait sous son nom.{% endfnin %} et Turbo C ne le surpassent dans le monde PC), énervé d'avoir trop de bugs dans le compilateur et ses bibliothèques, je l'avais désassemblé et patché pour corriger les plus gros problèmes…
 
 Ce fut par ailleurs les déficiences de ce compilateur sur QL que la nouvelle étape est arrivée, le monde PC.
 
