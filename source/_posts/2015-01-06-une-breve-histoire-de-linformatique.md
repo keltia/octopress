@@ -99,7 +99,7 @@ Sinclair, avec l'échec du QL et de sa voiture électrique, a été racheté (et
 
 Chapitre anecdote, à un moment, ma belle-mère voulant me faire un cadeau, m'avait proposé de choisir un logiciel et j'avais hésité entre l'interpréteur {% wp Forth_(langage) "Forth" fr %} et un compilateur {% wp BCPL "BCPL" fr %}, ancêtre du C. J'avoue m'être beaucoup amusé avec le 2e :)
 
-Autre anecdote, j'ai acheté beaucoup de livres informatique dont celui de référence sur le langage Ada (voir la référence dessous), je ne pouvais pas l'utiliser, les compilateurs étant trop gros et « professionnels » mais la lecture fut intéressante (et m'a conforter dans mon opinion des dérivés de Pascal, je n'aime pas).
+Autre anecdote, j'ai acheté beaucoup de livres informatique dont celui de référence sur le langage Ada (voir la référence dessous), je ne pouvais pas l'utiliser, les compilateurs étant trop gros et « professionnels » mais la lecture fut intéressante (et m'a conforté dans mon opinion des dérivés de Pascal, je n'aime pas).
 
 J'y ai aussi piraté mon premier logiciel (le jeu d'échec de PSION Chess{% fnin %}Il y a prescription hein :){% endfnin %}) et, pendant mon apprentissage du langage C avec le compilateur Lattice C (alors _leader_ mondial des compilateurs sur Atari notamment, avant que Microsoft C{% fnin %}Comme souvent avec eux, MS avait acquit une licence Lattice C et le vendait sous son nom.{% endfnin %} et Turbo C ne le surpassent dans le monde PC), énervé d'avoir trop de bugs dans le compilateur et ses bibliothèques, je l'avais désassemblé et patché pour corriger les plus gros problèmes…
 
