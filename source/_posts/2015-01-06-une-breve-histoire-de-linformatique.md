@@ -129,7 +129,7 @@ L'environnement mériterait un article à lui tout seul mais résumons :
    (séduisant hein ?)
 
    (sans vouloir me vanter, à cette époque, débugger un programme c'était quelque chose. Heureusement on a un peu évolué depuis :))
-- un DPS-7 de Bull, horrible machin multi-utilisateurs sous GCOS7 et le langage {% wp PL/I "PL/1" fr %} ;
+- un DPS-7 de Bull, horrible machin multi-utilisateurs sous GCOS7 — tellement rapide qu'il fallait 10mn tous les matins pour s'y connecter — et le langage {% wp PL/I "PL/1" fr %} ;
 - encore plus de C, moi sous Microsoft C{% fnin %}Comme quoi, ils n'ont pas fait que des bétises, rendons à César, etc.{% endfnin %}, les copains avec Turbo C{% fnin %}Atteint par le syndrome regardons-comment-ce-compilateur-travaille à coup de désassemblage du code généré, je détestais le Turbo C de Borland, trop rapide pour être honnête et générant du code pourri. Mais vite. Mais pourri — « Cela dit, il est très rapide »{% endfnin %} ;
 - j'ai appris par un de mes professeurs qu'un mini-ordinateur de gestion avait 512 Ko de mémoire{% fnin %}Information fondamentale à connaitre, ayant déjà plus de mémoire sur mon QL de l'époque (ahem).{% endfnin %}. Le cours de ce monsieur — les méthodes de programmation notamment Merise — était, comment dire, très particulier. N'aimant pas {% wp Merise_(informatique) "Merise" fr %}, il avait développé la sienne. Autant vous dire que son cours n'a pas été très fréquenté…
 - j'ai donc appris le langage {% wp COBOL "COBOL" %}{% fnin %}Ne rigolez pas trop svp. Cela dit, avec mon bagage, ça n'a pas été trop compliqué à apprendre, premier devoir surveillé sur le sujet, aucune révision, mon binôme et moi avons eu 17. Facile.{% endfnin %}. Le langage de gestion sensé être lisible par un _manager_. Un exemple ?
