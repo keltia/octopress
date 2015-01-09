@@ -161,7 +161,7 @@ Pour ce qui est des évolutions des disques, il y a aura un 300 Mo {% wp ST-506#
 Il y eu entre temps au moins une carte mère {% wp Bus_EISA "EISA" fr %} avec la carte SCSI Adaptec correspondante (la 1740 de mémoire, la 1640 étant {% wp Micro_Channel_Architecture "MCA" fr %} et la 1540/1542 pour {% wp Industry_Standard_Architecture "ISA" fr %}){% fnin %}Z'avez vu la liste de sigles abscons, impressionnante n'est-ce-pas ? C'était notre quotidien :){% endfnin %}. Il y a eu aussi en vrac :
 
 - un Pentium 133 sur une carte mère ASUS T2P4{% fnin %}Pourquoi diable est-ce que je me souviens de tout ces détails ? Ça m'étonne moi même en fait.{% endfnin %} ;
-- un Pentium II/350MHz avec cette fois-ci des disques IDE (machine rachetée par cher à France-Teaser, alors fournisseur de connectivité {% wp Usenet "USENET" fr %} et {% wp Unix_to_Unix_Copy_Protocol "UUCP" fr %}) la mienne ayant mouru ;
+- un Pentium II/350MHz avec cette fois-ci des disques IDE (machine rachetée pas cher à France-Teaser, alors fournisseur de connectivité {% wp Usenet "USENET" fr %} et {% wp Unix_to_Unix_Copy_Protocol "UUCP" fr %}) la mienne ayant mouru ;
 - mon premier bi-processeur à base de Pentium Pro, nommée _tara_.
 
 (mais je m'avance, ça concerne plus l'article suivant que celui-ci, pardon)
