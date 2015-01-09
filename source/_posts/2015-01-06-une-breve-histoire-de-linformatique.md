@@ -57,7 +57,7 @@ On passe là dans une toute autre dimension :
 
 Celui-ci fut co-financé entre mon père et moi par contre :)
 
-J'ai continué à faire du BASIC, l'assembleur me semblant assez limité (non tout le monde n'était pas fou du 6502 et de son {% wp Assembleur "assembleur" fr %}, la manipulation avec la page 0, etc. sur un processeur 8 bits, franchement bof. De mémoire, le plus gros programme que j''ai écrit dessus permettait de calculer… les impôts — pas très sexy, je sais).
+J'ai continué à faire du BASIC, l'assembleur me semblant assez limité (non tout le monde n'était pas fou du 6502 et de son {% wp Assembleur "assembleur" fr %}, la manipulation avec la page 0, etc.) sur un processeur 8 bits, franchement bof. De mémoire, le plus gros programme que j''ai écrit dessus permettait de calculer… les impôts — pas très sexy, je sais.
 
 J'avais en parallèle commencé à fréquenter le club Microtel de Vanves, où j'habitais alors. On y trouvait des {% wp SMT_Goupil "Goupil 1 & 2" fr %} avec des disquettes de 8 pouces et des langages « modernes » comme le compilateur UCSD {% wp Pascal_(langage) "Pascal" fr %}, ancètre des environnements de programmation connus maintenant sous le nom d'{% wp Environnement_de_développement "IDE" fr %} avec éditeur et compilateur intégrés.
 
