@@ -78,7 +78,7 @@ Comme chacun sait, Apple, après l'échec cuisant du {% wp Apple_Lisa "Lisa" fr 
 
 Cet ordinateur va me propulser dans un autre monde, celui où le système d'exploitation, {% wp Sinclair_QDOS "QDOS" fr %}, devient plus important pour moi que ce qu'il fait tourner (i.e. les applications). Celui-ci était multitâches{% fnin %}De manière préemptive c-a-d que le noyau interrompait tous les processus régulièrement pour changer de tâches, contrairement au systèmes type MacOS (pré-OSX) qui eux, demandaient la coopération des processus pour changer la main.{% endfnin %}, disposait d'un système de fenêtrage et d'un BASIC amélioré — le SuperBASIC – permettant la programmation structurée.
 
-Le système d'enregistrement et sauvegarde, un système de microlecteur de bandes (le fameux {% wp ZX_Microdrive "microdrive" fr %}), réputé pour sa fragilité (je confirme) et son manque de stockage (je confirme aussi, 100 Ko…). Cela dit, et ce n'est pas une boutade, ça restait beaucoup plus rapide que les lecteurs de cassettes audio.
+Le système d'enregistrement et de sauvegarde, un système de microlecteur de bandes (le fameux {% wp ZX_Microdrive "microdrive" fr %}), réputé pour sa fragilité (je confirme) et son manque de stockage (je confirme aussi, 100 Ko…). Cela dit, et ce n'est pas une boutade, ça restait beaucoup plus rapide que les lecteurs de cassettes audio.
 
 Après quelques temps, vers 1986 je crois, ayant quelque argent et désirant mieux travailler, j'ai acheté un lecteur de disquettes 3 pouces (oh le bonheur…).
 
