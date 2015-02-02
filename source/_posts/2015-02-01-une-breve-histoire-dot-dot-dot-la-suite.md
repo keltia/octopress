@@ -64,7 +64,7 @@ Ce fut aussi l'occasion de rencontrer certains autres personnages qui devinrent 
 
 {% wp FidoNet "FidoNet" fr %} était, d'une certaine manière, calqué sur le réseau {% wp Unix_to_Unix_Copy_Protocol "UUCP" fr %} mais avec une architecture fortement hiérarchisée pour répartir au mieux et surtout au plus proche les coûts téléphoniques, organisé en pays et en régions. Des passerelles existent toujours d'ailleurs entre Usenet et FidoNet.
 
-Le monde des BBS s'est progressivement réduit à la fin des années 1990 suite à l'essor en parallèle de Usenet et des forums web après (lesquels ont globalement bouffé Usenet aussi d'ailleurs, pour notre malheur).
+Le monde des BBS s'est progressivement réduit à la fin des années 1990 suite à l'essor en parallèle de Usenet et des forums web après, lesquels ont globalement bouffé Usenet aussi d'ailleurs pour notre malheur.
 
 L'aventure UNIX (1988 et au-delà)
 ---------------------------------------------
