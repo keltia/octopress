@@ -136,7 +136,7 @@ On y aura vu la loi de Godwin, les premiers {% wp "SPAMS" fr %} avec les avocats
 
 Avec tout ceci, la partie sur les UNIX libres est passé un peu à la trappe, va falloir un 3e article… :)
 
-Merci encore à vous lectrices-lecteurs.
+Merci encore à vous lectrices-lecteurs.  Merci à deuzeffe pour la relecture.
 
 Références
 ----------
