@@ -132,7 +132,7 @@ Je me souviens que dans ma période la plus prolixe en la matière, vers 1996 j'
 
 L'autre anecdote amusante que je n'ai pas eu le temps de raconter à PSES concerne une erreur de traduction : un jour, un non-francophone avait publié un article (dans `fr.misc.divers` peut-être) demandant pourquoi les Français étaient si fan de la plongée sous-marine. Après quelques interrogations, ne comprenant pas de prime abord le rapport avec le sujet et la hiérarchie, je compris… En anglais, « plongeurs » se dit _divers_, venant de _to dive_, et il est clair qu'il n'y a rien de plus proche de _divers_ que « divers » (`fr.misc.divers` `fr.usenet.divers`, etc.). :)
 
-On y aura vu la loi de Godwin, les premiers {% wp "SPAMS" fr %} avec les avocats Canter & Siegel et la "Green Card", les lettres-chaînes du type "MAKE MONEY FAST", les annonces de la naissance de Linux et du Web, de multiples discussions enflammées comme celle entre Andrew Tanenbaum et Linus Torvalds à propos de Linux…
+On y aura vu la loi de Godwin, les premiers {% wp Spam "SPAMS" fr %} avec les avocats Canter & Siegel et la "Green Card", les lettres-chaînes du type "MAKE MONEY FAST", les annonces de la naissance de Linux et du Web, de multiples discussions enflammées comme celle entre Andrew Tanenbaum et Linus Torvalds à propos de Linux…
 
 Avec tout ceci, la partie sur les UNIX libres est passé un peu à la trappe, va falloir un 3e article… :)
 
