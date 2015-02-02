@@ -9,7 +9,7 @@ categories: french préhistoire informatique dino pc unix
 
 De retour
 ---------
-Nous voici de retour dans cette brève (haha) histoire de *mon* informatique qui, ainsi que je le disait dans l'article précédent, n'a pas vocation à autre chose que vous faire partager mon parcours dans ces temps de naissance de l'informatique {% fnin %}Vous pouvez aussi dire que mes paragraphes sont trop longs, je plaide coupable.{% endfnin %}. Au sommaire, de la communication avec les {% wp Bulletin_board_system "BBS" %} et [enfin ?] de l'UNIX et du libre :)
+Nous voici de retour dans cette brève (haha) histoire de *mon* informatique qui, ainsi que je le disait dans l'[article précédent](/2015/01/06/une-breve-histoire-de-linformatique/), n'a pas vocation à autre chose que vous faire partager mon parcours dans ces temps de naissance de l'informatique {% fnin %}Vous pouvez aussi dire que mes paragraphes sont trop longs, je plaide coupable.{% endfnin %}. Au sommaire, de la communication avec les {% wp Bulletin_board_system "BBS" %} et [enfin ?] de l'UNIX et du libre :)
 
 L'accouchement n'est pas facile, je dois dire que les événements du 7 janvier m'ont vraiment marqué et revenir à cet exercice d'écriture est compliqué, je sollicite donc ton indulgence chère-cher lectrice-lecteur…
 <!--more-->
