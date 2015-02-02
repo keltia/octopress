@@ -42,7 +42,9 @@ Je m'en suis acheté un (ne me demandez pas le prix; probablement aux alentours 
 
 On y trouvait des forums de discussion (le principal intérêt de ces serveurs), parfois des espaces de téléchargement de logiciels _freeware_ (gratuits donc) et _shareware_ (pour lesquels il était demandé de payer après une période de test) et parfois plus{% fnin %}On y trouvait aussi à quelques endroits des logiciels commerciaux, avec des noms comme Warez ou SLC, étant dans l'illégalité…{% endfnin %}. Ce mo
 
-Suite à des discussions avec certains sur ModulaBBS que j'ai pu participer à un « petit midi », appellation donnée à un repas (précédé par un apéro bien évidemment) avec le même cercle d'habitués comprenant cette fois-ci René Cougnenc, Serge Delbono, Sam Cabannes et Christian « Bubulle » Perrier. C'est grâce à ce déjeuner que j'ai pu accéder à Li'LL BBS d'ailleurs, tenu par Attila Altan. Li'LL BBS, tournant sous {% wp PCBoard "PCBoard" fr %}, était connecté à plusieurs réseaux différents (avec ModulaBBS notamment) y compris {% wp FidoNet "FidoNet" fr %}{% fnin %}Li'LLBBS était numéroté `2:320/7` et j'ai fini par être un des rares « points » avec `2:320/7.2`.{% endfnin %}. Ces petits midi furent l'occasion de refaire le monde maintes fois et aussi, fin 1991, de parler d'un petit logiciel écrit par un finlandais inconnu, un certain {% wp Linus_Torvalds "Linus Torvalds" fr %}. Li'LL BBS est resté longtemps mon BBS de prédilection et même si le BBS n'existe plus, il en subsiste une liste de discussion et les amis que j'y ai toujours comme Attila, Gordon et les autres :)
+Suite à des discussions avec certains sur ModulaBBS que j'ai pu participer à un « petit midi », appellation donnée à un repas (précédé par un apéro bien évidemment) avec le même cercle d'habitués comprenant cette fois-ci René Cougnenc, Serge Delbono, Sam Cabannes et Christian « Bubulle » Perrier. C'est grâce à ce déjeuner que j'ai pu accéder à Li'LL BBS d'ailleurs, tenu par Attila Altan. Li'LL BBS, tournant sous {% wp PCBoard "PCBoard" fr %}, était connecté à plusieurs réseaux différents (avec ModulaBBS notamment) y compris {% wp FidoNet "FidoNet" fr %} {% fnin %}Li'LLBBS était numéroté `2:320/7` et j'ai été un des rares « points » avec `2:320/7.2`.{% endfnin %}. Ces petits midi furent l'occasion de refaire le monde maintes fois et aussi, fin 1991, de parler d'un petit logiciel écrit par un finlandais inconnu, un certain {% wp Linus_Torvalds "Linus Torvalds" fr %}. Li'LL BBS est resté longtemps mon BBS de prédilection et même s'il n'existe plus en tat que tel, il en subsiste une liste de discussion et les amis que j'y ai toujours comme Attila, Gordon et les autres :)
+
+Une anecdote assez connue concerne ce même Gordon {% fnin %}De son nom complet, Gordon E. Peterson II d'ailleurs ;-){% endfnin %} et quelqu'un d'assez connu déjà… un certain Richard Stallman : lors d'une conférence à l'école d'informatique EPITA {% fnin %}Pas encore célèbre pour avoir piraté la moitié de RENATER en 1994, ce qui leur avait valu d'être mis en liste noire chez les clients d'[HSC](/2014/12/12/la-fin-dune-epoque-dot-dot-dot/) cf. [ce tweet](https://twitter.com/Keltounet/status/287314804329291778).{% endfnin %} sur le logiciel libre et je suppose le projet GNU — je n'étais pas à ladite conférence — l'auditoire a eu l'occasion d'assister à ce qui a été, appelons un chat un chat, une engueulade en français entre nos deux Américains sur le sujet _free software_ vs _shareware_, les deux points de vue ne pouvant manifestement pas s'accorder {% fnin %}Si quelqu'un a assisté à la conférence elle-même, ça m'intéresse, Gordon à qui j'ai posé la question, ne se souvient plus exactement de la date…{% endfnin %} :)
 
 J'ai fait tourner le mien d'ailleurs, un petit nœud assez discret, me servant plus de réceptacle pour les copains et me permettant de récupérer mes messages Fido que je lisais _via_ [Golded](http://golded.org/), un des meilleurs programmes du genre.
 
@@ -64,7 +66,7 @@ Ce fut aussi l'occasion de rentrer certains autres personnages qui devinrent cé
 
 Le monde des BBS s'est progressivement réduit à la fin des années 1990 suite à l'essor en parallèle de Usenet et des forums web après (lesquels ont globalement bouffé Usenet aussi d'ailleurs, pour notre malheur).
 
-L'aventure UNIX et du libre (1988 et au-delà)
+L'aventure UNIX (1988 et au-delà)
 ---------------------------------------------
 Retour en arrière sur UNIX…
 
@@ -90,20 +92,46 @@ La faculté était reliée donc à Internet _via_ cette liaison mais disposait a
 
 L'accès à Internet restait assez compliqué à utiliser, le {% wp Domain_Name_System "DNS" fr %} n'étant même pas configuré sur le Gould, nous obligeant à récupérer périodiquement le fameux fichier `HOSTS.TXT` lequel contenait la liste exhaustive des sites Internet afin d'y piocher les adresses IP de quelques serveurs sous intéressant, généralement pour y récupérer les _freewares_ et _sharewares_ précédemment cité dans le chapitre BBS :)
 
-À ce moment là, nous finissions par connaitre par cœur les IP de `prep.ai.mit.edu` (berceau de GNU déjà) et autres `simtel20.wsmr.army.mil` (White Sands Missile Range qui comme le nom l'indique, est une base de lancement de missiles américaine — si si je vous assure, ils hébergeaient des dizaines de mégaoctets de logiciels MS-DOS, Amiga et autres :)) {% fnin %}Dans le genre, mais que fait ma mémoire pour retenir ces choses-là, je me souvient encore du nom de l'administrateur du site BITNET en Turquie qui hébergeait un nœud BitFTP, Turgut Kalfaoğlu.{% endfnin %}.
+À ce moment là, nous finissions par connaitre par cœur les IP de `prep.ai.mit.edu` (berceau de GNU déjà), `wuarchive.wustl.edu` et autres `simtel20.wsmr.army.mil` (White Sands Missile Range qui comme le nom l'indique, est une base de lancement de missiles américaine — si si je vous assure, ils hébergeaient des dizaines de mégaoctets de logiciels MS-DOS, Amiga et autres :)) {% fnin %}Dans le genre, mais que fait ma mémoire pour retenir ces choses-là, je me souvient encore du nom de l'administrateur du site BITNET en Turquie qui hébergeait un nœud BitFTP, Turgut Kalfaoğlu.{% endfnin %}. Simtel20 tournait sous {% wp TOPS-20 "TOPS-20" %} sur une DEC.
 
 L'autre aspect de ce système Multics était d'avoir des forums de discussions sur divers sujets (pas encore de Usenet à cette époque pour la fac). Il se trouve que j'essayais toujours de développer mes programmes de cryptographie et cherhant un algorithme pour générer une liste de nombres aléatoires, en fait un mélange d'une suite croissante de nombres genre de 000 à 999. J'ai donc posté ma question sur un de ces forums sans trop y croire en fait à ce moment là et j'ai reçu, à ma grande de surprise, plusieurs réponses de parfaits inconnus…
 
 Ça peut paraitre banal maintenant, où Twitter ou [Stack Overflow](http://stackoverflow.com/) sont couramment utilisés pour des questions de ce genre mais en 1988, ça m'a fait un choc. Et ça a changé ma vision des choses d'une telle manière que je me suis jeté dans Usenet quand j'y ai eu accès et n'ai eu de cesse qu'à partager mes quelques connaissances (informatique ou autres).
 
-Usenet (1990)
+Usenet (1990-20??)
 -------------
+{% wp Usenet "Usenet" fr %} est finalement arrivé à Jussieu aux alentours de 1990. Usenet n'était pas alors un serveur de logiciels piratés ou d'images « pieuses » comme beaucoup le croient maintenant, c'était principalement un ensemble de serveurs connectés entre eux (les nœuds) et servant des utilisateurs soit directement soit _via_ des serveurs « feuilles {% fnin %}La différence entre les deux est qu'une feuille n'a qu'un seul fournisseur alors qu'un nœud au moins deux.{% endfnin %} ».
+
+Je ne vais pas détailler l'histoire et le fonctionnement de Usenet ici, je vous renvoie à la conférence que j'ai donnée à [Pas Sage en Seine](http://www.passageenseine.org/Passage/pses-2013) en 2013, la présentation PDF est [ici](http://assets.keltia.net/pses2013.pdf) et la vidéo [ici](http://lacantine.ubicast.eu/channels/#pas-sage-en-seine-2013).
+
+En résumé, j'ai participé à Usenet assez tard (Usenet est né en 1979, créé par des administrateurs dans des universités américains par, entre autres, [Steve Bellovin](https://www.cs.columbia.edu/~smb/blog/control/) et n'ai pas vu les premiers événements marquants (comme la grande réorganisation de mod et net vers le système actuel de Big8) mais j'ai pu participer à plein de groupes, vu l'essor des UNIX libres (et les _flame wars_ correspondantes en 1993 par exemple) et la montée en puissance de la hiérarchie francophone `fr.*`.
+
+Je crois qu'à part l'épisode des anonymes sur `fr.*` durant lequel, suite à la protestation de divers intervenants suite à des articles ne faisant que de la pub pour un service de logiciels piratés — la publicité sous toute ses formes est interdites dans les groupes généraux, ces courageux anonymes avaient posté des articles nous accusant d'être des pédophiles (le tout en faisant une usurpation d'identité…), l'événement le plus marquant fut le vote pour le groupe `rec.music.white-power`. Ce groupe a suscité énormément de discussion (intitulé et futur contenu clairement racistes) et le vote a été épique, aucun groupe n'a rivalisé avec, celui-ci s'étant terminé avec plus de 40000 votes avec près de 8000 annulés pour cause de bourrage d'urne, le groupe n'a pas été créé vu le nombre de votes NON {% fnin %}Ce genre de choses rend plutôt foi en l'Humanité, le résultat final fut 592 YES/33033 NO.{% endfnin %}…
+
+Je suis d'ailleurs devenu le responsable technique de ces groupes `fr.*`en 1998 suite à un conflit avec le « Control » de l'époque. Jusqu'à présent, même si le boulot que ça représente est minime (quelques groupes créés en 2014 seulement), personne n'a vraiment essayé de reprendre le flambeau :)
+
+On y avait retrouvé en 1994 le cher concombre dans un des épisodes les plus célèbres, celui du vrai-faux article anonyme. Impossible de retrouver l'enfilade mais grâce à François-Yves, voici une discussion en parlant :) -- [Enfilade](https://groups.google.com/forum/?hl=fr#!search/concombre$20anon.penet/fr.network.internet/s3ig5jvgkHw/KKy6WXFb7XgJ).
+
+À mes débuts, les seuls lecteurs de News étaient en mode texte sous UNIX (les terminaux VT220, vous vous souvenez ?) et portaient des noms comme `rn` (évolution de `readnews`par Larry Wall, également auteur de {% wp Perl_(langage) "Perl" fr %} qui fut suivi de `trn` {% fnin %}Je l'utilise encore d'ailleurs, pour le peu de Usenet qu'il m'arrive encore de faire :){% endfnin %} (pour _threaded_ rn, affichant d'une manière assez géniale les fils de discussion, manière encore inégalée pour moi), `slrn`ou encore `tin`. Il existait aussi quelques lecteurs en mode « graphique » comme `Knews` et `pan2`.
+
+{% img http://assets.keltia.net/blog/trn4-arbre.png "trn4" "trn4 et la tree-view" %}
+
+UUCP a été à l'origine le mode de transport privilégié de Usenet, en permattant l'échange de courriers électroniques puis de _batches_ (paquets de messages) puis, l'Internet étant arrivé et le protocole {% wp NNTP "NNTP" fr %} créé en 1986, NNTP est devenu la manière de connecter les différents serveurs dans le monde.
+
+Tout modestement, mon petit serveur, `keltia.frmug.fr.net`, connecté uniquement en UUCP _via_ un modem a été dans le Top 1000 des serveurs en octobre 1994 :)
+
+La publicité a toujours été interdite dans à peu près tous les groupes, au point où assez tôt des gens se sont mis à détruire sur des critères techniques des articles (en émettant un article spécial, appelé « cancel ». Ensuite des robots comme {% wp Cleanfeed_(Usenet_spam_filter) "Cleanfeed (EN)" %} et d'autres ont pris le relais. Je me souviens que dans ma période la plus prolixe en la matière, vers 1996 j'ai, en un seul mois, détruit plus de 1000 articles, la majorité venant d'une régurgitation de serveurs Exchange de `microsoft.com`, manifestement Microsoft essayait de faire fonctionner le suport NNTP dans Exchange, avec beaucoup de ratés…
+
+Autre anecdote amusante que je n'ai pas eu le temps de dire à PSES concerne une erreur de traduction : un jour, un non-francophone avait posté (dans `fr.misc.divers` peut-être) demandant pourquoi les Français étaient si fan de la plongée sous-marine. Après quelques interrogations, ne comprenant pas de prime abord le rapport avec le sujet et la hiérarchie, je compris… En anglais, « plongeurs » se dit « divers », venant de _to dive_, et il est clair qu'il n'y a rien de plus proche de _divers_ que « divers » (`fr.misc.divers` `fr.usenet.divers`, etc.). :)
+
+On y aura vu la loi de Godwin, les premiers {% wp "SPAMS" fr %} avec les avocats Canter & Siegel et la "Green Card", les lettres-chaînes du type "MAKE MONEY FAST", les annonces de la naissance de Linux et du Web, de multiples discussions enflammées comme celle entre Andrew Tanenbaum et Linus Torvalds à propos de Linux…
 
 Références
 ----------
-- [La programmation sous UNIX, by Jean-Marie Rifflet, Ed. Delmas et Cie](http://amzn.to/1zLq06W)
-- [La communication sous UNIX, by Jean-Marie Rifflet, Ed. Delmas et Cie](http://amzn.to/1DuR3kt)
+- [La programmation sous UNIX, by Jean-Marie Rifflet, Delmas et Cie, 1986](http://amzn.to/1zLq06W)
+- [La communication sous UNIX, 2nd ed., by Jean-Marie Rifflet, Delmas et Cie, 2000](http://amzn.to/1DuR3kt)
 - [UNIX Administration, by Jean-Michel Moreno, Ed. Delmas et Cie](http://amzn.to/1DuRwmF)
+- images de Wikipedia Commons sauf celle de René qui vient de [mans.gyptis.org](http://mans.gyptis.org/mw/index.php?title=Fichier:rené_cougnenc.gif) — stockées en local.
 
 Notes
 -----
