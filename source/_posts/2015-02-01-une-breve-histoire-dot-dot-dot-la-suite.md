@@ -25,7 +25,7 @@ Les modems restaient quelque chose d'assez cher et le prix des connexions télé
 
 Interlude Minitel
 -----------------
-En France, nous avons eu l'immense chance (haha) d'avoir ce superbe joyau qu'était le {% wp Minitel "Minitel" fr %} qui, s'il lui faut reconnaître d'avoir poussé plein de gens dans le monde merveilleux de la communication informatique, n'en restait quand même un outil doté de caractéristiques techniques assez pourries (ah la vitesse royale de 1200 bauds en descente et de 75 (!) en montée — le standard utilisé n'ayant été choisi que pour créer un lien de consommateur vers fournisseur, le modèle français de la communication {% fnin %}en opposition avec la notion infiniment plus équitable d'Internet où tout le monde est la fois producteur et consommateur d'information.{% endfnin %}).
+En France, nous avons eu l'immense chance (haha) d'avoir ce superbe joyau qu'était le {% wp Minitel "Minitel" fr %} qui, s'il lui faut reconnaître d'avoir poussé plein de gens dans le monde merveilleux de la communication informatique, n'en restait quand même un outil doté de caractéristiques techniques assez pourries (à la vitesse royale de 1200 bauds en descente et de 75 (!) en montée — le standard utilisé n'ayant été choisi que pour créer un lien de consommateur vers fournisseur, le modèle français de la communication {% fnin %}en opposition avec la notion infiniment plus équitable d'Internet où tout le monde est la fois producteur et consommateur d'information.{% endfnin %}).
 
 {% img http://assets.keltia.net/blog/320px_Minitel_terminal.jpg "Minitel" "Minitel" %}
 
