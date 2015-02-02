@@ -7,7 +7,7 @@ sharing: true
 categories: french préhistoire informatique dino sinclair pc unix
 ---
 
-(découpé en deux articles pour ne pas faire trop long - [La suite ici plus tard]())
+(découpé en deux, euh, trois articles pour ne pas faire trop long - [La suite ici plus tard](/2015/02/01/une-breve-histoire-dot-dot-dot-la-suite/))
 
 Préambule
 ---------
