@@ -31,7 +31,7 @@ Les seules machines ayant des claviers français furent celles conçues en Franc
 
 Ce ZX81 donc, se programmait en {% wp BASIC "BASIC" fr %}, un langage de programmation inventé en 1963 et popularisé par les micro-ordinateurs précédemment cités (PET, Apple II, etc.). Très primitif encore, il était très limité par la mémoire de la machine, dotée de… *1* Ko.  Oui, oui, « un kilo-octet » de mémoire, il n'y a pas de faute{% fnin %}L'extension de mémoire de 16 Ko était assez chère…{% endfnin %}.
 
-J'ai donc commencé à m'y intéresser mais c'était trop peu pour faire beaucoup de choses, avouons-le. J'ai vaguement commencé regarder l'Assembleur mais la manière existant pour insérer le code dans la machine consistait à insérer un commentaire dans un programme BASIC, lequel allait modifier ledit commentaire pour y insérer, octet par octet, les instructions machine (du code auto-modifiant donc).
+J'ai donc commencé à m'y intéresser mais c'était trop peu pour faire beaucoup de choses, avouons-le. J'ai vaguement commencé à regarder l'Assembleur mais la manière existant pour insérer le code dans la machine consistait à insérer un commentaire dans un programme BASIC, lequel allait modifier ledit commentaire pour y insérer, octet par octet, les instructions machine (du code auto-modifiant donc).
 
 Ce fut aussi l'occasion de lire en anglais, les bouquins en français étant très rares (et chers). Sans parler évidemment du fait que les documentations des ordinateurs étaient elles-aussi dans la langue de Shakespeare.
 
