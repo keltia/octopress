@@ -25,7 +25,7 @@ Les modems restaient quelque chose d'assez cher et le prix des connexions télé
 
 Interlude Minitel
 -----------------
-En France, nous avons eu l'immense chance (haha) d'avoir ce superbe joyau qu'était le {% wp Minitel "Minitel" fr %} qui, s'il lui faut reconnaître d'avoir poussé plein de gens dans le monde merveilleux de la communication informatique, n'en restait quand même un outil doté de caractéristiques techniques assez pourries (ah la vitesse royale de 1200 bauds en descente et de 75 (!) en montée — le standard utilisé n'ayant été choisi que pour créer un lien de consommateur vers fournisseur, le modèle français de la communication {% fnin %}en opposition avec la notion infiniment plus équitable d'Internet où tout le monde est la fois producteur et consommateur d'information.{% endfnin %}).
+En France, nous avons eu l'immense chance (haha) d'avoir ce superbe joyau qu'était le {% wp Minitel "Minitel" fr %} qui, s'il lui faut reconnaître d'avoir poussé plein de gens dans le monde merveilleux de la communication informatique, n'en restait quand même un outil doté de caractéristiques techniques assez pourries (à la vitesse royale de 1200 bauds en descente et de 75 (!) en montée — le standard utilisé n'ayant été choisi que pour créer un lien de consommateur vers fournisseur, le modèle français de la communication {% fnin %}en opposition avec la notion infiniment plus équitable d'Internet où tout le monde est la fois producteur et consommateur d'information.{% endfnin %}).
 
 {% img http://assets.keltia.net/blog/320px_Minitel_terminal.jpg "Minitel" "Minitel" %}
 
@@ -64,7 +64,7 @@ Ce fut aussi l'occasion de rencontrer certains autres personnages qui devinrent 
 
 {% wp FidoNet "FidoNet" fr %} était, d'une certaine manière, calqué sur le réseau {% wp Unix_to_Unix_Copy_Protocol "UUCP" fr %} mais avec une architecture fortement hiérarchisée pour répartir au mieux et surtout au plus proche les coûts téléphoniques, organisé en pays et en régions. Des passerelles existent toujours d'ailleurs entre Usenet et FidoNet.
 
-Le monde des BBS s'est progressivement réduit à la fin des années 1990 suite à l'essor en parallèle de Usenet et des forums web après (lesquels ont globalement bouffé Usenet aussi d'ailleurs, pour notre malheur).
+Le monde des BBS s'est progressivement réduit à la fin des années 1990 suite à l'essor en parallèle de Usenet et des forums web après, lesquels ont globalement bouffé Usenet aussi d'ailleurs pour notre malheur.
 
 L'aventure UNIX (1988 et au-delà)
 ---------------------------------------------
@@ -132,7 +132,7 @@ Je me souviens que dans ma période la plus prolixe en la matière, vers 1996 j'
 
 L'autre anecdote amusante que je n'ai pas eu le temps de raconter à PSES concerne une erreur de traduction : un jour, un non-francophone avait publié un article (dans `fr.misc.divers` peut-être) demandant pourquoi les Français étaient si fan de la plongée sous-marine. Après quelques interrogations, ne comprenant pas de prime abord le rapport avec le sujet et la hiérarchie, je compris… En anglais, « plongeurs » se dit _divers_, venant de _to dive_, et il est clair qu'il n'y a rien de plus proche de _divers_ que « divers » (`fr.misc.divers` `fr.usenet.divers`, etc.). :)
 
-On y aura vu la loi de Godwin, les premiers {% wp "SPAMS" fr %} avec les avocats Canter & Siegel et la "Green Card", les lettres-chaînes du type "MAKE MONEY FAST", les annonces de la naissance de Linux et du Web, de multiples discussions enflammées comme celle entre Andrew Tanenbaum et Linus Torvalds à propos de Linux…
+On y aura vu la loi de Godwin, les premiers {% wp Spam "SPAMS" fr %} avec les avocats Canter & Siegel et la "Green Card", les lettres-chaînes du type "MAKE MONEY FAST", les annonces de la naissance de Linux et du Web, de multiples discussions enflammées comme celle entre Andrew Tanenbaum et Linus Torvalds à propos de Linux…
 
 Avec tout ceci, la partie sur les UNIX libres est passé un peu à la trappe, va falloir un 3e article… :)
 
