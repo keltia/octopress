@@ -67,6 +67,8 @@ Links
 - [Bletchley Park, the official site](http://www.bletchleypark.org.uk/)
 - [BBC - History - Bletchley Park (pictures, video, facts & news)](http://www.bbc.co.uk/history/places/bletchley_park)
 
+Pictures from Wikipedia Commons and me.
+
 Notes
 -----
 {%footnotes_inline%}
