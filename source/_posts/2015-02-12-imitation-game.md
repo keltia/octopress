@@ -4,7 +4,7 @@ title: "Imitation Game"
 date: 2015-02-12 15:55:15 +0100
 comments: true
 sharing: true
-categories: codebreakers, english, enigma, turing
+categories: codebreakers english enigma turing
 ---
 
 This is a [Followup on the previous article](/2015/02/09/alan-turing-bletchley-park/)

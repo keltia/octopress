@@ -4,7 +4,7 @@ title: "Alan Turing, Bletchley Park and the Enigma"
 date: 2015-02-09 16:16:51 +0100
 comments: true
 sharing: true
-categories: codebreakers, english, enigma, turing
+categories: codebreakers english enigma turing
 ---
 
 Alan Turing
