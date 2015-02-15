@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Imitation Game"
+title: "The Imitation Game"
 date: 2015-02-12 15:55:15 +0100
 comments: true
 sharing: true
@@ -27,7 +27,9 @@ It is already know that the romance between {% wp Joan_Clarke "Joan Clarke" %} a
 
 I guess I could have done without the russian spy part too but it does not hurt.  I did not mind the part where a convoy destined to be destroyed is not warned as it would alert the Germans ("my brother is on that ship" and "you are not God to decide who lives and who dies" ) because it is not only logical but a necessity during war time.  The Americans did wonder about the same thing during the same war with Yamamoto's raid and his subsequent death (they decided that killing him was worth the bargain though [KAHN 1996]).
 
-All in all, a very nice movie, very enjoyable and a nice way to explain the role of Turing during the war and the effect he had later in the fileds of mathematics and modern computing.
+For me, there are many things missing or that could have been presented differently like more technical details about the machine and why that one was critical — they do not say that the regular Enigma was broken years before; the soviet spy is given a bigger role than in reality and so forth.  Ultra is not really described at all, just mentioned.
+
+All in all, a nice movie, very enjoyable and a nice way to explain the role of Turing during the war and the effect he had later in the fileds of mathematics and modern computing.  Just do not look too hard for detials beneath :)
 
 References
 ----------
