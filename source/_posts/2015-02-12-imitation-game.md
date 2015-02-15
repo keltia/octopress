@@ -21,7 +21,7 @@ It is obviously to push a bit more the background on Turing's homosexuality by r
 
 The politics with Denniston, his hostility toward Turing and the way the latter went over him to Churchill and what goes from there are also slightly too much, but it is only slightly modified from history as seen on the [WP page](http://en.wikipedia.org/wiki/Alan_Turing#Bombe). Let's say that it justifies the role of {% wp Charles_Dance "Charles Dance" %} who is as good as the villain he always seems to be (witness his performance on the {% wp Game_of_Thrones "Game of Thrones" %} HBO show :)).
 
-It is already know that the romance between {% wp Joan_Clarke "Joan Clarke" %} and Turing is exagerated but to my surprise, it is not as awkward as it could be and more or less matches history as [we know it — note 15](http://en.wikipedia.org/wiki/Joan_Clarke#References).
+It is already known that the romance between {% wp Joan_Clarke "Joan Clarke" %} and Turing is exagerated but to my surprise, it is not as awkward as it could be and more or less matches history as [we know it — note 15](http://en.wikipedia.org/wiki/Joan_Clarke#References).
 
 {% wp Benedict_Cumberbatch "Benedict Cumberbatch" %} is really outstanding as Alan Turing (although {% wp Keira_Knightley "Keira Knightley" %} in her role as Joan Clarke with all her stubborness, is very good but it is not in the same league).  All the questions on himself, his genius and his homosexuality are nicely played, it is entirely believable.
 
