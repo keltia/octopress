@@ -15,7 +15,7 @@ Just saw the [Imitation Game](The_Imitation_Game) yesterday night, in VOST {% f
 
 Mild spoilers below, do not read if you intend to watch it :)
 <!--more-->
-I did not expect any actual technical details and indeed the movie is really light on this, most of the stuff is concentrated on the machine itself which they decided to call for some obscure reason (obscure in the sense that it is clearly related to the guy he was in love with in college but that does not match history — the machine was called {% wp Bombe "Bombe" %} to reflect on its evolution from the device the Poles created to crack Enigma back in 1933 [Kahn 1996]).
+I did not expect any actual technical details and indeed the movie is really light on this, most of the stuff is concentrated on the machine itself which they decided to call "Christopher" for some obscure reason (obscure in the sense that it is clearly related to the guy he was in love with in college but that does not match history — the machine was called {% wp Bombe "Bombe" %} to reflect on its evolution from the device the Poles created to crack Enigma back in 1933 [Kahn 1996]).
 
 It is obviously to push a bit more the background on Turing's homosexuality by relating to events before Bletchley Park.  Seriously, I'm not sure it does add to the scenario and it is a bit too melodramatic to my taste.
 
@@ -29,7 +29,7 @@ I guess I could have done without the russian spy part too but it does not hurt.
 
 For me, there are many things missing or that could have been presented differently like more technical details about the machine and why that one was critical — they do not say that the regular Enigma was broken years before; the soviet spy is given a bigger role than in reality and so forth.  Ultra is not really described at all, just mentioned.
 
-All in all, a nice movie, very enjoyable and a nice way to explain the role of Turing during the war and the effect he had later in the fields of mathematics and modern computing.  Just do not look too hard for detials beneath :)
+All in all, a nice movie, very enjoyable and a nice way to explain the role of Turing during the war and the effect he had later in the fields of mathematics and modern computing.  Just do not look too hard for details beneath :)
 
 References
 ----------
