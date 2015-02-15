@@ -29,7 +29,7 @@ I guess I could have done without the russian spy part too but it does not hurt.
 
 For me, there are many things missing or that could have been presented differently like more technical details about the machine and why that one was critical — they do not say that the regular Enigma was broken years before; the soviet spy is given a bigger role than in reality and so forth.  Ultra is not really described at all, just mentioned.
 
-All in all, a nice movie, very enjoyable and a nice way to explain the role of Turing during the war and the effect he had later in the fileds of mathematics and modern computing.  Just do not look too hard for detials beneath :)
+All in all, a nice movie, very enjoyable and a nice way to explain the role of Turing during the war and the effect he had later in the fields of mathematics and modern computing.  Just do not look too hard for detials beneath :)
 
 References
 ----------
