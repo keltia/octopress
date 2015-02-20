@@ -109,3 +109,6 @@ facebook_like: false
 flickr:
   api_key: fd2d08b26f2b8e24e2e9eb10cdc15942
   shared_secret: a269a672eca76bfa
+
+piwik_host_name: stats.keltia.net # piwik server hostname
+piwik_site_id: 2 # site id
