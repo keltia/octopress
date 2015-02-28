@@ -53,7 +53,7 @@ Bref, que du bonheur.
 
 Ayant été relativement satisfait de la qualité des images venant de mes Pentax, je suis habitué au format {% wp APS-C "APS-C" fr %} et à ses limitations (photosites plus petits donc plus sensibles au bruit, profondeur de champ plus grande, etc.), je ne suis pas changé.
 
-Ce qui l'est par contre, c'est ce capteur [X-Trans II](http://www.fujifilm.eu/fr/produits/appareils-photo-numeriques/appareils-a-objectif-interchangeable/model/x-t1/features/capteur-x-trans-ii-avance-et-processeur-exr-ii/), d'une technologie complètement différente de celle basée sur la {% wp Matrice_de_Bayer "Matrice de Beyer" fr %} est tout simplement étonnant dans sa définition, sa gestion du bruit, l'absence de filtre AA (_anti-aliasing_) et la qualité du rendu des couleurs. Fujifilm a réussi un exploit avec ce capteur.
+Ce qui l'est par contre, c'est ce capteur [X-Trans II](http://www.fujifilm.eu/fr/produits/appareils-photo-numeriques/appareils-a-objectif-interchangeable/model/x-t1/features/capteur-x-trans-ii-avance-et-processeur-exr-ii/), d'une technologie complètement différente de celle basée sur la {% wp Matrice_de_Bayer "Matrice de Bayer" fr %} est tout simplement étonnant dans sa définition, sa gestion du bruit, l'absence de filtre AA (_anti-aliasing_) et la qualité du rendu des couleurs. Fujifilm a réussi un exploit avec ce capteur.
 
 Malgré la baisse de définition comparé au K-3 (24 Mpxls vs 16.3 Mpxls) et la complexité pour les logiciels comme Lightroom à faire le post-traitement, les résultats (voir les photos de nuit en dessous) sont au rendez-vous et alliés à la qualité des objectifs Fujifilm, que de la satisfaction de ce côté.
 
