@@ -13,16 +13,16 @@ Introduction
 
 Cet appareil est tout simplement fantastique. Attention, cet article n'est pas un test en tant que tel, d'autres s'y sont très bien pris pendant les mois suivant sa sortie, comme [DPreview (EN)](http://www.dpreview.com/reviews/fujifilm-x-t1) ou [Focus numérique (FR)](http://www.focus-numerique.com/test-1833/compact-a-objectifs-interchangeables-fujifilm-x-t1-presentation-caracteristiques-1.html) mais plus un retour d'expérience d'un photographe amateur, n'ayant pas plus de prétention que de se faire plaisir :)  Enfin, cet appareil n'est pas forcément pour tout le monde, il est cher et à titre personnel, vu les objectifs que j'ai pris, certaines photos ne sont pas possible (animalier ou zolis navions notamment).
 <!--more-->
-## Le look
-
+Le look
+-------
 Comme je l'ai dit dans l'article initial sur mon changement de marque, le *look*, quoiqu'on puisse en penser, a de l'importance. Encore plus pour un amateur comme moi, dont le but est aussi de se faire plaisir à la fois en prenant de belles (on l'espère :)) photos et en ayant un bel objet (ou peut-être est-ce juste moi mais peu importe, je l'assume très bien :)).
 
 Ordoncque, son aspect proche des reflex que j'ai utilisé pendant longtemps me plait beaucoup et même s'il est plus petit que mon Pentax K-3, la prise en main est tout à fait satisfaisante (l'auriculaire se sent certes un peu délaissé). Le repose-pouce à l'arrière aide bien à ce propos. J'avais hésité à prendre le [Hand Grip MHG-XT](http://www.fujifilm.com/products/digital_cameras/accessories/camera_cases/#handgrip), pour l'instant, pas de regret.
 
 {% img http://assets.keltia.net/blog/blog-15978.jpg "XT-1 devant" "XT-1 devant" %}
 
-## L'ergonomie
-
+L'ergonomie
+-----------
 J'avoue que si de prime abord, venant de reflex avec les petites molettes faisant tout en fonction de paramètres dans le menu (genre ouverture devant et vitesse derrière, ou l'inverse voire autre chose), les grosses molettes dédiées du X-T1 (ISO, vitesse et compensation d'exposition) me laissait un peu dubitatif{% fnin %}Le mot est sans doute un peu exagéré ici, je l'aurais _vraiment_ été que l'achat ne se serait sans doute pas concrétisé.{% endfnin %} mais au final, c'est un retour aux sources et je suis *très* content.
 
 Je me prends à utiliser de plus en plus la compensation d'exposition{% fnin %}Notamment pour les photos de nuit.{% endfnin %}, aidé en celà par l'immense et génial, que dis-je, sublime viseur électronique (EVF en anglais).
@@ -49,16 +49,16 @@ Cette mise à jour a aussi apporté des nouveautés très intéressantes comme l
 
 Bref, que du bonheur.
 
-## La qualité des images
-
+La qualité des images
+---------------------
 Ayant été relativement satisfait de la qualité des images venant de mes Pentax, je suis habitué au format {% wp APS-C "APS-C" fr %} et à ses limitations (photosites plus petits donc plus sensibles au bruit, profondeur de champ plus grande, etc.), je ne suis pas changé.
 
 Ce qui l'est par contre, c'est ce capteur [X-Trans II](http://www.fujifilm.eu/fr/produits/appareils-photo-numeriques/appareils-a-objectif-interchangeable/model/x-t1/features/capteur-x-trans-ii-avance-et-processeur-exr-ii/), d'une technologie complètement différente de celle basée sur la {% wp Matrice_de_Bayer "Matrice de Bayer" fr %} est tout simplement étonnant dans sa définition, sa gestion du bruit, l'absence de filtre AA (_anti-aliasing_) et la qualité du rendu des couleurs. Fujifilm a réussi un exploit avec ce capteur.
 
 Malgré la baisse de définition comparé au K-3 (24 Mpxls vs 16.3 Mpxls) et la complexité pour les logiciels comme Lightroom à faire le post-traitement, les résultats (voir les photos de nuit en dessous) sont au rendez-vous et alliés à la qualité des objectifs Fujifilm, que de la satisfaction de ce côté.
 
-## Les objectifs
-
+Les objectifs
+-------------
 J'ai donc uniquement des focales fixes :
 
 - XF14mm/ƒ2.8 R — ultra grand angle ;
@@ -81,8 +81,8 @@ Ce qu'il manque selon moi :
 
 J'ai depuis le premier article acheté une bague d'adaptation Pentax-Fuji pour utiliser mon Vivitar Macro ; elle est très bien, là encore l'EVF et les fonctions d'aide à la mise au point manuelle (pseudo-stigmomètre ou colorisation des zones nettes) font un excellent travail.
 
-## Les mauvais points
-
+Les mauvais points
+------------------
 Aucun appareil n'est parfait et le X-T1 ne fait pas exception.
 
 L'auto-focus pourrait être plus efficace comme l'on signalé les revues, notamment sur les sujets en mouvement. Je ne fais pas souvent de photos de sport donc je suis moins gêné que d'autres mais c'est à noter que de temps en temps, quand on en a besoin, il pourrait être plus efficace.
@@ -91,8 +91,8 @@ Le *vrai* point noir vient principalement de la batterie qui est beaucoup trop f
 
 L'autre point décevant dans une construction plutôt remarquable est la trappe cachant la carte SD. Pour un appareil sensé être tropicalisé, elle est trop facile à bouger, n'a pas l'air vraiment étanche et parait trop fragile. Sur un appareil de ce prix, c'est très dommage. Un effort Fujifilm que diable !
 
-## Conclusion
-
+Conclusion
+----------
 Malgré ses défauts, ce X-T1 est probablement la meilleure chose qui soit arrivée dans ma photographie depuis mon passage à la photo numérique en [2006 (EN)](https://www.keltia.net/articles/photography/cameras/). Il est petit, très ergonomique, dispose d'une qualité d'image exceptionnelle dépassant souvent mes réflex récents. Je m'amuse beaucoup à reprendre des photos, j'essaie plus de choses sur la composition, le type de photos, etc.
 
 J'ai longtemps hésité donc à passer à un hybride, notamment sur le viseur et la gamme d'objectifs et après un mois à prendre plus de 1600 (!) photos, je ne regrette rien{% fnin %}À part avoir pris le modèle noir et non pas le Graphite Silver qui, malgré son prix plus élevé de 200 € quand même, est tellement plus joli…{% endfnin %} {% fnin %}Je sais, il est facile de justifier a posteriori un achat ou masquer des inconvénients. Ce n'est pas le cas ici, j'essaie d'être honnête :){% endfnin %}. Rétrospectivement, ma décision de prendre le 23mm et pas le 35mm auquel j'avais été habitué avec le K-3 a été une bonne décision (changement de perspective principalement).
@@ -101,15 +101,15 @@ Merci aussi à Fujifilm d'avoir les objectifs que je voulais dans sa gamme X, j'
 
 Ça me fait du bien de [re-]prendre mon pied à faire des photos.
 
-## Photos
-
+Photos
+------
 Quelques unes sont sur ma galerie [500px](https://500px.com/Keltia/) mais en voici d'autres, sans ordre ou thème particulier, juste pour en montrer des jolies selon moi. Classées par objectif, les champs EXIF sont tous présents.
 
-## XF14mm/ƒ2.8
+### XF14mm/ƒ2.8
 
 {% img http://assets.keltia.net/blog/blog-05001.jpg "Pont des Invalides" "Pont des Invalides" %}
 
-## XF23mm/ƒ1.4
+### XF23mm/ƒ1.4
 
 {% img http://assets.keltia.net/blog/blog-05070.jpg "Grand Palais" "Grand Palais" %}
 
@@ -135,7 +135,7 @@ Quelques unes sont sur ma galerie [500px](https://500px.com/Keltia/) mais en voi
 
 {% img http://assets.keltia.net/blog/blog-06088.jpg "Notre-Dame" "Notre-Dame" %}
 
-## XF56mm/ƒ1.2
+### XF56mm/ƒ1.2
 
 {% img http://assets.keltia.net/blog/blog-04599.jpg "Norig au Sentier des Halles" "Norig au Sentier des Halles" %}
 

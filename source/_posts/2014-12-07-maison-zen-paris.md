@@ -9,8 +9,8 @@ categories: resto sushi japonais french
 
 J'ai déjà parlé de la Maison Zen sur [Twitter](https://twitter.com/Keltounet/status/498189644241334272) il y a quelques mois, l'ayant découvert par hasard en utilisant une application iOS qui permet de trouver des points d'intérêts autour de soi, la bien nommée [AroundMe](https://itunes.apple.com/us/app/aroundme/id290051590). Ayant passé une partie de l'après-midi avec un copain à prendre des photos dans le coin, je me suis dit que c'était une bonne idée d'y repasser.
 
-### Résumé
-
+Résumé
+------
 Lieu :      8 rue de l'échelle à Paris, 75001, à côté du Louvre.<br/>
 Téléphone : +33 1 42 61 93 99<br/>
 
@@ -18,8 +18,8 @@ Type : Cuisine japonaise classique, de qualité<br/>
 Prix : compter un minimum de 30-50 €/personne<br/>
 Note : 4.5/5<br/>
 <!--more-->
-### Le cadre
-
+Le cadre
+--------
 Le cadre de ce restaurant n'est pas celui typique de beaucoup du même genre (même si le comptoir avec les poissons est bien évidemment présent), avec plein de couleurs pastel. Les tables aussi sont disposées assez originalement, sortes de hauts comptoirs sinueux :)
 
 J'ai encore pris une place au comptoir (qui avait des réservations —  certains savent que c'est la meilleure place), en face du chef et de son assistant (m'a-t-il reconnu ?), très aimable et prévenant, regardant régulièrement la progression de chaque convive afin de le servir au mieux. C'est assez agréable, sans être envahissant ; ici, on ne cherche pas à faire partir le client quand il a fini ou ne tente de faire tourner les places.
@@ -28,8 +28,8 @@ Beaucoup de serveurs/serveuses, très occupés et à l'écoute, ça fait un tour
 
 La première fois que j'y allé au mois d'août, le chef m'avait même offert{% fnin %}Il semble que j'ai un truc assez particulier avec les premières fois dans un restaurant, les japonais en tout cas. À Toritcho, le chef m'avait fait découvrir un poisson que je ne connaissais pas, la {% wp Bonite 'Bonite' fr %}.{% endfnin %} à la fin un nigiri d'encornet. C'est assez particulier comme goût :)
 
-### La cuisine
-
+La cuisine
+----------
 On reste sur du sushi-bar assez classique mais il n'y a pas que les sushis/sashimis mais plein d'autre plats aussi — comme les brochettes évidemment mais aussi des plats de viandes cuites, etc. Je reste quant à moi sur ma passion pour les nigiris :)
 
 Après avoir choisi un assortiment de nigiris et un maki de {% wp Thon_gras 'toro' fr %} ou thon gras{% fnin %}Le toro est mon poisson favori mais il reste très rare et/ou très cher dans les restaurants… {% endfnin %} haché + ciboulette, on m'apporte une petite salade de légumes d'hiver, très bonne :
@@ -62,8 +62,8 @@ PS : voici une photo de l'entrée que j'avais prise la première fois, là enco
 
 PPS : oui, je m'aperçois seulement maintenant que j'ai écrit un article parlant d'un restaurant *japonais* un 7 décembre.
 
-### Conclusion
-
+Conclusion
+----------
 Comme la première fois, excellente cuisine dans un cadre original et sympa, très bon service par un personnel professionnel et serviable, efficace et souriant. Les prix sont assez élevés (mais pas autant que [Kaiseki](/2014/09/13/la-maison-kaiseki-sushi-paris/) heureusement), dans la norme des *vrais* japonais.
 
 J'y reviendrai, il faut que je le fasse découvrir{% fnin %}Je sais, deuxième restaurant de sushi avec un billet et toujours rien sur Toritcho… Ca vient :){% endfnin %} autour de moi.

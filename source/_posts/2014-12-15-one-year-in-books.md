@@ -23,22 +23,22 @@ So I am now happily reading a lot of books on it.
 
 I used to use the iBooks application to read because the synchronization was really easy with [Calibre](https://www.keltia.net/programs/calibre/) but when Apple broke it with 10.9, I switched to [Marvin](https://itunes.apple.com/us/app/marvin-ebook-reader-for-epub/id667361209?mt=8) (which I heartily recommend!).  Using the "nightly" theme and low-level of brightness, it may not be as effective as e-Ink mais it is pretty darn good.
 
-## The list!
-
+The list!
+---------
 I managed to read almost 40 books in 2014 (see my [Reading Challenge](https://www.goodreads.com/user_challenges/1416028) on [Goodreads](https://goodreads.com/)).  The year is not finished but I'm pretty sure I will succeed :)
 
 2013 was less of a success, around 20 books only (I do not have the exact count as I started to register what I read only that year).
 
 2014 is a mix of re-reading old books and new books and authors.
 
-### Old books
-
+Old books
+---------
 - "The Godwars" trilogy by [Angus Wells](https://www.goodreads.com/author/show/15733.Angus_Wells).  It is probably not well-known, not the best ever fantasy trilogy but I do enjoy it everytime I read it.  It was quite difficult (and pricy!) to find it in ebook format.
 
 - I finally got in the three first Amber books in the last days of 2014.  The "Chronicles of Amber" by [Roger Zelazny](https://www.goodreads.com/author/show/3619.Roger_Zelazny)  is an old favourite of mine, even though I think I still have not forgiven him for dying before the completion of the series.  There are too many fascinating loose ends{% fnin %}I'm looking at you both Logrus and Ghostweel, yes.{% endfnin %} in [Prince of Chaos](https://www.goodreads.com/book/show/61994.Prince_of_Chaos) that should have been connected in maybe 5 other books…  Many people dislike the second 5-book series with Merlin but I just think it is a different way to look at Amber and Merlin is a very interesting character to follow with both Amber and Chaos connections.
 
-### Old authors
-
+Old authors
+-----------
 - "The Others" #1 and #2 by [Anne Bishop](http://www.annebishop.com/).  I have been a great fan of the "Black Jewels" trilogy (and the other books in the series as well — except for "The Invisible Ring").  She returned with a urban fantasy (you know, modern setting, werewolves, vampires and so on) which is one of the growing genres these days but with many twists and new characters.  I absolutely loved these two books (third one is for March or April — arghhh){% fnin %}Oh dear, while I was writing this article and checking on GR for references, I saw that she is planning for at least two more books…{% endfnin %}.
 
 - "Shadows Return" by [Lynn Flewelling](http://www.sff.net/people/Lynn.Flewelling/).  I was very fond of the previous "Nightrunner" books, as I am of the "Tamír Triad".  That one is a lot darker and maybe dragging itself a bit, too long.  Still two books to go on the series.
@@ -55,8 +55,8 @@ I managed to read almost 40 books in 2014 (see my [Reading Challenge](https://ww
 
 - Final note in this section with "Dominion", a novella by [C.S. Friedman](http://www.csfriedman.com/) (again one of my favourite authors ever) set in the "Coldfire Trilogy" world.  You have to read all these.  Really.  Everything by C.S. Friedman in fact.
 
-### New authors
-
+New authors
+-----------
 The {% wp Steampunk "Steampunk" %} subgenre has been around for a long time (does the name Jules Verne strikes any chord? :)) but it has been recently coming back with a vengeance, with new authors.
 
 - [Lindsay Buroker](http://www.lindsayburoker.com/), even though I discovered her back in 2013 (see [this article](/2014/09/21/sf-and-f-2013-discovery-lindsay-buroker/)) is a new author here.  I read many of her books this year; from the "old" series of the "Emperor's Edge" to her new series "Dragon Blood" and "Rust and Relics".  I love her books.
@@ -65,14 +65,14 @@ The {% wp Steampunk "Steampunk" %} subgenre has been around for a long time (doe
 
 - I have started a new series "Artifacts Hunters" by [A.W. Exley](http://www.awexley.com/) with "Nefertiti's Heart" and now "Hatshepsut's Collar".  Again steampunk with magic (but not too much) and a bit more "romance" but just enough (meaning some explicit sex scenes but without the bad part of romance{% fnin %}Not sure I am clear enough, it is just that romance should not be the central part of the book, esp. not shadowing the plot or the characters.{% endfnin %}.
 
-### Non-fiction
-
+Non-fiction
+-----------
 From time to time, it happens :)  I used to read a lot of computer books but they kind of bore me now.  I do read some of them from time to time, especially on new subjects but this will not be part of these articles.
 
 - Following a friend's advice (see [these articles](/categories/moi/)), I started reading "The Introvert Advantage: How to Thrive in an Extrovert World" by [Marti Olsen Laney](https://www.goodreads.com/author/show/27740.Marti_Olsen_Laney).  I have not finished it yet, it is slow going because reading it moves a lot of things inside me and this takes time.  However, if you have read the article and felt that it may be echoing in you, I recommend it.  It is easy reading but spot on.
 
-## Last words, if I may
-
+Last words, if I may
+--------------------
 If I manage to read even more books this year, I will update this article.
 
 You may have noticed that all of these are in English.  Mostly due to my choice of reading genre, there are not that many French authors (although they fortunately exist) and for some reason, while I do love French, I pretty much prefer English ones.  I also happen to really really hate most of the translations ; SciFi is not a major genre in France so many editors will not choose the better translators and it really shows{% fnin %}Don't start me on "Sparhawk" being translated as « Émouchet » in Eddings' books. Please don't.{% endfnin %}.  I have been told the situation has improved though.
@@ -84,8 +84,8 @@ Goodreads Links
 
 My profile on Goodreads is [here](https://www.goodreads.com/user/show/3581338-ollivier).
 
-### Series
-
+Series
+------
 - [The Godwars](https://www.goodreads.com/series/49994-the-godwars)
 - [Chronicles of Amber](https://www.goodreads.com/series/40859-the-chronicles-of-amber)
 - [The Others](https://www.goodreads.com/series/99557-the-others)
@@ -105,8 +105,8 @@ My profile on Goodreads is [here](https://www.goodreads.com/user/show/3581338-ol
 - [The Final Formula](https://www.goodreads.com/series/129251-the-final-formula)
 - [Artifact Hunters](https://www.goodreads.com/series/106414-artifact-hunters)
 
-### Book
-
+Book
+----
 - [The Introvert Advantage: How to Thrive in an Extrovert World](https://www.goodreads.com/book/show/49322.The_Introvert_Advantage)
 
 Notes
