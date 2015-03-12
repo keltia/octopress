@@ -16,7 +16,7 @@ Téléphone : +33 (1) 44 09 79 19<br>
 Métro :     Argentine ou Ternes
 
 Type : Cuisine japonaise classique, de qualité<br/>
-Prix : compter un minimum de 40-50 €/personne<br/>
+Prix : compter un minimum de 40-50 €/personne voire beaucoup plus.<br/>
 Note : 3.5/5 à cause des prix<br/>
 
 Détail important : il est ouvert le lundi ce qui est rare (et nous sommes lundi).
