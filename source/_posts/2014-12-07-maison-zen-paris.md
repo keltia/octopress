@@ -12,7 +12,7 @@ J'ai déjà parlé de la Maison Zen sur [Twitter](https://twitter.com/Keltounet/
 ### Résumé
 
 Lieu :      8 rue de l'échelle à Paris, 75001, à côté du Louvre.<br/>
-Téléphone : +33 1 42619399<br/>
+Téléphone : +33 1 42 61 93 99<br/>
 
 Type : Cuisine japonaise classique, de qualité<br/>
 Prix : compter un minimum de 30-50 €/personne<br/>
