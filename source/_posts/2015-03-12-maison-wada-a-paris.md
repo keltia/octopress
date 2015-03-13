@@ -29,7 +29,7 @@ L'intérieur est sympa avec la majeure partie du mur de droite constitué d'alco
 
 {% img http://assets.keltia.net/blog/wada-06602.jpg "Mur à trésors" "Mur à trésors" %}
 
-Détail amusant, il flotte au plafond un kimono assez joli — non, il ne s'agit pas d'un fantôme et seul le vent des gens entrants ou sortants le fait bouger :)
+Détail amusant, il flotte au plafond un kimono assez joli — non, il ne s'agit pas d'un fantôme et seul le vent des gens entrant ou sortant le fait bouger :)
 
 {% img http://assets.keltia.net/blog/wada-06601.jpg "Kimono flottant" "Kimono flottant" %}
 
