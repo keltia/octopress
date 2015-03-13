@@ -61,7 +61,7 @@ Là, un peu trop épais sur le sushi et la bouchée est assez grosse. Pareil pou
 
 Le poisson est de qualité et très bon mais j'espérais un peu plus de choix. Dans mon souvenir, pas d'anguille, d'oursin ni de maquereau.
 
-Après tout ça, j'avoue ne plus avoir faim mais ce n'est pas le cas de mon co-convive qui va prendre un maki de thon rouge, lequel va se réveler de fort belle taille, à mi-chemin entre le make classique et le *futomaki*. voyez par vous-mêmes :
+Après tout ça, j'avoue ne plus avoir faim mais ce n'est pas le cas de mon co-convive qui va prendre un maki de thon rouge, lequel va se réveler de fort belle taille, à mi-chemin entre le maki classique et le *futomaki*. voyez par vous-mêmes :
 
 {% img http://assets.keltia.net/blog/wada-06193.jpg "Maki « moyen »" "Maki « moyen »" %}
 
