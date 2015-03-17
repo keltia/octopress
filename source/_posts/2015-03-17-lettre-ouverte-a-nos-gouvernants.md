@@ -23,11 +23,13 @@ Avez vous à ce point oublié vos leçons d'histoire ? Pourquoi vouloir mettre e
 
 Comment pouvez être à ce point aveugles, à ne pas voir que vous faites pire que ce que les Américains ont fait avec le *Patriot Act* en 2001 ? Pire que ce que les Chinois ont fait avec leur système de pare-feu national et qui doivent bien nous envier maintenant ? Pire que ce que la plupart des dictatures ont essayé de faire quand elles ne sont pas juste à en rêver, faute de moyens ?
 
-Vous allez dépenser des sommes folles et piétiner les libertés fondamentales alors que le pays souffre depuis des années de problèmes bien plus sérieux. C'est indigne de vous, élus de la république.
+Vous allez dépenser des sommes folles et piétiner les libertés fondamentales alors que le pays souffre depuis des années de problèmes bien plus sérieux. Vous transformez la France en un état policier. C'est indigne de vous, élus de la république.
 
 J'ai *honte* d'avoir voté pour vous, M. le Président de la république.
 
 J'ai *honte* d'être français.
+
+PS : et je ne parle même pas des outils que vous allez laisser aux gouvernements suivants dont il y a une chance non négligeable qu'il soit FN, grâce à vous entre autres !
 
 Liens
 -----
