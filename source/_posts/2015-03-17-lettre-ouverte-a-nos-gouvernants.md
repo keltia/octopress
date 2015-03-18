@@ -15,7 +15,7 @@ Vos prédécesseurs nous ont servi les lois LOPPSI 1 et 2 ou DADVSI, histoire so
 
 Vous nous avez, sur le même discours, servi la Loi de programmation militaire, puis la loi anti-terroriste, puis encore, au travers de la loi sur l'égalité femme-homme (noble idée s'il en est et dont on a malheureusement tant besoin), encore plus de restrictions sur les acteurs et le réseau Internet, encore une fois accusés d'être la source même du terrorisme (90% parait-il d'après M. Cazeneuve qui devrait plutôt apprendre les statistiques, des terroristes sont passés par Internet pour se radicaliser — je ris, jaune).
 
-Et voilà qu'après tout ça, ça ne suffit toujours pas d'avoir activer la censure sans passer par un juge, il vous faut maintenant vouloir nous imposer la loi sur le renseignement qui va aller encore plus loin dans le contrôle et la destruction de nos libertés fondamentales, pas seulement numériques.
+Et voilà qu'après tout ça, ça ne suffit toujours pas d'avoir activé la censure sans passer par un juge, il vous faut maintenant vouloir nous imposer la loi sur le renseignement qui va aller encore plus loin dans le contrôle et la destruction de nos libertés fondamentales, pas seulement numériques.
 
 Où vous êtes-vous à ce point radicalisés pour faire ainsi l'apologie de la censure et de la surveillance généralisée ?
 
