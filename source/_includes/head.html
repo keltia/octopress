@@ -9,9 +9,25 @@
     <meta name="description" content="Ollivier Robert's blog" />
     <meta name="keywords" content="Ollivier Robert, Robert, Ollivier, Ollivier, Robert, keltia, keltounet, blog" />
 
+    <!-- twitter card stuff cf. http://blog.penso.info/2015/03/21/improve-blog-visibility/ -->
+    <meta property="twitter:title" content="{{ page.title }}" />
+    <meta property="twitter:description" content="UNIX, chats, SF&amp;F, photos, rants, crypto and other stuff."/>
+    <meta property="twitter:card" content="summary" />
+    <meta property="twitter:site" content="@Keltounet" />
+    <meta property="twitter:creator" content="@Keltounet" />
+    <meta property="twitter:image:src" content="http://assets.keltia.net/images/roberto-2014.jpg"/>
+
+    <!-- facebook meta stuff -->
+    <meta property="og:site_name" content="Ollivier Robert's blog" />
+    <meta property="og:type" content="article" />
+    <meta property="og:image" content="http://assets.keltia.net/images/roberto-xl-2014.jpg"/>
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.description }}" />
+
 	<title>{% if page.title %}{{ page.title }} {% else %}{{site.subtitle}} {% endif %} | {{ site.title }}</title>
 
-<meta name="author" content="{{ site.author }}">
+    <meta name="author" content="{{ site.author }}"/>
+    <meta property="author" content="{{ site.author }}">
 {% capture description %}{% if page.description %}{{ page.description }}{% elsif site.description %}{{ site.description }}{%else%}{{ content | raw_content }}{% endif %}{% endcapture %}
 <meta name="description" content="{{ description | strip_html | condense_spaces | truncate:150 }}"> {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{%else%}<meta name="keywords" content="{{ site.keywords }}">{% endif %}
 
@@ -22,7 +38,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 	<link href="{{ site.subscribe_rss }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
-	<link rel="canonical" href="{{ canonical }}">
+	<link rel="canonical" href="{{ site.canonical }}">
 	<link href="{{ root_url }}/favicon.png" rel="shortcut icon">
 	<link href="{{ root_url }}/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
 	<link href="{{ root_url }}/stylesheets/font-awesome.min.css" rel="stylesheet" type="text/css">
