@@ -11,7 +11,7 @@ Comme prévu, le projet de loi sur le renseignement (voir mon billet précédent
 
 Le vote solennel n'aura lieu que le 5 mai mais il est fort probable que comme pour les amendements, il  soit voté par la majorité socialiste (on espère que certains députés feront sécession mais il y a peu d'espoir). Passage au Sénat après.
 <!--more-->
-Le Président de la république a d'ors et déjà annoncé hier 18 avril qu'il saisirait le Conseil constitutionnel au sujet de la loi mais attention avant de vous réjouir :
+Le Président de la république a d'hors et déjà annoncé hier 18 avril qu'il saisirait le Conseil constitutionnel au sujet de la loi mais attention avant de vous réjouir :
 
 1. le CC juge la forme et la constitutionnalité de la loi, pas sa finalité ;
 2. le contenu de la saisine est très important ;
