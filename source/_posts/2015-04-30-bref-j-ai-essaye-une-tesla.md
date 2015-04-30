@@ -93,7 +93,7 @@ La recharge
 -----------
 Il n'existe encore que 21 « Superchargers » — nom des stations de chargement rapide de Tesla — en France, d'autres sont en préparation (c'est un peu visible sur la carte, voire l'adresse plus bas) dont notamment m'a confirmé le commercial 4 autour de Paris — Marne-la-Vallée, Rungis, une au nord-ouest je crois et une dans les Yvelines. C'est le moyen le plus connu et le plus rapide mais il reste rare et principalement mis sur les axes autoroutiers — ce qui a un sens.
 
-En fait, au jour le jour, la/le propriétaire d'une Tesla va principalement la recharger chez elle/lui avec le cable fourni, soit sur une prise classique 220V/16A — lent ! — soit par une prise « améliorée » monophasée 220V/32A voire « triphasée » 220V/16A — plus chère à l'installation. Je ne sais pas encore l'option prise par mon voisin mais à supposer que je me lance, ça serait probabelement l'option 2, du monophasé plus péchu. À voir avec EDF.
+En fait, au jour le jour, la/le propriétaire d'une Tesla va principalement la recharger chez elle/lui avec le cable fourni, soit sur une prise classique 220V/16A — lent ! — soit par une prise « améliorée » monophasée 220V/32A voire « triphasée » 380V/16A — plus chère à l'installation. Je ne sais pas encore l'option prise par mon voisin mais à supposer que je me lance, ça serait probabelement l'option 2, du monophasé plus péchu. À voir avec EDF.
 
 À noter que la recharge est programmable, pour limiter celle-ci aux heures creuses, pratique.
 
