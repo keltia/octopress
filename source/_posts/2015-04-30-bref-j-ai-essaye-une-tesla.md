@@ -109,9 +109,9 @@ Voici les principales prises en Europe :
 
 {% img http://assets.keltia.net/blog/prises.png "Prises" "Prises" %}
 
-Voir Wikipedia pour les différentes normes — {% wp Voiture_électrique#Modes_de_recharge.5B109.5D "ici" fr %}. Il existe par ailleurs un site communautaire les recense par ailleurs en France et dans le monde [Chargermap](http://chargemap.com/). À explorer.
+Voir Wikipedia pour les différentes normes — {% wp Voiture_électrique#Modes_de_recharge.5B109.5D "ici" fr %}. Il existe par ailleurs un site communautaire les recense par ailleurs en France et dans le monde [Chargemap](http://chargemap.com/). À explorer.
 
-{% img http://assets.keltia.net/blog/chargermap.png "Chargermap" "Chargermap" %}
+{% img http://assets.keltia.net/blog/chargermap.png "Chargemap" "Chargemap" %}
 
 Pas évident donc mais a priori pour mes trajets, la recharge à domicile est suffisante, les superchargers étant plus pour les longs voyages et la couverture de ceux-ci s'améliore.
 
