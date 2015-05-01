@@ -125,7 +125,7 @@ On parle aussi d'une voiture dont la partie logicielle, essentiel dans ce cas, e
 
 Parlons des choses qui fâchent
 ------------------------------
-Le prix. Évidemment. Difficile d'ignorer que le premier modèle de Tesla commence à plus de 70 000 € (et ça va un peu augmenter, les Tesla étant produites aux USA, les prix dépendent de la parité € - US$ qui ne cesse de baisser). Qu'il y a des options pas données non plus (comme les autres voitures évidemment mais vu la produite forcément plus faible que les grands, ça compte). Que ce sont des voitures dont le prix avoisine celui d'une maison en province.
+Le prix. Évidemment. Difficile d'ignorer que le premier modèle de Tesla commence à plus de 70 000 € (et ça va un peu augmenter, les Tesla étant produites aux USA, les prix dépendent de la parité € - US$ qui ne cesse de baisser). Qu'il y a des options pas données non plus (comme les autres voitures évidemment mais vu la production forcément plus faible que les grands, ça compte). Que ce sont des voitures dont le prix avoisine celui d'une maison en province.
 
 La contrepartie reste une voiture exceptionnelle, à la fois performante et propre, un mélange difficile à avoir jusque maintenant.
 
