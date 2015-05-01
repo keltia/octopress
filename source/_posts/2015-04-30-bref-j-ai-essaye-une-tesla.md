@@ -117,7 +117,7 @@ Pas évident donc mais a priori pour mes trajets, la recharge à domicile est su
 
 En vrac
 -------
-Vu l'architecture de la voiture, surtout pour la 4 roues motrices et le(s) moteur(s) électrique(s), la maintenance est bien moindre qu'une voiture à moteur thermique classique (voire hybride), moins de pièces en movement, pas de fluides qui circulent, etc.
+Vu l'architecture de la voiture, surtout pour la 4 roues motrices et le(s) moteur(s) électrique(s), la maintenance est bien moindre qu'une voiture à moteur thermique classique (voire hybride), moins de pièces en mouvement, moins de fluides qui circulent, etc.
 
 Aides de l'État pour les véhicules propres (ça aide, on est à 6 300 € pour la Tesla), assurance peut-être moins chère, révisions conseillées à une par an et évidemment plus simples, sont des points intéressants.
 
