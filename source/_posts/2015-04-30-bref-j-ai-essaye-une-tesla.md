@@ -69,7 +69,7 @@ Bref, à conduire c'est un grand plaisir. Une voiture nerveuse {% fnin %}Le mod
 
 L'autonomie réelle — pas celle donnée dans les tests officiels des normes européennes NEDC — est entre 300 et 350 km, c'est moins que prévu mais fallait s'y attendre et le système de navigation prend plus de paramètres que j'imaginais ce qui compense pas mal. Les dénivelées sont prises en compte dans les calculs ce qui peut pas mal influer justement.
 
-Point que j'oublié de mentionner : lors des freinages et descentes, la voiture va accumuler de l'énergie (jusqu'à 60 kW/h en mode normal et environ 15-20 kW/h en mode réduit). Du coup en ville, peu de besoin de freiner, il suffit de relacher l'accélérateur, la voiture ralentit très vite (bien plus qu'avec la Prius). Ça permet de récupérer de l'énergie et économiser la batterie, très bien fait.
+Point que j'ai oublié de mentionner : lors des freinages et descentes, la voiture va accumuler de l'énergie (jusqu'à 60 kW/h en mode normal et environ 15-20 kW/h en mode réduit). Du coup en ville, peu de besoin de freiner, il suffit de relacher l'accélérateur, la voiture ralentit très vite (bien plus qu'avec la Prius). Ça permet de récupérer de l'énergie et économiser la batterie, très bien fait.
 
 Ca mérite d'essayer de faire un essai plus étendu, pas sûr encore de comment y arriver.
 
