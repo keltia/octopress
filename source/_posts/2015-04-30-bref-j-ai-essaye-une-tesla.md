@@ -99,6 +99,11 @@ En fait, au jour le jour, la/le propriétaire d'une Tesla va principalement la r
 
 À noter que la recharge est programmable, pour limiter celle-ci aux heures creuses, pratique.
 
+MAJ : ne pas oublier que depuis 2012, les nouveaux immeubles *doivent* être équipés et qu'une co-propriété ne peut s'opposer à la mise en place d'une prise par un co-propriétaires ; c'est le « droit à la prise » né grâce — une fois n'est pas coutume — au Grenelle 2.
+
+Voir [ici](https://www.lenergieenquestions.fr/voiture-electrique-quest-ce-que-le-droit-a-la-prise/
+), [ici](http://www.breezcar.com/actualites/article/copropriete_borne_de_recharge_voiture_electrique_droit_a_la_prise) ou encore [ici](http://www.actu-environnement.com/ae/news/vehicules-electriques-installations-recharges-velos-stationnement-securise-immeubles-bureaux-15039.php4) où on peut voir que les immeubles de bureau doivent aussi s'équiper.
+
 Notons qu'à titre personnel, il ne me serait pas possible de la recharger au boulot pour des raisons administratives un peu idiotes (qui ont été mises en place suite à des abus, comme souvent…)
 
 Pour recharger dans d'autres stations, la situation se complique, il y a plusieurs normes (évidemment). Le type 2 est utilisé par les Autolib et les voitures Bolloré et je crois la Zoë Renault. D'autres stations ont un type 3 voire d'autres. Un nouveau système, né au Japon par Nissan (et co-financé par Tesla) s'appelle {% wp Station_de_recharge#Recharge_rapide "CHAdeMO" fr %} et permet des recharges plus rapides que les précédents. Tesla dispose d'adaptateurs — payants — pour les principaux systèmes, y compris CHAdeMO.
