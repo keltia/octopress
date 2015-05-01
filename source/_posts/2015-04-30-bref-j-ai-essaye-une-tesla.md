@@ -19,7 +19,7 @@ J'en suis content mais clairement l'aspect esthétique (subjectif certes) et per
 
 Et puis vint Tesla…
 -------------------
-Je ne vais pas refaire l'histoire de Tesla, fondée par un ancien de eBay — Elon Musk — qui a utilisé son argent pour fonder deux sociétés principales : Tesla pour fabriquer des voitures (voir l'article de Wired ci-dessous) et SpaceX qui envoie des fusées dans l'espace.
+Je ne vais pas refaire l'histoire de Tesla, fondée par un ancien de Paypal — Elon Musk — qui a utilisé son argent pour fonder deux sociétés principales : Tesla pour fabriquer des voitures (voir l'article de Wired ci-dessous) et SpaceX qui envoie des fusées dans l'espace.
 
 Pour résumer, Tesla fait deux modèles de voiture, le modèle S qui nous intéresse là et le modèle X, qui serait disponible en 2016, les carnets de commande semblant assez complets de ce que j'ai pu lire. Le tout premier modèle, le Roadster deux places s'est assez peu vendu (2500 d'après le commercial Tesla) et n'est plus au catalogue. Le modèle X sera plus proche d'un {% wp SUV "SUV" fr %} que d'une berline comme la S et ne m'intéresse pas — sans parler du prix qui devrait je pense être plus élevé.
 
