@@ -129,6 +129,10 @@ Le prix. Évidemment. Difficile d'ignorer que le premier modèle de Tesla commen
 
 La contrepartie reste une voiture exceptionnelle, à la fois performante et propre, un mélange difficile à avoir jusque maintenant.
 
+Il y a différentes possibilités de le financement, un prêt classique (les taux sont assez bas en ce moment) ou un *Leasing* avec option d'achat (LOA). Tesla garantit par ailleurs une reprise à 50% du prix de la voiture (43% pour les options) après 3 ou 4 ans. Personnellement j'ai toujours acheté mes voitures mais le LOA peut être une option intéressante pour changer de modèle à la fin. Apparemment certains clients rachètent la voiture et la revende eux-mêmes aussi. J'en suis pas encore là :)
+
+Si l'assurance est moins chère et l'entretien moins coûteux (-35% d'après Tesla), je sais déjà que j'économiserais environ 2 500 €/an d'essence, c'est déjà ça.
+
 Les modèles
 -----------
 La gamme vient justement de changer (en mieux !) :
