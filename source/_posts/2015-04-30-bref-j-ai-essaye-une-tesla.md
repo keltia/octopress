@@ -41,7 +41,7 @@ Arrive le fleuron de la gamme Tesla, le modèle S. Une grosse berline (quasiment
 
 {% img http://assets.keltia.net/blog/Tesla_MODEL_S_front.jpg "Tesla S" "Tesla S" %}
 
-Des amis l'ont testée (Cédric Ingrand, Pierre Col et Jean-Michel Billaut notamment), l'ont appréciée et en ont parlé. À un moment, un déclic s'est fait en moi et j'ai commencé à regarder, tout en étant persuadé que ce serait une folie vu le prix. À force de regarder le site, voir les prévisions d'installation de chargeurs rapides, l'idée fait son chemin.
+Des amis l'ont testée (Cédric Ingrand, Pierre Col et Jean-Michel Billaut notamment ainsi que Eric du blog [Presse-citron](http://www.presse-citron.net/)), l'ont appréciée et en ont parlé. À un moment, un déclic s'est fait en moi et j'ai commencé à regarder, tout en étant persuadé que ce serait une folie vu le prix. À force de regarder le site, voir les prévisions d'installation de chargeurs rapides, l'idée fait son chemin.
 
 Le coup de Jarnac
 -----------------
@@ -166,6 +166,7 @@ Références
 - [Site officiel Tesla - FR](http://www.teslamotors.com/fr/)
 - [Superchargers - FR](http://www.teslamotors.com/fr_FR/supercharger)
 - [Wired on Tesla & batteries - EN](http://www.wired.com/2015/04/tesla-isnt-car-company-battery-company/)
+- [5 jours avec une Tesla](http://www.presse-citron.net/5-jours-en-tesla-model-s-la-voiture-qui-reveille-lenfant-qui-est-en-vous/)
 - [Chargermap - FR](http://fr.chargemap.com/)
 - [CHAdeMO - FR](http://fr.wikipedia.org/wiki/Station_de_recharge#Recharge_rapide)
 - [Golf GTE - FR](http://volkswagen-golf-gte.fr/)
