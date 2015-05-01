@@ -99,7 +99,7 @@ En fait, au jour le jour, la/le propriétaire d'une Tesla va principalement la r
 
 À noter que la recharge est programmable, pour limiter celle-ci aux heures creuses, pratique.
 
-MAJ : ne pas oublier que depuis 2012, les nouveaux immeubles *doivent* être équipés et qu'une co-propriété ne peut s'opposer à la mise en place d'une prise par un co-propriétaires ; c'est le « droit à la prise » né grâce — une fois n'est pas coutume — au Grenelle 2.
+MAJ : ne pas oublier que depuis 2012, les nouveaux immeubles *doivent* être équipés et qu'une co-propriété ne peut s'opposer à la mise en place d'une prise par un co-propriétaire ; c'est le « droit à la prise » né grâce — une fois n'est pas coutume — au Grenelle 2.
 
 Voir [ici](https://www.lenergieenquestions.fr/voiture-electrique-quest-ce-que-le-droit-a-la-prise/
 ), [ici](http://www.breezcar.com/actualites/article/copropriete_borne_de_recharge_voiture_electrique_droit_a_la_prise) ou encore [ici](http://www.actu-environnement.com/ae/news/vehicules-electriques-installations-recharges-velos-stationnement-securise-immeubles-bureaux-15039.php4) où on peut voir que les immeubles de bureau doivent aussi s'équiper.
