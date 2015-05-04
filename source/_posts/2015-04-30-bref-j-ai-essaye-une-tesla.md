@@ -51,7 +51,7 @@ Il est venu d'un côté totalement inattendu : un jour rentrant chez moi, j'ape
 
 Discussion, il a effectivement vendu son affreux 4x4 pour acheter la Tesla qui en fait, était chez lui en test la fois précédente. Un modèle S 85 (mode propulsion — roues arrières motrices — avec un seul moteur). Et donc, maintenant, à peu près tous les soirs quand je rentre, une Tesla me nargue, la perfide. Il m'a même proposé gentimment de la tester mais nous n'avons pas encore trouvé le temps de le faire.
 
-OK, celle ou celui qui pense à ce moment dans le billet — il est foutu ! — a probalement raison. Sur le principe oui, ce sera ma nouvelle voiture maintenant les modalités… le Diable est dans les détails comme on dit toujours.
+OK, celle ou celui qui pense à ce moment dans le billet — il est foutu ! — a probablement raison. Sur le principe oui, ce sera ma nouvelle voiture maintenant les modalités… le Diable est dans les détails comme on dit toujours.
 
 La conduite
 -----------
