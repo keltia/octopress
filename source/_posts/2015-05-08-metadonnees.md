@@ -49,7 +49,7 @@ Quant à l'affirmation dans la loi même de la non surveillance des professions 
 
 Sans parler bien évidemment de l'accès qu'ils pourront avoir chez les fournisseurs d'accès/hébergeurs au travers de l'équivalent français de {% wp PRISM_(programme_de_surveillance) "PRISM" fr %} et qui permet de compléter les informations et les croiser. Trop parano ? Peut-être. Ou pas.
 
-L'exemple le plus concret nous a été fourni par François de Rugy {% fnin %}M. de Rugy est député du groupe écologiste comme [Sergio Coronado](https://twitter.com/sergiocoronado) mais il a lui voté *POUR* la loi et tente tant bien que mal de la justifier avec les éléments de langage du gouvernement. Un appel du pied assez mal déguisé en fait… {% endfnin %} lui-même sur Twitter il y a deux jours ; un utilisateur a reçu par courrier électronique une réponse du député, au format Word et a été voir le fichier :
+L'exemple le plus concret nous a été fourni par François de Rugy {% fnin %}M. de Rugy est député du groupe écologiste comme [Sergio Coronado](https://twitter.com/sergiocoronado) mais il a lui voté *POUR* la loi et tente tant bien que mal de la justifier avec les éléments de langage du gouvernement. Un appel du pied assez mal déguisé en fait… {% endfnin %} lui-même sur Twitter il y a deux jours ; un utilisateur a reçu par courrier électronique une réponse du député, au format Word et a été voir le fichier attaché :
 
 {% blockquote @FdeRugy https://twitter.com/FdeRugy/status/595901759308079104 %}
 Livrer en pâture le nom d'un salarié parce qu'on combat son patron :  éthique du net, vie privée, toussa toussa... ?{% endblockquote %}
