@@ -7,7 +7,7 @@ sharing: true
 categories: politique renseignement french libertés Internet métadonnées
 ---
 
-Ce titre à lui tout seul sous forme de jeu de mot reflète la situation actuelle née du vote de la loi dite du Renseignement le mardi 5 mai 2015. Pendant toute la discussion sur le projet de loi à l'Assemblée nationale, une ambigüité a été entretenue de haut vol — par les auteurs de la loi, pas le ministre ; lui ne fait sans doute pas la différence — sur le sujet des métadonnées.
+Ce titre {% fnin %}L'autre titre que j'ai utilisé sur Twitter et Facebook est « Les métadonnées ou comment j’arrêté de m’en faire et commencé à aimer le ‪#‎DPI‬ » est aussi assez significatif (mes excuses à feu Stanley Kubrick).{% endfnin %} à lui tout seul sous forme de jeu de mot reflète la situation actuelle née du vote de la loi dite du Renseignement le mardi 5 mai 2015. Pendant toute la discussion sur le projet de loi à l'Assemblée nationale, une ambigüité a été entretenue de haut vol — par les auteurs de la loi, pas le ministre ; lui ne fait sans doute pas la différence — sur le sujet des métadonnées.
 
 >En gros, la notion que nous autres informaticiens avons de ces métadonnées n'est pas la même que celle des services de renseignement.
 
