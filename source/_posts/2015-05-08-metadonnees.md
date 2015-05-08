@@ -19,7 +19,7 @@ Sous le terme quelque peu barbare (et anglais) de DPI, se cache un ensemble de t
 
 Ca permet déjà beaucoup puisque ça permet de savoir que la machine A s'est connectée à Facebook ou que la machine B a récupéré du courrier chez Free. Ou que la machine C est allé se connecter au serveur `www.islamic-news.fr`. Pas de notion d'utilisateur là dedans. Les composantes de l'Internet n'ont pas besoin de plus pour s'échanger des paquets dans le monde entier.
 
-Je pense que nous pouvons nous accorder sur le fait que ce soit tout à fait insuffisant pour les services de renseignement. Eux veulent savoir qui échange du mail avec qui, qui va voir telle ou telle page un site ou encore va regarder des pages pro-jihad sur Facebook. On voit que sans DPI, ils ne vont pas pouvoir voir grand chose.
+Je pense que nous pouvons nous accorder sur le fait que ce soit tout à fait insuffisant pour les services de renseignement. Eux veulent savoir qui échange du mail avec qui, qui va voir telle ou telle page sur un site ou encore va regarder des pages pro-jihad sur Facebook. On voit que sans DPI, ils ne vont pas pouvoir voir grand chose.
 
 Même la supposition « une adresse IP = un utilisateur » est assez rapidement fausse : supposons que j'invite des amis chez moi ; je suis un gars sympa, je vais leur donner le mot de passe de la borne Wifi pour leur permettre de se connecter. Vu la manière dont la plupart des foyers se connectent à Internet, tout le trafic que nous allons ainsi générer ne sera visible que sous la forme de « mon adresse IP s'est connectée à A, B, C et plein d'autres machines ». Aucun moyen de savoir si c'est moi ou d'autres qui l'avons généré.
 
