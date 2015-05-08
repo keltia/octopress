@@ -9,7 +9,7 @@ categories: politique renseignement french libertés Internet métadonnées
 
 Ce titre à lui tout seul sous forme de jeu de mot reflète la situation actuelle née du vote de la loi dite du Renseignement le mardi 5 mai 2015. Pendant toute la discussion sur le projet de loi à l'Assemblée nationale, une ambigüité a été entretenue de haut vol — par les auteurs de la loi, pas le ministre ; lui ne fait sans doute pas la différence — sur le sujet des métadonnées.
 
->En gros, la notion que nous autres informaticiens avons de ces métadonnées ne sont pas les mêmes que celle des services de renseignement.
+>En gros, la notion que nous autres informaticiens avons de ces métadonnées n'est pas la même que celle des services de renseignement.
 
 Cette ambigüité est très importante et permet au ministre de ne probablement pas [trop] mentir quand il déclare ne pas vouloir faire de {% wp Deep_packet_inspection "DPI" fr %} dans les fameuses boîtes noires {%fnin%}Cette appellation vient de Matignon, pas des opposants contrairement à ce que certains soutiens à la loi essayent de faire croire.{%endfnin%}.
 <!--more-->
