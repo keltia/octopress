@@ -17,7 +17,7 @@ Sous le terme quelque peu barbare (et anglais) de DPI, se cache un ensemble de t
 
 >Si si rien de plus. Toutes les autres métadonnées sont à *l'intérieur* des paquets.
 
-Ca permet déjà beaucoup puisque ça permet de savoir que la machine A s'est connectée à Facebook ou que la machine B a récupéré du courrier chez Free. Ou que la machine C est allé se connecter au serveur `www.islamic-news.fr`. Pas de notion d'utilisateur là dedans. Les composantes de l'Internet n'ont pas besoin de plus pour s'échanger des paquets dans le monde entier.
+Ca permet déjà beaucoup puisque ça permet de savoir que la machine A s'est connectée à Facebook ou que la machine B a récupéré du courrier chez Free. Ou que la machine C est allé se connecter au serveur `www.islamic-news.fr` (s'il ne s'agit pas d'un hébergement mutualisé {% fnin %}Dans ce cas, on ne saura que « la machine C s'est connecté au serveur qui héberge les sites S_1, S_2 .. S_n » (dont `islamic-news.fr`), rien de plus.{% endfnin %}. Pas de notion d'utilisateur là dedans. Les composantes de l'Internet n'ont pas besoin de plus pour s'échanger des paquets dans le monde entier.
 
 Je pense que nous pouvons nous accorder sur le fait que ce soit tout à fait insuffisant pour les services de renseignement. Eux veulent savoir qui échange du mail avec qui, qui va voir telle ou telle page sur un site ou encore va regarder des pages pro-jihad sur Facebook. On voit que sans DPI, ils ne vont pas pouvoir voir grand chose.
 
