@@ -25,9 +25,9 @@ Pour résumer, Tesla fait deux modèles de voiture, le modèle S qui nous intér
 
 Une voiture entièrement électrique étant pour moi le stade suivant dans ma recherche d'un véhicule peu voire non-polluant en terme de rejets — dont le CO₂ mais pas que — et de baisse de consommation de carburant fossile, j'ai regardé un peu le marché.
 
-Les hybrides
-------------
-Il y a maintenant pas mal d'hybrides sur le marché : Toyota a poursuivi sa politique de conversion de gamme avec notamment les Yaris et Auris, Peugeot a sorti des hybrides diesel {% fnin %}J'avoue que pour moi, le concept hybride diesel-électrique est assez antinomique mais bon… {% endfnin %} et d'autres s'y mettent, notamment BMW (avec la i3) et Volkswagen (avec la Golf GTE).
+Les hybrides & électriques
+--------------------------
+Il y a maintenant pas mal d'hybrides ou d'électriques sur le marché : Toyota a poursuivi sa politique de conversion de gamme avec notamment les Yaris et Auris, Peugeot a sorti des hybrides diesel {% fnin %}J'avoue que pour moi, le concept hybride diesel-électrique est assez antinomique mais bon… {% endfnin %} et d'autres s'y mettent, notamment BMW (avec la i3 — électrique) et Volkswagen (avec la Golf GTE — électrique ou hybride).
 
 {% img http://assets.keltia.net/blog/The_frontview_of_BMW_i3.JPG "BMW i3" "BMW i3" %}
 
