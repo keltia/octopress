@@ -44,13 +44,17 @@ ThunderX 48 and 96-core boards, 2x 10 GbE, 1x 40 GbE
 Pictures
 --------
 
-Finaly was able to take one picture of our keynote speaker for tomorrow, Steve Bourne!
+I was able to finally take one picture of our keynote speaker for tomorrow, Steve Bourne!
 
 {% img http://assets.keltia.net/blog/blog-09160.jpg "Steve Bourne" "Steve Bourne" %}
 
 We took the usual group photo of all devsummit participants, I do not have the final picture yet but here is one of the some of us crossing the streets toward the place where it was done:
 
 {% img http://assets.keltia.net/blog/blog-09164.jpg "Crossing the street" "Crossing the street" %}
+
+Then Diane took pictures of David who took pictures of me taking pictures of Diane :)
+
+{% img http://assets.keltia.net/blog/blog-09166.jpg "Photo junkies" "Photo junkies" %}
 
 Devsummit — `libxo` WG
 ----------------------
