@@ -50,7 +50,7 @@ Finaly was able to take one picture of our keynote speaker for tomorrow, Steve B
 
 We took the usual group photo of all devsummit participants, I do not have the final picture yet but here is one of the some of us crossing the streets toward the place where it was done:
 
-{% img "Crossing the street" "Crossing the street" %}
+{% img http://assets.keltia.net/blog/blog-09164.jpg "Crossing the street" "Crossing the street" %}
 
 Devsummit — `libxo` WG
 ----------------------
