@@ -7,7 +7,7 @@ sharing: true
 categories: freebsd devsummit bsdcan english ottawa
 ---
 
-Second day of the devsummit at BSDCan. Two working groups for me (Doc WG and LibXO) and some other things.  See below.
+Second day of the devsummit at BSDCan. Two working groups for me (Doc WG and LibXO) and some other things.  See below.  This is a followup on yesterday's [post](/2015/06/11/second-day-at-bsdcan-2015-devsummit/)
 <!--more-->
 Devsummit — doc WG
 ------------------
