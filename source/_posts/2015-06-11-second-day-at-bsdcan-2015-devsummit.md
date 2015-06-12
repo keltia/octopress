@@ -56,6 +56,10 @@ Then Diane took pictures of David who took pictures of me taking pictures of Dia
 
 {% img http://assets.keltia.net/blog/blog-09166.jpg "Photo junkies" "Photo junkies" %}
 
+UPDATE: here is the group photo!  Thanks David!
+
+{% img http://assets.keltia.net/blog/DevSummit2015_group_photo.jpg "developers!" "developers!" %}
+
 Devsummit — `libxo` WG
 ----------------------
 
