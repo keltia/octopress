@@ -38,8 +38,8 @@ At the same time as the Doc WG, there was the ARM WG in another room.  They was 
 
 ThunderX 48 and 96-core boards, 2x 10 GbE, 1x 40 GbE
 
-{% img http://assets.keltia.net/blog/blog-09126.jpg "48-core" "48-core" %}
-{% img http://assets.keltia.net/blog/blog-09127.jpg "96-core" "96-core" %}
+{% img http://assets.keltia.net/blog/blog-09126.jpg "96-core" "96-core" %}
+{% img http://assets.keltia.net/blog/blog-09127.jpg "48-core" "48-core" %}
 
 Pictures
 --------
