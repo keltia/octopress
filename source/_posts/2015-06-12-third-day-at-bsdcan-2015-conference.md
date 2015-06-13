@@ -102,7 +102,7 @@ It is pretty obvious than in multi-core tests, Linux/iptables are way faster tha
 Break
 -----
 
-The [FreeBSD Foundation](https://www.freebsdfoundation.org/) is celebrating its 15th Birthday and brought a very nice and large cake \o/  It went pretty fastthough with so many people in the conference…
+The [FreeBSD Foundation](https://www.freebsdfoundation.org/) is celebrating its 15th Birthday and brought a very nice and large cake \o/  It went pretty fast though, with so many people in the conference…
 
 {% img http://assets.keltia.net/blog/blog-09268.jpg "Cake" "Cake" %}
 {% img http://assets.keltia.net/blog/blog-09281.jpg "Almost gone" "Almost gone" %}
