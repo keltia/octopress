@@ -92,4 +92,11 @@ One new thing Dan introduced this year is the closing party.  It took place in a
 {% img http://assets.keltia.net/blog/blog-6675.jpg "Party 1" "Party 1" %} 
 {% img http://assets.keltia.net/blog/blog-6677.jpg "Party 2" "Party 2" %} 
 
+Links
+-----
+
+- [All my pictures](http://assets.keltia.net/photos/BSDCan-2015/)
+- [BSDCan 2015](http://bsdcan.org/2015/)
+
+
 {%footnotes_inline%}
