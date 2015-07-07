@@ -71,7 +71,7 @@ De même, je partage un livre électronique de la même manière qu'un livre pap
 PPS
 ---
 
-Je reste par contre adapte du papier pour la lecture de bandes dessinées car il est beaucoup plus pratique que la lecture sur écran car ce format nécessite d'avoir un grand écran, ce qui est assez incompatible avec la lecture au lit… :) 
+Je reste par contre adepte du papier pour la lecture de bandes dessinées car il est beaucoup plus pratique que la lecture sur écran car ce format nécessite d'avoir un grand écran, ce qui est assez incompatible avec la lecture au lit… :) 
 
 Liens
 -----
