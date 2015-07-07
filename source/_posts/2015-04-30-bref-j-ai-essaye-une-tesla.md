@@ -128,6 +128,8 @@ Aides de l'État pour les véhicules propres (ça aide, on est à 6 300 € pou
 
 On parle aussi d'une voiture dont la partie logicielle, essentiel dans ce cas, est mise à jour régulièrement ce qui assure une évolutivité difficilement atteignable une thermique. La mise à jour de la partie matérielle est aussi possible et il est tout à fait envisagé par Tesla de permettre de changer la batterie dans 5 ou 8 ans en tenant compte des évolutions technologiques dans le domaine (ce qu'ils ont déjà fait dans le cas des Roaster).
 
+MAJ : Tesla propose une assistance 24/7 à leurs clients. Pour ce qui est des pièces habituelles (freinds, amortisseurs, etc.) tous les garages peuvent le faire. Pour la carrosserie, un garage agréé aluminium pourra intervenir. Pour les pannes plus importantes, c'est rapatriement de la voiture chez Tesla ou intervention sur place par un technicien itinérant. En cas de panne de plus de 4h, il y a prêt d'un modèle S ou d'autre voiture équivalente (Audi/Mercedes/BMW).
+
 Parlons des choses qui fâchent
 ------------------------------
 Le prix. Évidemment. Difficile d'ignorer que le premier modèle de Tesla commence à plus de 70 000 € (et ça va un peu augmenter, les Tesla étant produites aux USA, les prix dépendent de la parité € - US$ qui ne cesse de baisser). Qu'il y a des options pas données non plus (comme les autres voitures évidemment mais vu la production forcément plus faible que les grands, ça compte). Que ce sont des voitures dont le prix avoisine celui d'une maison en province.
