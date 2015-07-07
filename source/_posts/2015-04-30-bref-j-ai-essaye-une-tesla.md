@@ -25,9 +25,9 @@ Pour résumer, Tesla fait deux modèles de voiture, le modèle S qui nous intér
 
 Une voiture entièrement électrique étant pour moi le stade suivant dans ma recherche d'un véhicule peu voire non-polluant en terme de rejets — dont le CO₂ mais pas que — et de baisse de consommation de carburant fossile, j'ai regardé un peu le marché.
 
-Les hybrides
-------------
-Il y a maintenant pas mal d'hybrides sur le marché : Toyota a poursuivi sa politique de conversion de gamme avec notamment les Yaris et Auris, Peugeot a sorti des hybrides diesel {% fnin %}J'avoue que pour moi, le concept hybride diesel-électrique est assez antinomique mais bon… {% endfnin %} et d'autres s'y mettent, notamment BMW (avec la i3) et Volkswagen (avec la Golf GTE).
+Les hybrides & électriques
+--------------------------
+Il y a maintenant pas mal d'hybrides ou d'électriques sur le marché : Toyota a poursuivi sa politique de conversion de gamme avec notamment les Yaris et Auris, Peugeot a sorti des hybrides diesel {% fnin %}J'avoue que pour moi, le concept hybride diesel-électrique est assez antinomique mais bon… {% endfnin %} et d'autres s'y mettent, notamment BMW (avec la i3 — électrique) et Volkswagen (avec la Golf GTE — électrique ou hybride).
 
 {% img http://assets.keltia.net/blog/The_frontview_of_BMW_i3.JPG "BMW i3" "BMW i3" %}
 
@@ -99,7 +99,7 @@ En fait, au jour le jour, la/le propriétaire d'une Tesla va principalement la r
 
 À noter que la recharge est programmable, pour limiter celle-ci aux heures creuses, pratique.
 
-MAJ : ne pas oublier que depuis 2012, les nouveaux immeubles *doivent* être équipés et qu'une co-propriété ne peut s'opposer à la mise en place d'une prise par un co-propriétaires ; c'est le « droit à la prise » né grâce — une fois n'est pas coutume — au Grenelle 2.
+MAJ : ne pas oublier que depuis 2012, les nouveaux immeubles *doivent* être équipés et qu'une co-propriété ne peut s'opposer à la mise en place d'une prise par un co-propriétaire ; c'est le « droit à la prise » né grâce — une fois n'est pas coutume — au Grenelle 2.
 
 Voir [ici](https://www.lenergieenquestions.fr/voiture-electrique-quest-ce-que-le-droit-a-la-prise/
 ), [ici](http://www.breezcar.com/actualites/article/copropriete_borne_de_recharge_voiture_electrique_droit_a_la_prise) ou encore [ici](http://www.actu-environnement.com/ae/news/vehicules-electriques-installations-recharges-velos-stationnement-securise-immeubles-bureaux-15039.php4) où on peut voir que les immeubles de bureau doivent aussi s'équiper.
