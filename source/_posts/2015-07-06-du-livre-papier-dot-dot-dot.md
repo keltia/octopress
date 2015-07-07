@@ -59,7 +59,7 @@ Car enfin, soyons sérieux.
 
 Le débat papier — livre électronique n'a pas lieu d'être pour moi. Je ne pense pas que le deuxième finisse réellement par tuer le premier même si, les usages se modifiant au fur et à mesure que les gens évoluent, il est fort probable que les proportions changent.
 
-Je ne peux pas me passer de lecture, ça m'est aussi essentiel que manger, discuter et rencontrer des gens. C'est une drogue au combien douce, je l'admets volontiers :)
+Je ne peux pas me passer de lecture, ça m'est aussi essentiel que manger, discuter et rencontrer des gens. C'est une drogue ô combien douce, je l'admets volontiers :)
 
 PS
 --
