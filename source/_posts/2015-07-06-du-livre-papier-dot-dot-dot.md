@@ -34,24 +34,24 @@ Je me souviens encore de mon irrépressible envie de posséder le livre de {% wp
  
 Donc voila, je suis et reste fan de l'objet. Je déteste toujours autant voir des gens écrire des notes dans des livres, surligner des passages (même si je peux comprendre qu'ils en aient besoin — enfin, presque) et pire, des gens lire n'importe comment en tordant les pages ou en pliant un coin pour ne pas avoir à se souvenir de la dernière page lue.
 
-À côté de ces considérations, je vais — à titre totalement personnel bien évidemment — redescendre sur terre : suite à quelques événements dans ma vie, la plupart de mes livres ont été des années durant dans des cartons de déménagement, n'ayant pas place pour les ranger dans un appartement qui ne pouvait leur être dédié, les deux enfants que nous avons eu prenant une place que personne n'oserait leur disputer.
+À côté de ces considérations, je vais — à titre totalement personnel bien évidemment — redescendre sur terre : suite à quelques événements dans ma vie, la plupart de mes livres ont été des années durant dans des cartons de déménagement, n'ayant pas la place pour les ranger dans un appartement qui ne pouvait leur être dédié, les deux enfants que nous avons eus prenant une place que personne n'oserait leur disputer.
 
 Et après ma séparation, la maison que je trouvais, aussi sympathique qu'elle soit (et je l'aime encore malgré ses nombreux défauts), ne peut, et loin s'en faut, tous les héberger. Je suis donc dans la situation où la moitié de mes livres est dans des cartons dans un appartement difficile d'accès et le reste est dans mes deux bibliothèque Ikea (ah les célèbres Billy) au 1er étage. Récupérer l'ensemble de ces livres demanderait que j'aménage de manière assez compliqué cette maison dont je ne suis que locataire et j'avoue n'avoir ni le courage ni vraiment la technique (je ne suis pas un manuel et le bricolage et moi faisons trois).
 
-Du coup, j'avais le choix entre réfrener mon envie de lecture ou trouver une solution, ce que je fis, le besoin de lire est trop fort chez moi. La solution, aussi imparfaite qu'elle soit, fut de me tourner, ci par un PDF, ci par un .LIT vers la lecture sur un instrument numérique, d'abord un téléphone (mon HTC P3300 en 2007 puis iPhone 3GS/4S) et enfin maintenant un iPad Mini Retina.
+Du coup, j'avais le choix entre réfréner mon envie de lecture ou trouver une solution, ce que je fis, le besoin de lire est trop fort chez moi. La solution, aussi imparfaite qu'elle soit, fut de me tourner, ci par un PDF, là par un .LIT vers la lecture sur un instrument numérique, d'abord un téléphone (mon HTC P3300 en 2007 puis iPhone 3GS/4S) et enfin maintenant un iPad Mini Retina.
 
 Je discute souvent et propose aux gens de prendre des liseuses même si je n'en ai pas moi-même pour plusieurs raisons :
 
 1. ça me ferait un périphérique de plus à trimbaler, certes plus petit et plus léger et disposant d'une meilleure autonomie que l'iPad ;
 2. la plupart des liseuses ne sont adaptées qu'à la lecture de livres « purs » sans dessins ou schémas colorés ;
 3. l'iPad est suffisamment petit pour que je l'ai toujours avec moi et la synchronisation des positions de lecture avec le téléphone compense très bien son poids ;
-4. ne je fais pas que lire avec, il m'arrive de jouer, d'aller sur twitter, etc.{% fnin %}Voire de me la faire piquer par ma fille benjamine :){% endfnin %}
+4. je fais pas que lire avec, il m'arrive de jouer, d'aller sur twitter, etc.{% fnin %}Voire de me la faire piquer par ma fille benjamine :){% endfnin %}
 
-Je suis au fil du temps constitué une bibliothèque numérique — gérée par *Calibre* évidemment — de plusieurs centaines de livres, en essayant d'abord de trouver sous cette forme les livres papier que j'ai puis, l'habitude et le plaisir aidant, en en achetant de nouveaux — entre 20 et 30 par an, toutes plateformes confondues. J'en ai aussi récupéré par des moyens moins avouables, un peu par « collectionnisme » {% fnin %}Néologisme que je revendique la paternité indépendamment de tous ceux qui auraient pu l'inventer également.{% endfnin %} et aussi parce qu'il est difficile de tous les trouver légalement, certains éditeurs, notamment français, ne croyant pas dans cette lecture numérique ou juste par appât du gain.
+Je me suis au fil du temps constitué une bibliothèque numérique — gérée par *Calibre* évidemment — de plusieurs centaines de livres, en essayant d'abord de trouver sous cette forme les livres papier que j'ai puis, l'habitude et le plaisir aidant, en en achetant de nouveaux — entre 20 et 30 par an, toutes plateformes confondues. J'en ai aussi récupéré par des moyens moins avouables, un peu par « collectionnisme » {% fnin %}Néologisme dont je revendique la paternité indépendamment de tous ceux qui auraient pu l'inventer également.{% endfnin %} et aussi parce qu'il est difficile de tous les trouver légalement, certains éditeurs, notamment français, ne croyant pas dans cette lecture numérique ou juste par appât du gain.
 
-De plus, grâce à Twitter notamment, j'ai découvert de nouveaux auteurs (voir mon article en anglais sur mes lectures de 2014), souvent auto-édités, auteurs que je n'ai encore jamais vu en France ou ailleurs dans les libraries que j'ai pu fréquenter comme la FNAC, Barnes et Nobles ou Borders. 
+De plus, grâce à Twitter notamment, j'ai découvert de nouveaux auteurs (voir mon article en anglais sur mes lectures de 2014), souvent auto-édités, auteurs que je n'ai encore jamais vus en France ou ailleurs dans les libraries que j'ai pu fréquenter comme la FNAC, Barnes et Nobles ou Borders. 
 
-La constatation est inéluctable : je n'ai jamais autant lu que depuis que je suis passé à la lecture numérique. Je prends toujours autant mon pied à lire et à découvrir, rêver, jouir.
+Le constat est inéluctable : je n'ai jamais autant lu que depuis que je suis passé à la lecture numérique. Je prends toujours autant mon pied à lire et à découvrir, rêver, jouir.
 
 Car enfin, soyons sérieux.
 
