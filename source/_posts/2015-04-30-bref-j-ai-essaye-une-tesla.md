@@ -51,7 +51,7 @@ Il est venu d'un côté totalement inattendu : un jour rentrant chez moi, j'ape
 
 Discussion, il a effectivement vendu son affreux 4x4 pour acheter la Tesla qui en fait, était chez lui en test la fois précédente. Un modèle S 85 (mode propulsion — roues arrières motrices — avec un seul moteur). Et donc, maintenant, à peu près tous les soirs quand je rentre, une Tesla me nargue, la perfide. Il m'a même proposé gentimment de la tester mais nous n'avons pas encore trouvé le temps de le faire.
 
-OK, celle ou celui qui pense à ce moment dans le billet — il est foutu ! — a probalement raison. Sur le principe oui, ce sera ma nouvelle voiture maintenant les modalités… le Diable est dans les détails comme on dit toujours.
+OK, celle ou celui qui pense à ce moment dans le billet — il est foutu ! — a probablement raison. Sur le principe oui, ce sera ma nouvelle voiture maintenant les modalités… le Diable est dans les détails comme on dit toujours.
 
 La conduite
 -----------
@@ -127,6 +127,8 @@ Vu l'architecture de la voiture, surtout pour la 4 roues motrices et le(s) moteu
 Aides de l'État pour les véhicules propres (ça aide, on est à 6 300 € pour la Tesla), assurance peut-être moins chère, révisions conseillées à une par an et évidemment plus simples, sont des points intéressants.
 
 On parle aussi d'une voiture dont la partie logicielle, essentiel dans ce cas, est mise à jour régulièrement ce qui assure une évolutivité difficilement atteignable une thermique. La mise à jour de la partie matérielle est aussi possible et il est tout à fait envisagé par Tesla de permettre de changer la batterie dans 5 ou 8 ans en tenant compte des évolutions technologiques dans le domaine (ce qu'ils ont déjà fait dans le cas des Roaster).
+
+MAJ : Tesla propose une assistance 24/7 à leurs clients. Pour ce qui est des pièces habituelles (freinds, amortisseurs, etc.) tous les garages peuvent le faire. Pour la carrosserie, un garage agréé aluminium pourra intervenir. Pour les pannes plus importantes, c'est rapatriement de la voiture chez Tesla ou intervention sur place par un technicien itinérant. En cas de panne de plus de 4h, il y a prêt d'un modèle S ou d'autre voiture équivalente (Audi/Mercedes/BMW).
 
 Parlons des choses qui fâchent
 ------------------------------
