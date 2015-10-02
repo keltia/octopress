@@ -62,6 +62,20 @@ Documentation
 
 During the jails group, there was the documentation one, the [agenda](https://wiki.freebsd.org/201510DevSummit/Documentation) is as usual on the FreeBSD wiki and the notes are on an [etherpad](https://etherpad.net/p/2015_Dev_Summit_Documentation).
 
+Performance
+-----------
+
+This session is dealing with mostly disk performance, reproductible builds, displaying myths about ZFS, RAIDZ/mirrors and so on.
+
+Agenda: [here](https://wiki.freebsd.org/201510DevSummit/Performance)
+
+SSL
+---
+
+This working group is interested in exploring issues with replacing OpenSSL with LibreSSL, both in base and ports.
+
+See the [agenda](https://wiki.freebsd.org/201510DevSummit/SSL).
+
 Pictures
 --------
 
