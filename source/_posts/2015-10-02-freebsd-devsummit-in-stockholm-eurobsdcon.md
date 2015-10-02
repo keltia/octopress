@@ -74,13 +74,14 @@ SSL
 
 This working group is interested in exploring issues with replacing OpenSSL with LibreSSL, both in base and ports.
 
-See the [agenda](https://wiki.freebsd.org/201510DevSummit/SSL).
+Agenda: [here](https://wiki.freebsd.org/201510DevSummit/SSL).
 
 Graphic stack
 -------------
 
 Discussing the various graphical drivers (DRM and so on) in FreeBSD and updates.  The current version is based on what's inside Linux 3.8 and is not yet complete.  Haswell support is not there yet.  And Broadwell will have to wait till we import a version later than 3.8.  CUrrent situation is a bit messy.  `psm(4)`and `usb(4)` subsystems are getting stable with respect to X drivers.
 
+Agenda: [here](https://wiki.freebsd.org/201510DevSummit/GraphicsStack)
 Notes: [here](https://etherpad.net/p/2015DevSummitGraphicStack)
 
 Pictures
