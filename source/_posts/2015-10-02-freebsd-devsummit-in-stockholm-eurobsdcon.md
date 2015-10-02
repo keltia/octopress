@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeBSD devsummit in Stockholm — EuroBSDCon"
+title: "FreeBSD devsummit in Stockholm — EuroBSDCon 2015"
 date: 2015-10-02 09:52:30 +0200
 comments: true
 sharing: true
