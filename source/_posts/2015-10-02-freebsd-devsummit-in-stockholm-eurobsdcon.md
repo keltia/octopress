@@ -57,6 +57,11 @@ Agenda is [here](https://wiki.freebsd.org/201510DevSummit/Jails).  Topic seems t
 
 We talked about converting `jail.conf` into UCL, some of the grammar is delicate, how to deal with `pkg(8)` itself to install packages inside a jail directly and so on.
 
+Documentation
+-------------
+
+During the jails group, there was the documentation one, the [agenda](https://wiki.freebsd.org/201510DevSummit/Documentation) is as usual on the FreeBSD wiki and the notes are on an [etherpad](https://etherpad.net/p/2015_Dev_Summit_Documentation).
+
 Pictures
 --------
 
