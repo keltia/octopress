@@ -65,7 +65,7 @@ During the jails group, there was the documentation one, the [agenda](https://wi
 Performance
 -----------
 
-This session is dealing with mostly disk performance, reproductible builds, displaying myths about ZFS, RAIDZ/mirrors and so on.
+This session is dealing with mostly disk performance, reproductible builds, displaying myths about ZFS, RAIDZ/mirrors and so on.  The notes are [there](https://etherpad.net/p/2015Dev_Summit_Performance).
 
 Agenda: [here](https://wiki.freebsd.org/201510DevSummit/Performance)
 
