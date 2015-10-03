@@ -14,7 +14,7 @@ Working in computer science for more than 30 years now, mostly on [UNIX](http://
 
 After being an Internet & Security Consultant at at a small but well-known agency called [HSC](http://www.hsc.fr/) between 1994 and 1996, I was hired as Information Security Officer at a european agency called [EUROCONTROL](http://www.eurocontrol.int/) (or ECTL to make it shorter).  Since then, I had several different positions there and am now IT Expert for the SWIM workpackage within the SESAR Programme.
 
-My résumé can be found [here](http://assets.keltia.net/cv-roberto.pdf), more data on my [LinkedIn site](http://linkedin.com/) (see below).
+My résumé can be found [here](https://assets.keltia.net/cv-roberto.pdf), more data on my [LinkedIn site](http://linkedin.com/) (see below).
 
 ## Areas of interest
 
@@ -38,7 +38,7 @@ My Goodread profile with most of my books is [there](https://www.goodreads.com/u
 ## Social media
 
 Twitter: <a href="https://twitter.com/Keltounet" class="twitter-follow-button" data-show-count="false">Follow @Keltounet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> Linkedin: <a href="http://fr.linkedin.com/in/keltia/">![Ollivier Robert](http://assets.keltia.net/images/LinkedIn_Logo16px.png "View my profile")</a><br/>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> Linkedin: <a href="http://fr.linkedin.com/in/keltia/">![Ollivier Robert](https://assets.keltia.net/images/LinkedIn_Logo16px.png "View my profile")</a><br/>
 Facebook: [Ollivier Robert](http://facebook.com/keltia/)<br/>
 
 ## E-mail

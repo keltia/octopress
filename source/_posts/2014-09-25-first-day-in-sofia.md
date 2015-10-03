@@ -13,16 +13,16 @@ At every \*BSD conference like [BSDCan](http://bsdcan.org/) or [AsiaBSDCon](http
 
 And we generally fill up entire walls like this:
 
-{% img http://assets.keltia.net/photos/EuroBSDCon-2014/Devsummit/devsummit-32807.jpg 'Whiteboards' 'Whiteboards with erwin' %}
+{% img https://assets.keltia.net/photos/EuroBSDCon-2014/Devsummit/devsummit-32807.jpg 'Whiteboards' 'Whiteboards with erwin' %}
 
-So the first went fine with several interesting subjects like the future 11.0 features (the ones we could love to have or work on -- see [here for example](http://assets.keltia.net/photos/EuroBSDCon-2014/Devsummit/slides/devsummit-32808.html)), ports and [packages](http://assets.keltia.net/photos/EuroBSDCon-2014/Devsummit/slides/devsummit-32834.html)  (like packaging "base"), [10G Ethernet](http://assets.keltia.net/photos/EuroBSDCon-2014/Devsummit/devsummit-32826.jpg) and others.
+So the first went fine with several interesting subjects like the future 11.0 features (the ones we could love to have or work on -- see [here for example](https://assets.keltia.net/photos/EuroBSDCon-2014/Devsummit/slides/devsummit-32808.html)), ports and [packages](https://assets.keltia.net/photos/EuroBSDCon-2014/Devsummit/slides/devsummit-32834.html)  (like packaging "base"), [10G Ethernet](https://assets.keltia.net/photos/EuroBSDCon-2014/Devsummit/devsummit-32826.jpg) and others.
 
-We also did a session on [embedded systems](http://assets.keltia.net/photos/EuroBSDCon-2014/Devsummit/slides/devsummit-32842.html) (with everything related to various MIPS and ARM CPUs), including external toolchain support and cross-compilation.
+We also did a session on [embedded systems](https://assets.keltia.net/photos/EuroBSDCon-2014/Devsummit/slides/devsummit-32842.html) (with everything related to various MIPS and ARM CPUs), including external toolchain support and cross-compilation.
 
 Of course [Groff](https://twitter.com/groffthebsdgoat) the goat was there:
 
-{% img http://assets.keltia.net/photos/EuroBSDCon-2014/Devsummit/medium/devsummit-32800.jpg 'Groff the goat' 'Groff' %}
+{% img https://assets.keltia.net/photos/EuroBSDCon-2014/Devsummit/medium/devsummit-32800.jpg 'Groff the goat' 'Groff' %}
 
-You can find all the pictures for day 1 [here](http://assets.keltia.net/photos/EuroBSDCon-2014/Devsummit/).
+You can find all the pictures for day 1 [here](https://assets.keltia.net/photos/EuroBSDCon-2014/Devsummit/).
 
 {%footnotes_inline%}

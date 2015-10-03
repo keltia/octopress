@@ -15,7 +15,7 @@ Pourtant, je venais de renouveler mon boitier l'année dernière avec le Pentax 
 <!--more-->
 Mon FA* 85mm/ƒ1.4 est superbe, tout métal, plein de lentilles de grande taille (il est compatible plein-format) mais lourd, lourd et plus produit.
 
-{% img http://assets.keltia.net/images/fastar85.png FA*85mm %}
+{% img https://assets.keltia.net/images/fastar85.png FA*85mm %}
 
 Mon splendide objectif macro (cf. [ces photos](https://www.flickr.com/search/?text=macros&sort=relevance&user_id=62014261%40N00) sur Flickr), le Vivitar 105mm/ƒ2.5 Series 1 Macro, tout métal, à focus manuel reste lui aussi assez lourd.
 
@@ -37,7 +37,7 @@ Rétrospectivement, ce fut probablement une erreur, j'aurais du garder le K-5, q
 
 Le questionnement demeure et a continué à me travailler toute l'année 2014 et là, paf, en mars 2014, [Fujifilm](http://fujifilm.com/) sort, en parallèle des X-Pro1, X-E1/E2 et autres X-M1 un appareil hybride, ressemblant à un petit reflex mais avec un {% wp Appareil_photographique_hybride#Vis.C3.A9e_.C3.A9lectronique "viseur électronique" fr %} actuellement sans rival et une série d'optiques zoom et surtout à focales fixes (mon pêché mignon) superbes, le X-T1.
 
-{% img http://assets.keltia.net/images/fujifilm-xt1.png 'Fujifilm X-T1' 'X-T1' %}
+{% img https://assets.keltia.net/images/fujifilm-xt1.png 'Fujifilm X-T1' 'X-T1' %}
 
 Le prix reste élevé, comparable à celui mon reflex donc changer encore une semblait évidemment inenvisageable (et franchement pas raisonnable)… L'année se passe, je fait mes photos comme à l'habitude ([BSDCan]() à Ottawa, le BBQ annuel au boulot, les vacances, etc.).
 
@@ -70,11 +70,11 @@ J'ai eu l'idée lumineuse (bien que par hasard) d'aller dans un de mes restauran
 Ce soir là, repasse une artiste roumaine, [Norig](http://www.norig.fr/) dotée d'une voix superbe et pleine de tonus, pour un concert génial. Je me suis régalé à prendre des photos, la plupart avec la perle de 56mm/ƒ1.2.
 
 Exemple :
-{% img http://assets.keltia.net/photos/Norig-2014/norig-04020.jpg "Norig" "Norig" %}
+{% img https://assets.keltia.net/photos/Norig-2014/norig-04020.jpg "Norig" "Norig" %}
 
 Cet appareil et ces objectifs sont vraiment géniaux, c'est l'occasion de me renouveler en photo, des nouvelles habitudes, du changement, tout ce que j'aime. Là, je peux dire que je ne regrette pas.
 
-L'album complet du concert est [ici](http://assets.keltia.net/photos/Norig-2014/).
+L'album complet du concert est [ici](https://assets.keltia.net/photos/Norig-2014/).
 
 M-A-J : la suite à cet article sur mon expérience avec le X-T1 est [ici](/2015/01/01/un-mois-avec-le-xt1/).
 

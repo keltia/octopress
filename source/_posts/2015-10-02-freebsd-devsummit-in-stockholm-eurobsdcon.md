@@ -15,7 +15,7 @@ Like last year in [Sofia, Bulgaria](/2014/09/25/first-day-in-sofia/), it is a sm
 
 Our hosts this year are the company called [Init](https://www.init.se/), big thanks to them!
 <!--more-->
-{% img http://assets.keltia.net/blog/devsummit-11284.jpg "Devsummit starting" "Devsummit starting" %}
+{% img https://assets.keltia.net/blog/devsummit-11284.jpg "Devsummit starting" "Devsummit starting" %}
 
 Packaging base
 --------------
@@ -46,14 +46,14 @@ That one went pretty slow, with no real topics pre-defined so we got some update
 
 Of course, [Groff](https://twitter.com/GroffTheBSDGoat) the goat joined us on the second day, too busy touring Stockholm on the 1st one I guess :)
 
-{% img http://assets.keltia.net/blog/devsummit-11314.jpg "Groff" "Groff" %}
+{% img https://assets.keltia.net/blog/devsummit-11314.jpg "Groff" "Groff" %}
 
 Roadmap for jails
 -----------------
 
 Agenda is [here](https://wiki.freebsd.org/201510DevSummit/Jails).  Topic seems to interest a lot of people for some reason :) See the pano picture:
 
-{% img http://assets.keltia.net/blog/IMG_7170.JPG "Jails" "Jails" %}
+{% img https://assets.keltia.net/blog/IMG_7170.JPG "Jails" "Jails" %}
 
 We talked about converting `jail.conf` into UCL, some of the grammar is delicate, how to deal with `pkg(8)` itself to install packages inside a jail directly and so on.
 
@@ -87,6 +87,6 @@ Notes: [here](https://etherpad.net/p/2015DevSummitGraphicStack)
 Pictures
 --------
 
-As usual I have created a gallery for the pictures I'll be taking at the conference ,so heads out to [here](http://assets.keltia.net/photos/EuroBSDCon-2015/) to see them.
+As usual I have created a gallery for the pictures I'll be taking at the conference ,so heads out to [here](https://assets.keltia.net/photos/EuroBSDCon-2015/) to see them.
 
 {%footnotes_inline%}

@@ -28,7 +28,7 @@ Note : 4.5/5<br/>
 
 Les menus du soir sont à base de plateaux, commençant à 55 € puis 75 € et plus. Bonne explication sur le contenu par le serveur, je prends le premier, avec 8 makis, 7 nigiri et une sorte de feuilleté à base d'œufs de saumon (?) et d'algues :
 
-{% img http://assets.keltia.net/blog/kaiseki-05301.jpg 'Plat principal nigiri - makis' 'Plat principal' %}
+{% img https://assets.keltia.net/blog/kaiseki-05301.jpg 'Plat principal nigiri - makis' 'Plat principal' %}
 
 Ô joie ô bonheur, il y a du *toro* à la carte et je vais en avoir dans le plateau (en haut, légèrement à gauche, à côté du thon *maguro*). Il faut dire que le *toro* est mon pêché mignon, l'ayant découvert dans un autre resto dont je parlerai plus tard).
 
@@ -38,7 +38,7 @@ Prendre un dessert n'est pas raisonnable vu les prix mais allez, c'est la premi�
 
 Voici le résultat, très particulier dans la proximité d'une tarte à pommes finement coupées, d'une madeleine avec une sauce dont j'ai oublié la composition, d'une crème chocolat - macha et dune glace au thé vert et meringue.
 
-{% img http://assets.keltia.net/blog/kaiseki-05302.jpg 'Dessert' 'Dessert' %}
+{% img https://assets.keltia.net/blog/kaiseki-05302.jpg 'Dessert' 'Dessert' %}
 
 C'est délicieux le tout arrosé d'un thé boisé (à base de branches et non pas de feuilles si j'ai bien compris).
 

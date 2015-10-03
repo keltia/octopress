@@ -17,13 +17,13 @@ Interesting keynote on [FreeBSD: the next 10 years](http://2014.eurobsdcon.org/t
 
 TL; DR: be open to new hardware & software features, mobile computing and embedded are more important than desktop right now.
 
-{% img http://assets.keltia.net/photos/EuroBSDCon-2014/Conference/medium/conference-32882.jpg 'Jordan Hubbard' 'Jordan Hubbard Keynote' %}
+{% img https://assets.keltia.net/photos/EuroBSDCon-2014/Conference/medium/conference-32882.jpg 'Jordan Hubbard' 'Jordan Hubbard Keynote' %}
 
 [Kris Moore]() talked about the new tools they have developped in [PC-BSD](http://www.pcbsd.org/) to deal with advanced features of {% wp ZFS %} (automated and scheduled snapshot, use of Grub for having an encrypted zfs-on-root system with onely one pool and so on.).
 
 [Kirk](http://mckusick.com/) gave us an interesting talk on {% wp ZFS %} internals implementation, something we do not see often (who has not seen Matt Ahrend's talk yet? :)) so thanks Kirk.
 
-{% img http://assets.keltia.net/photos/EuroBSDCon-2014/Conference/medium/conference-32891.jpg 'Kirk McKusick' 'Kirk ZFS' %}
+{% img https://assets.keltia.net/photos/EuroBSDCon-2014/Conference/medium/conference-32891.jpg 'Kirk McKusick' 'Kirk ZFS' %}
 
 Next talk was John-Mark Gurney's talk about optimizing {% wp Geli_(software) "GELI" %} performance, while keeping sane and readable code, something which is not always easy when dealing with crypto code.  Lots of interesting bits here even though I've heard the talk before at [BSDCan](http://bsdcan.org/).
 
@@ -35,10 +35,10 @@ Then an interesting session on using {% wp Lua_(programming_language) "Lua" %} a
 
  Awesome presentation, I'm really happy we got him on board at the conference.
 
- {% img http://assets.keltia.net/photos/EuroBSDCon-2014/Conference/medium/conference-32915.jpg 'Andrew S. Tanenbaum' 'Andy Tanenbaum Minix3' %}
+ {% img https://assets.keltia.net/photos/EuroBSDCon-2014/Conference/medium/conference-32915.jpg 'Andrew S. Tanenbaum' 'Andy Tanenbaum Minix3' %}
 
 Great way to end this first day of talks.
 
-As usual, more pictures [there](http://assets.keltia.net/photos/EuroBSDCon-2014/Conference/index.html).
+As usual, more pictures [there](https://assets.keltia.net/photos/EuroBSDCon-2014/Conference/index.html).
 
 {%footnotes_inline%}

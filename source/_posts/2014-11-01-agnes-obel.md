@@ -21,7 +21,7 @@ J'écoute principalement Aventine pour l'instant mais je vais bientôt me lancer
 
 Je recommande énormément.
 
-[MAJ] Cette chère [@Trimillie](https://twitter.com/Trimillie) m'indique la référence vers un concert privé au fameux Studio 105 de Radio France, passé le 23 octobre 2013, réécoutable [ici](http://www.franceinter.fr/emission-addictions-concert-prive-agnes-obel-au-studio-105).  Comme le podcast va finir par disparaitre un jour (en 2016), je me suis permis de récupérer une copie de sauvegarde ici : [Concert privé - MP3](http://assets.keltia.net/music/Agnes-Obel_concert_studio_105.mp3) (105 Mo). Merci !
+[MAJ] Cette chère [@Trimillie](https://twitter.com/Trimillie) m'indique la référence vers un concert privé au fameux Studio 105 de Radio France, passé le 23 octobre 2013, réécoutable [ici](http://www.franceinter.fr/emission-addictions-concert-prive-agnes-obel-au-studio-105).  Comme le podcast va finir par disparaitre un jour (en 2016), je me suis permis de récupérer une copie de sauvegarde ici : [Concert privé - MP3](https://assets.keltia.net/music/Agnes-Obel_concert_studio_105.mp3) (105 Mo). Merci !
 
 PS : Agnes Obel est aussi sur [Twitter](https://twitter.com/agnesobel) en parallèle avec un [compte de fans](https://twitter.com/agnesobel_org)
 
