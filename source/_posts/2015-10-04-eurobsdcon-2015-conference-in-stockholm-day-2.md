@@ -13,7 +13,7 @@ Day 2
 I know most of his stuff but listening to Kirk McKusick is always funny as he has a lot of stories to tell about all these days a Berkeley :) — This time it was about the history of the {% wp Unix_File_System "BSD Fast File System" %}.
 
 {% img https://assets.keltia.net/blog/kirk-11452.jpg "Kirk & Marc" "Kirk & Marc" %}
-
+<!--more-->
 Next was the talk by Baptiste Daroussin about the tool called *Poudrière* (yes, it means powder keg) that is used by both FreeBSD and DragonflyBSD to build all the binary packages for ports.  You just can't do better as a `/bin/sh`-based tool with high parallelism.
 
 {% img https://assets.keltia.net/blog/bapt-7212.jpg "FS Stressing" "FS Stressing" %}
