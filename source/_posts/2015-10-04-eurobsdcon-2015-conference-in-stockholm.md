@@ -9,7 +9,7 @@ categories: freebsd conference eurobsdcon english stockholm sweden
 
 This is a followup post on the one about the [EuroBSDCon](/categories/eurobsdcon) [FreeBSD](/categories/freebsd) [devsummit](/categories/devsummit) that you can find [here](/2015/10/02/freebsd-devsummit-in-stockholm-eurobsdcon/).
 
-This conference is dedicated to the late Paul Schenkeveld who passed away a the beginning of the year.  Paul was President of the EuroBSDCon Foundation and a friend to us all.
+This conference is dedicated to the late [Paul Schenkeveld](https://assets.keltia.net/photos/PaulS/) who passed away a the beginning of the year.  Paul was President of the EuroBSDCon Foundation and a friend to us all.
  
 {% img https://assets.keltia.net/blog/paul-11394.jpg "Farewell Paul" "Farewell Paul" %}
 <!--more-->
