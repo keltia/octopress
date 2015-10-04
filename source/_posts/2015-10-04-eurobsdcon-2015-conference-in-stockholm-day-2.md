@@ -7,6 +7,8 @@ sharing: true
 categories: freebsd conference eurobsdcon english stockholm sweden
 ---
 
+Last post in my series about [EuroBSDCon 2015](http://2015.eurobsdcon.org/) — See [previous one](/2015/10/04/eurobsdcon-2015-conference-in-stockholm/).
+
 Day 2
 -----
 
