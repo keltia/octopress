@@ -28,6 +28,12 @@ After lunch, on with the two talks I'm chairing this afternoon, "The State of th
 
 The last two parts of the conference are another keynote and the closing session, with the eagerly awaited disclosure of the next EuroBSDCon's location.
 
+The keynote was by Patrik Fälstrom from Netnod on the history Internet history in Sweden and the status of the Internet today compared to its beginning.  Goal being how can we keep the Internet to work despite its growth.
+
+And next location will be… Belgrade in Serbia!
+
+{% img https://assets.keltia.net/blog/Flag_of_Serbia.svg.png "Serbia" "Serbia" %}
+
 Pictures
 --------
 
