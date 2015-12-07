@@ -23,7 +23,7 @@ Non, je n'ai pas commencé comme tant d'autres avec un {% wp Altair_8800 "Altair
 
 Ordoncques, mon père, se disant que ça pouvait m'intéresser, m'acheta pour mon anniversaire un {% wp ZX81 "Sinclair ZX81" fr %}. Je dois dire que qu'elles qu'aient été ses attentes à l'époque, je pense les avoir « un peu » dépassées :)
 
-{% img http://assets.keltia.net/blog/320px-The_Mighty_ZX-81.jpg "ZX81" "Sinclair ZX81" %}
+{% img https://assets.keltia.net/blog/320px-The_Mighty_ZX-81.jpg "ZX81" "Sinclair ZX81" %}
 
 Ça n'est probablement pas très impressionnant, vu ainsi : petit, en plastique, avec un clavier compliqué, touffu avec ses 4-5 fonctions par touche, sans parler déjà d'un clavier QWERTY (que l'on qualifierait maintenant de UK avec son symbole £). Le chargement des programmes et la sauvegarde des données se faisaient _via_ un lecteur de cassette audio (des mini-cassettes dans mon cas, un dictaphone comme on les appelait). Le processeur — vendons du rêve ! — était un {% wp Zilog_Z80 "Zilog Z-80" fr %}, 8 bits avec une fréquence royale de 3.25 MHz{% fnin %}Cette fréquence peut paraitre rapide par rapport à d'autres processeurs, notamment le 6502 équipant l'Apple II mais il faut savoir que cette fréquence avait été choisie pour coïncider avec le balayage de la TV en 625 lignes et que le processeur s'occupait aussi de l'affichage.{% endfnin %}. L'affichage se faisait _via_ la prise antenne de la télévision (et les dieux savent combien de fois j'ai emprunté la TV familiale à ma mère pour l'y brancher).
 
@@ -37,7 +37,7 @@ Ce fut aussi l'occasion de lire en anglais, les bouquins en français étant tr�
 
 J'avais même fait une démonstration du ZX81 dans mon collège, étant l'un des premiers élèves à avoir un ordinateur à la maison… Le collège lui-même venant de recevoir ses premiers TRS-80.
 
-{% img http://assets.keltia.net/blog/388px-TRS-80_Model_I_-_Rechnermuseum_Cropped.jpg "TRS-80" "TRS-80" %}
+{% img https://assets.keltia.net/blog/388px-TRS-80_Model_I_-_Rechnermuseum_Cropped.jpg "TRS-80" "TRS-80" %}
 
 Malgré ses piètres performances et possibilités, j'étais accroché :)
 
@@ -45,7 +45,7 @@ Petite transition : Oric-1 (1983)
 ---------------------------------
 Le ZX81 (tout comme son prédécesseur le ZX80) était l'œuvre d'un britannique de génie, {% wp Clive_Sinclair "Sir Clive Sinclair" fr %} qui inventa aussi une voiture électrique, la {% wp Sinclair_Vehicles_Ltd#La_C5 "C5" fr %}. Après le succès du ZX81, Sinclair annonça son successeur, le futur {% wp ZX_Spectrum "ZX Spectrum" fr %} mais, impatient que j'étais de continuer, je fis une infidélité à Sir Clive en achetant un autre ordinateur, l'{% wp Oric_1 "Oric 1" fr %} fin 1983 ou début 1984.
 
-{% img http://assets.keltia.net/blog/320px-Oric1_01.jpg "Oric 1" "Oric 1" %}
+{% img https://assets.keltia.net/blog/320px-Oric1_01.jpg "Oric 1" "Oric 1" %}
 
 On passe là dans une toute autre dimension :
 
@@ -65,7 +65,7 @@ Entre temps, Sinclair a sorti son ZX Spectrum mais prépare déjà son successeu
 
 Vous remarquerez que l'on reste pour l'instant dans l'univers des machines 8 bits pour les micro-ordinateurs (hormis l'OVNI appelé {% wp TI-99/4A "TI-99/4A" fr %}, le premier disposant d'un processeur 16 bits, le TMS9900). Pas d'Atari 600XL ou 800 ici, je ne les voyais vraiment que comme des consoles de jeux et ça ne m'intéressait pas.
 
-{% img http://assets.keltia.net/blog/320px-Atari-600XL-PC.jpg "Atari 600XL" "Atari 600XL" %}
+{% img https://assets.keltia.net/blog/320px-Atari-600XL-PC.jpg "Atari 600XL" "Atari 600XL" %}
 
 La révolution arrive néanmoins.
 
@@ -74,7 +74,7 @@ La révolution 32 bits : Sinclair QL (1985)
 
 Comme chacun sait, Apple, après l'échec cuisant du {% wp Apple_Lisa "Lisa" fr %} en 1983, révolutionnaire mais ultra-cher (70 000 F soit plus de 10 000 €, à l'époque !), sort le Macintosh en 1984, doté comme lui d'un microprocesseur 16/32 bits{% fnin %}Le terme de 16/32 bits vient de la structure interne et externe du CPU, les registres sont sur 32 bits mais le bus de données est sur 16 et le bus d'adresses sur 24 bits — le premier ralentit les échanges avec la mémoire et le deuxième limite la mémoire à 16 Mo.{% endfnin %}, le {% wp Motorola_68000 "Motorola 68000" fr %}. Ce processeur est très important ici puisque dans sa variation {% wp Motorola_68008 "68008" fr %}{% fnin %}Le 68008 est 8/16/32 bits avec un bus de données sur 8 bits (donc encore plus lent mais compatible avec des puces 8 bits pour le reste de la machine) et un bus d'adresses sur 20 bits uniquement, soit 1 Mo adressable pour le QL.{% endfnin %}, il va équiper mon 3e ordinateur, le {% wp Sinclair_QL "Sinclair QL" fr %}.
 
-{% img http://assets.keltia.net/blog/320px-Working-Sinclair-QL.jpg "Sinclair QL" "Sinclair QL" %}
+{% img https://assets.keltia.net/blog/320px-Working-Sinclair-QL.jpg "Sinclair QL" "Sinclair QL" %}
 
 Cet ordinateur va me propulser dans un autre monde, celui où le système d'exploitation, {% wp Sinclair_QDOS "QDOS" fr %}, devient plus important pour moi que ce qu'il fait tourner (i.e. les applications). Celui-ci était multitâches{% fnin %}De manière préemptive c-a-d que le noyau interrompait tous les processus régulièrement pour changer de tâches, contrairement au systèmes type MacOS (pré-OSX) qui eux, demandaient la coopération des processus pour changer la main.{% endfnin %}, disposait d'un système de fenêtrage et d'un BASIC amélioré — le SuperBASIC – permettant la programmation structurée.
 
@@ -150,7 +150,7 @@ Après, ça s'accélère un peu, j'ai réussi à changer ce PC pour une Rolls de
 
 (ça fait peur hein ?)
 
-{% img http://assets.keltia.net/blog/Compaq_386DX.jpg "Compaq Desktop" "Compaq Desktop" %}
+{% img https://assets.keltia.net/blog/Compaq_386DX.jpg "Compaq Desktop" "Compaq Desktop" %}
 
 J'ai failli oublier le passage à une vraie carte graphique enfin, une carte {% wp Video_Graphics_Array "VGA" fr %} Compaq et son écran de 11 ou 12 pouces (aïe le portefeuille là encore), avec MS-DOS 3.1, 3.2 et enfin 3.31 Compaq (parce qu'il gérait des partitions étendues de plus de 32 Mo).
 

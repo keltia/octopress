@@ -19,7 +19,7 @@ Comme je l'ai dit dans l'article initial sur mon changement de marque, le *look*
 
 Ordoncque, son aspect proche des reflex que j'ai utilisé pendant longtemps me plait beaucoup et même s'il est plus petit que mon Pentax K-3, la prise en main est tout à fait satisfaisante (l'auriculaire se sent certes un peu délaissé). Le repose-pouce à l'arrière aide bien à ce propos. J'avais hésité à prendre le [Hand Grip MHG-XT](http://www.fujifilm.com/products/digital_cameras/accessories/camera_cases/#handgrip), pour l'instant, pas de regret.
 
-{% img http://assets.keltia.net/blog/blog-15978.jpg "XT-1 devant" "XT-1 devant" %}
+{% img https://assets.keltia.net/blog/blog-15978.jpg "XT-1 devant" "XT-1 devant" %}
 
 L'ergonomie
 -----------
@@ -31,7 +31,7 @@ Parlons-en de cet EVF. Un des points forts de cet hybride salués par les revues
 
 Celles et ceux qui ont regardé mes galeries [500px](https://500px.com/Keltia/) ou [Flickr](https://www.flickr.com/photos/keltia/) ont pu le constater, je me mets à prendre des photos en noir et blanc et là justement, l'EVF fait sa magie une fois encore : il passe lui aussi en N&B ce qui donne une réelle idée de la photo finale, ce que l'on ne pouvait obtenir auparavant que soit sur l'appareil en « développant » l'image après-coup sur l'écran arrière ou en post-processus _via_ Lightroom ou autre logiciel. Ça change la vie, vraiment.
 
-{% img http://assets.keltia.net/blog/blog-05908.jpg "Sous le pont d&#39;Iéna" "Sous le pont d&#39;Iéna" %}
+{% img https://assets.keltia.net/blog/blog-05908.jpg "Sous le pont d&#39;Iéna" "Sous le pont d&#39;Iéna" %}
 
 La détection de visage que je n'utilisais jamais sur le K-5/K-3 puisque limitée à la vision "live view" prend tout son sens avec l'EVF et je l'utilise (notamment en concert).
 
@@ -39,13 +39,13 @@ Je passe sur les informations comme l'histogramme et autres affichées dedans, l
 
 Les deux molettes principales (ISO et vitesse) restent par contre encore beaucoup sur le mode A, le X-T1 ayant une manière de gérer automatiquement les ISO très bien faire, bien mieux que ce que j'avais sur le K-3 : Je peux spécifier non seulement l'intervalle utilisé en Auto-ISO mais aussi la vitesse minimale à respecter, 1/80s en l'occurrence pour moi afin d'éviter les flous de bougé quel que soit l'objectif monté (j'ai les 14mm, 23mm et 56mm soit 21mm, 35mm et 85mm resp. en équivalent 35mm).
 
-{% img http://assets.keltia.net/blog/blog-15977.jpg "X-T1 arrière" "X-T1 arrière" %}
+{% img https://assets.keltia.net/blog/blog-15977.jpg "X-T1 arrière" "X-T1 arrière" %}
 
 Comme beaucoup d'appareils, on peut aussi changer la fonction de quelques boutons sur le X-T1, ce qui est pratique. Le bouton devant est dorénavant assigné à la reconnaissance ou non des visages (très efficace d'ailleurs et ce encore plus depuis la mise à jour du 18 décembre — _firmware_ 3.00).
 
 Cette mise à jour a aussi apporté des nouveautés très intéressantes comme la modification rapide du collimateur pour l'auto-focus (il suffit d'utiliser le pavé à flèches en visant — du coup, encore une chose que j'utilise contrairement au reflex) et un obturateur électronique allant de 1s au 1/32000s.  Quel intérêt de monter aussi vite me direz-vous ? Regardez l'image suivante, prise en plein soleil, au 1/18000s. Je profile de la profondeur de champ et son flou associé en arrière-plan tout en figeant l'objet en rotation… Ça permet de se passer d'un filtre ND qui aurait été nécessaire sinon pour pouvoir prendre à pleine ouverture.
 
-{% img http://assets.keltia.net/blog/blog-05880.jpg "Freezing the wind" "Freezing the wind" %}
+{% img https://assets.keltia.net/blog/blog-05880.jpg "Freezing the wind" "Freezing the wind" %}
 
 Bref, que du bonheur.
 
@@ -107,55 +107,55 @@ Quelques unes sont sur ma galerie [500px](https://500px.com/Keltia/) mais en voi
 
 ### XF14mm/ƒ2.8
 
-{% img http://assets.keltia.net/blog/blog-05001.jpg "Pont des Invalides" "Pont des Invalides" %}
+{% img https://assets.keltia.net/blog/blog-05001.jpg "Pont des Invalides" "Pont des Invalides" %}
 
 ### XF23mm/ƒ1.4
 
-{% img http://assets.keltia.net/blog/blog-05070.jpg "Grand Palais" "Grand Palais" %}
+{% img https://assets.keltia.net/blog/blog-05070.jpg "Grand Palais" "Grand Palais" %}
 
-{% img http://assets.keltia.net/blog/blog-05094.jpg "Pont du Carousel" "Pont du Carousel" %}
+{% img https://assets.keltia.net/blog/blog-05094.jpg "Pont du Carousel" "Pont du Carousel" %}
 
-{% img http://assets.keltia.net/blog/blog-05096.jpg "Musée d&#39;Orsay" "Musée d&#39;Orsay" %}
+{% img https://assets.keltia.net/blog/blog-05096.jpg "Musée d&#39;Orsay" "Musée d&#39;Orsay" %}
 
-{% img http://assets.keltia.net/blog/blog-05936.jpg "Cache-cache entre les nuages" "Cache-cache entre les nuages" %}
+{% img https://assets.keltia.net/blog/blog-05936.jpg "Cache-cache entre les nuages" "Cache-cache entre les nuages" %}
 
-{% img http://assets.keltia.net/blog/blog-05959.jpg "Diane au soleil couchant" "Diane au soleil couchant" %}
+{% img https://assets.keltia.net/blog/blog-05959.jpg "Diane au soleil couchant" "Diane au soleil couchant" %}
 
-{% img http://assets.keltia.net/blog/blog-06010.jpg "Énormes bulles" "Énormes bulles" %}
+{% img https://assets.keltia.net/blog/blog-06010.jpg "Énormes bulles" "Énormes bulles" %}
 
-{% img http://assets.keltia.net/blog/blog-06040.jpg "Esplanade du Louvre" "Esplanade du Louvre" %}
+{% img https://assets.keltia.net/blog/blog-06040.jpg "Esplanade du Louvre" "Esplanade du Louvre" %}
 
-{% img http://assets.keltia.net/blog/blog-06050.jpg "Pont des Arts" "Pont des Arts" %}
+{% img https://assets.keltia.net/blog/blog-06050.jpg "Pont des Arts" "Pont des Arts" %}
 
-{% img http://assets.keltia.net/blog/blog-06052.jpg "Gloomy Riverside" "Gloomy Riverside" %}
+{% img https://assets.keltia.net/blog/blog-06052.jpg "Gloomy Riverside" "Gloomy Riverside" %}
 
-{% img http://assets.keltia.net/blog/blog-06059.jpg "Pont Neuf" "Pont Neuf" %}
+{% img https://assets.keltia.net/blog/blog-06059.jpg "Pont Neuf" "Pont Neuf" %}
 
-{% img http://assets.keltia.net/blog/blog-06073.jpg "Caserne de la Cité" "Caserne de la Cité" %}
+{% img https://assets.keltia.net/blog/blog-06073.jpg "Caserne de la Cité" "Caserne de la Cité" %}
 
-{% img http://assets.keltia.net/blog/blog-06088.jpg "Notre-Dame" "Notre-Dame" %}
+{% img https://assets.keltia.net/blog/blog-06088.jpg "Notre-Dame" "Notre-Dame" %}
 
 ### XF56mm/ƒ1.2
 
-{% img http://assets.keltia.net/blog/blog-04599.jpg "Norig au Sentier des Halles" "Norig au Sentier des Halles" %}
+{% img https://assets.keltia.net/blog/blog-04599.jpg "Norig au Sentier des Halles" "Norig au Sentier des Halles" %}
 
-{% img http://assets.keltia.net/blog/blog-05045.jpg "Descente du Trocadéro" "Descente du Trocadéro" %}
+{% img https://assets.keltia.net/blog/blog-05045.jpg "Descente du Trocadéro" "Descente du Trocadéro" %}
 
-{% img http://assets.keltia.net/blog/blog-05142.jpg "Eric Jurado du CNES" "Eric Jurado du CNES" %}
+{% img https://assets.keltia.net/blog/blog-05142.jpg "Eric Jurado du CNES" "Eric Jurado du CNES" %}
 
-{% img http://assets.keltia.net/blog/blog-05178.jpg "Grues de l&#39;île Seguin" "Grues de l&#39;île Seguin" %}
+{% img https://assets.keltia.net/blog/blog-05178.jpg "Grues de l&#39;île Seguin" "Grues de l&#39;île Seguin" %}
 
-{% img http://assets.keltia.net/blog/blog-05544.jpg "Oie de Noël" "Oie de Noël" %}
+{% img https://assets.keltia.net/blog/blog-05544.jpg "Oie de Noël" "Oie de Noël" %}
 
-{% img http://assets.keltia.net/blog/blog-05572.jpg "Fermière facétieuse" "Fermière facétieuse" %}
+{% img https://assets.keltia.net/blog/blog-05572.jpg "Fermière facétieuse" "Fermière facétieuse" %}
 
-{% img http://assets.keltia.net/blog/blog-05604.jpg "Fanfare de Noël" "Fanfare de Noël" %}
+{% img https://assets.keltia.net/blog/blog-05604.jpg "Fanfare de Noël" "Fanfare de Noël" %}
 
-{% img http://assets.keltia.net/blog/blog-05629.jpg "Jardin d&#39;hiver" "Jardin d&#39;hiver" %}
+{% img https://assets.keltia.net/blog/blog-05629.jpg "Jardin d&#39;hiver" "Jardin d&#39;hiver" %}
 
-{% img http://assets.keltia.net/blog/blog-05881.jpg "Étourneau sansonnet" "Étourneau sansonnet" %}
+{% img https://assets.keltia.net/blog/blog-05881.jpg "Étourneau sansonnet" "Étourneau sansonnet" %}
 
-{% img http://assets.keltia.net/blog/blog-05901.jpg "Les gardiens de la Tour Eiffel" "Les gardiens de la Tour Eiffel" %}
+{% img https://assets.keltia.net/blog/blog-05901.jpg "Les gardiens de la Tour Eiffel" "Les gardiens de la Tour Eiffel" %}
 
 Notes
 -----

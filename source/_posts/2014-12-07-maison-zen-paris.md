@@ -34,21 +34,21 @@ On reste sur du sushi-bar assez classique mais il n'y a pas que les sushis/sashi
 
 Après avoir choisi un assortiment de nigiris et un maki de {% wp Thon_gras 'toro' fr %} ou thon gras{% fnin %}Le toro est mon poisson favori mais il reste très rare et/ou très cher dans les restaurants… {% endfnin %} haché + ciboulette, on m'apporte une petite salade de légumes d'hiver, très bonne :
 
-{% img http://assets.keltia.net/blog/zen-05869.jpg 'Entrée' 'Entrée' %}
+{% img https://assets.keltia.net/blog/zen-05869.jpg 'Entrée' 'Entrée' %}
 
 J'ai eu mon plateau de nigiri après, aussi bien garni que la dernière fois… avec du *toro* (\o/), du saumon évidemment mais aussi de la coquille St Jacques (*otate* un de mes sushis favoris aussi), de l'anguille (*unagi*), du thon rouge (*maguro*) et une crevette.
 
-{% img http://assets.keltia.net/blog/zen-05870.jpg 'Plateau de nigiris' 'Plateau de nigiris' %}
+{% img https://assets.keltia.net/blog/zen-05870.jpg 'Plateau de nigiris' 'Plateau de nigiris' %}
 
 Les makis de *toro* et ciboulette sont aussi appétissants :)
 
-{% img http://assets.keltia.net/blog/zen-05871.jpg 'Toro ciboulette' 'Toro à la ciboulette' %}
+{% img https://assets.keltia.net/blog/zen-05871.jpg 'Toro ciboulette' 'Toro à la ciboulette' %}
 
 Le tout est d'une excellente fraîcheur, servi rapidement et évidement je me délecte de voir la préparation devant moi (même si le comptoir masque un peu trop, les meilleures places avec une meilleure vue sont réservées) ainsi que ce qui est servi aux autres clients{% fnin %}Je suis arrivé à l'ouverture à 19h, très peu de monde mais ça se remplit très rapidement, réservez si vous êtes plusieurs…{% endfnin %}.
 
 Une fois n'est pas coutume — les restaurants japonais et asiatiques en général ne sont pas réputés pour leurs desserts — voyant un dessert à la fraise{% fnin %}Mon fruit préféré, comment avez-vous deviné ?{% endfnin %}, je craque et la vision (et le goût !) est au rendez-vous. Jugez par vous mêmes :
 
-{% img http://assets.keltia.net/blog/zen-05872.jpg 'Gâteau fraise' 'Gâteau à la fraise' %}
+{% img https://assets.keltia.net/blog/zen-05872.jpg 'Gâteau fraise' 'Gâteau à la fraise' %}
 
 (je sais ce n'est pas *du tout* la saison des fraises)
 
@@ -58,7 +58,7 @@ La présentation des plats est très soignée sans en faire trop, la bonne cuisi
 
 PS : voici une photo de l'entrée que j'avais prise la première fois, là encore du *toro* haché à la ciboulette mais pas en maki cette fois :
 
-{% img http://assets.keltia.net/blog/zen-00001.jpg 'toro ciboulette' 'Toro haché ciboulette' %}
+{% img https://assets.keltia.net/blog/zen-00001.jpg 'toro ciboulette' 'Toro haché ciboulette' %}
 
 PPS : oui, je m'aperçois seulement maintenant que j'ai écrit un article parlant d'un restaurant *japonais* un 7 décembre.
 

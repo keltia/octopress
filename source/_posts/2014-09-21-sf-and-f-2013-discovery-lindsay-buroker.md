@@ -7,7 +7,7 @@ sharing: true
 categories: sff steampunk author discovery 2013 english
 ---
 
-It is no secret that I like Science Fiction & Fantasy (my [Goodreads profile](https://www.goodreads.com/user/show/3581338-ollivier) shows that :)) and I like classical authors such as {% wp Michael_Moorcock %}{% fnin %}I met him three years ago see [these pictures](http://assets.keltia.net/photos/Moorcock-2012) {% endfnin %} , {% wp Isaac_Asimov %} and of course {% wp J._R._R._Tolkien %}.  I'm not reading only these of course and my list of authors has been growing over the years.
+It is no secret that I like Science Fiction & Fantasy (my [Goodreads profile](https://www.goodreads.com/user/show/3581338-ollivier) shows that :)) and I like classical authors such as {% wp Michael_Moorcock %}{% fnin %}I met him three years ago see [these pictures](https://assets.keltia.net/photos/Moorcock-2012) {% endfnin %} , {% wp Isaac_Asimov %} and of course {% wp J._R._R._Tolkien %}.  I'm not reading only these of course and my list of authors has been growing over the years.
 
 One genre I've been reading into lately is {% wp Steampunk %} which mix steam-powered machinery with special things such as post-apocalyptic world or magic. 
 

@@ -18,14 +18,14 @@ So the WG was setup to discuss all aspects of documentation such as tools, barri
 
 Warren Block chaired the WG:
 
-{% img http://assets.keltia.net/blog/blog-09108.jpg "Warren" "Warren" %}
+{% img https://assets.keltia.net/blog/blog-09108.jpg "Warren" "Warren" %}
 
 Some notes are on the [Etherpad - doc](https://etherpad.net/p/201506-doc) bcr put on.
 
 We had more people in the WG then Warren expected so everybody was happy with both attendance and discussions.
 
-{% img http://assets.keltia.net/blog/blog-09122.jpg "Doc WG" "Doc WG" %}
-{% img http://assets.keltia.net/blog/blog-09123.jpg "Doc WG" "Doc WG" %}
+{% img https://assets.keltia.net/blog/blog-09122.jpg "Doc WG" "Doc WG" %}
+{% img https://assets.keltia.net/blog/blog-09123.jpg "Doc WG" "Doc WG" %}
 
 Interlude
 ---------
@@ -34,42 +34,42 @@ At the same time as the Doc WG, there was the ARM WG in another room.  They was 
  
 8-core ARM64, 1 GB RAM, 2x USB, 1 GbE ethernet
 
-{% img http://assets.keltia.net/blog/blog-09128.jpg "8-core" "8-core" %}
+{% img https://assets.keltia.net/blog/blog-09128.jpg "8-core" "8-core" %}
 
 ThunderX 48 and 96-core boards, 2x 10 GbE, 1x 40 GbE
 
-{% img http://assets.keltia.net/blog/blog-09126.jpg "96-core" "96-core" %}
-{% img http://assets.keltia.net/blog/blog-09127.jpg "48-core" "48-core" %}
+{% img https://assets.keltia.net/blog/blog-09126.jpg "96-core" "96-core" %}
+{% img https://assets.keltia.net/blog/blog-09127.jpg "48-core" "48-core" %}
 
 Pictures
 --------
 
 I was able to finally take one picture of our keynote speaker for tomorrow, Steve Bourne!
 
-{% img http://assets.keltia.net/blog/blog-09160.jpg "Steve Bourne" "Steve Bourne" %}
+{% img https://assets.keltia.net/blog/blog-09160.jpg "Steve Bourne" "Steve Bourne" %}
 
 We took the usual group photo of all devsummit participants, I do not have the final picture yet but here is one of the some of us crossing the streets toward the place where it was done:
 
-{% img http://assets.keltia.net/blog/blog-09164.jpg "Crossing the street" "Crossing the street" %}
+{% img https://assets.keltia.net/blog/blog-09164.jpg "Crossing the street" "Crossing the street" %}
 
 Then Diane took pictures of David who took pictures of me taking pictures of Diane :)
 
-{% img http://assets.keltia.net/blog/blog-09166.jpg "Photo junkies" "Photo junkies" %}
+{% img https://assets.keltia.net/blog/blog-09166.jpg "Photo junkies" "Photo junkies" %}
 
 UPDATE: here is the group photo!  Thanks David!
 
-{% img http://assets.keltia.net/blog/DevSummit2015_group_photo.jpg "developers!" "developers!" %}
+{% img https://assets.keltia.net/blog/DevSummit2015_group_photo.jpg "developers!" "developers!" %}
 
 Devsummit — `libxo` WG
 ----------------------
 
-{% img http://assets.keltia.net/blog/blog-09171.jpg "Doc WG" "Doc WG" %}
+{% img https://assets.keltia.net/blog/blog-09171.jpg "Doc WG" "Doc WG" %}
 
 Libxo is a library to generate HTML, XML, JSON and txt of data describe by a description language.  The goal is to convert some of the base utilities (`libxo` is in FreeBSD-current) to use it.  The WG was also to show how to do such conversions.
 
 This session was chaired by both Phil Shafer and Marcel Molenaar
-{% img http://assets.keltia.net/blog/blog-09168.jpg "Phil" "Phil" %}
-{% img http://assets.keltia.net/blog/blog-09170.jpg "Marcel" "Marcel" %}
+{% img https://assets.keltia.net/blog/blog-09168.jpg "Phil" "Phil" %}
+{% img https://assets.keltia.net/blog/blog-09170.jpg "Marcel" "Marcel" %}
 
 We also did put some notes up on another [Etherpad - libxo](https://etherpad.net/p/201506-libxo)
 
@@ -77,7 +77,7 @@ I also took pictures of the slides they are on my site along with other pictures
 
 Links
 -----
-- [Pictures for day 2](http://assets.keltia.net/photos/BSDCan-2015/Devsummit%20Day%202/index.html)
+- [Pictures for day 2](https://assets.keltia.net/photos/BSDCan-2015/Devsummit%20Day%202/index.html)
 - [Etherpad](https://etherpad.net/)
 - [LibXO](https://wiki.freebsd.org/LibXo)
 

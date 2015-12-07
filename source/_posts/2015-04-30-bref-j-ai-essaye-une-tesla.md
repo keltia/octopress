@@ -7,7 +7,7 @@ sharing: true
 categories: french voiture electrique ecologie tesla
 ---
 
-{% img http://assets.keltia.net/blog/320px-TeslaModelSsedan.jpg "Tesla S" "Tesla S" %}
+{% img https://assets.keltia.net/blog/320px-TeslaModelSsedan.jpg "Tesla S" "Tesla S" %}
 
 Préambule
 ---------
@@ -29,17 +29,17 @@ Les hybrides & électriques
 --------------------------
 Il y a maintenant pas mal d'hybrides ou d'électriques sur le marché : Toyota a poursuivi sa politique de conversion de gamme avec notamment les Yaris et Auris, Peugeot a sorti des hybrides diesel {% fnin %}J'avoue que pour moi, le concept hybride diesel-électrique est assez antinomique mais bon… {% endfnin %} et d'autres s'y mettent, notamment BMW (avec la i3 — électrique) et Volkswagen (avec la Golf GTE — électrique ou hybride).
 
-{% img http://assets.keltia.net/blog/The_frontview_of_BMW_i3.JPG "BMW i3" "BMW i3" %}
+{% img https://assets.keltia.net/blog/The_frontview_of_BMW_i3.JPG "BMW i3" "BMW i3" %}
 
 La BMW est trop petite pour moi (deux enfants hein...) même si son autonomie est importante (160 km) mais insuffisante pour moi (je fais 100km par jour en moyenne donc c'est limite) et la VM est encore plus limitée (50 km en électrique mais on peut mettre un « prolongateur » (un moteur thermique quoi) pour recharger la batterie ; du coup, ledit moteur est plus petit et consomme très peu — 1.5 l/100 km et 35 g de CO₂). J'ai déjà eu une Golf et bof, pas envie de m'y remettre. La Renault Zoë est aussi trop petite et pas assez d'autonomie.
 
-{% img http://assets.keltia.net/blog/Black_VW_Golf_GTE_charging_fl.jpg "Golf GTE" "Golf GTE" %}
+{% img https://assets.keltia.net/blog/Black_VW_Golf_GTE_charging_fl.jpg "Golf GTE" "Golf GTE" %}
 
 Le modèle S
 -----------
 Arrive le fleuron de la gamme Tesla, le modèle S. Une grosse berline (quasiment 5 m), lourde (2.1 t) mais… superbe (souvenez vous, je n'aime pas les voitures), nerveuse (cf. la Prius au dessus) et chère (aïe-euh). Je l'ai longtemps ignorée, le prenant uniquement pour une voiture de luxe, compliquée à utiliser en France (peu de chargeurs rapides, etc.) mais quand même, elle est belle. J'en croise une sur la N118 un jour.
 
-{% img http://assets.keltia.net/blog/Tesla_MODEL_S_front.jpg "Tesla S" "Tesla S" %}
+{% img https://assets.keltia.net/blog/Tesla_MODEL_S_front.jpg "Tesla S" "Tesla S" %}
 
 Des amis l'ont testée (Cédric Ingrand, Pierre Col et Jean-Michel Billaut notamment ainsi que Eric du blog [Presse-citron](http://www.presse-citron.net/)), l'ont appréciée et en ont parlé. À un moment, un déclic s'est fait en moi et j'ai commencé à regarder, tout en étant persuadé que ce serait une folie vu le prix. À force de regarder le site, voir les prévisions d'installation de chargeurs rapides, l'idée fait son chemin.
 
@@ -47,7 +47,7 @@ Le coup de Jarnac
 -----------------
 Il est venu d'un côté totalement inattendu : un jour rentrant chez moi, j'aperçois une Tesla garée et branchée chez mon voisin… belle bête il faut avouer. Puis le lendemain elle n'est plus là, ça devait être un ami de passage, je n'y pense plus, ledit voisin ayant toujours son 4x4/SUV Nissan, gros et polluant. Et paf, il y a un ou deux mois, revoilà la Tesla, encore branchée.
 
-{% img http://assets.keltia.net/blog/tesla-voisin.jpg "mais-euh" "mais-euh" %}
+{% img https://assets.keltia.net/blog/tesla-voisin.jpg "mais-euh" "mais-euh" %}
 
 Discussion, il a effectivement vendu son affreux 4x4 pour acheter la Tesla qui en fait, était chez lui en test la fois précédente. Un modèle S 85 (mode propulsion — roues arrières motrices — avec un seul moteur). Et donc, maintenant, à peu près tous les soirs quand je rentre, une Tesla me nargue, la perfide. Il m'a même proposé gentimment de la tester mais nous n'avons pas encore trouvé le temps de le faire.
 
@@ -59,7 +59,7 @@ Je m'inscris donc à un événement Tesla qui proposait de tester une voiture pe
 
 Cela dit, Tesla a de bons commerciaux puisque 2 semaines après le fameux WE, un de ceux-ci me rappelle, me proposant de venir à Gennevillers — le siège actuel – pour discuter le bout de gras\^Wla voiture et l'essayer. C'était hier en fin d'après-midi.
 
-{% img http://assets.keltia.net/blog/tesla2.jpg "Plein de Tesla !" "Plein de Tesla !" %}
+{% img https://assets.keltia.net/blog/tesla2.jpg "Plein de Tesla !" "Plein de Tesla !" %}
 
 Petite discussion sur la voiture et ses caractéristiques générales, la batterie, les moteurs, etc. on passe à l'essai proprement dit. Pas très long (environ une demi-heure) sur le port de Gennevillers (pas de circuit comme à Marcoussis, dommage) et j'avoue que c'est le coup de foudre — J'entends déjà ceux qui disaient au dessus que j'étais foutu ; oui certes mais il y a une grosse différence entre le principe et la chose elle-même entre mes mains.
 
@@ -73,13 +73,13 @@ Point que j'ai oublié de mentionner : lors des freinages et descentes, la voit
 
 Ca mérite d'essayer de faire un essai plus étendu, pas sûr encore de comment y arriver.
 
-{% img http://assets.keltia.net/blog/tesla-garage.jpg "Encore des Tesla" "Encore des Tesla" %}
+{% img https://assets.keltia.net/blog/tesla-garage.jpg "Encore des Tesla" "Encore des Tesla" %}
 
 Le système de navigation
 ------------------------
 Le centre de contrôle de la voiture est bien évidemment cet immense (17 pouces !) écran au mileu de l'habitacle.Il donne accès bien évidemment à l'autoradio et au GPS mais également à tous les paramètres de conduite et de confort. On peut tout faire, changer ceci ou cela et le logiciel est régulièrement mis à jour par Tesla tout au long de la vie de la voiture. Certaines fonctions d'auto-pilote l'ont été récemment (avec lecture des panneaux de signalisation et des marquages au sol, surveillance des distances de sécurité avec ralentissement automatique, etc.).
 
-{% img http://assets.keltia.net/blog/320px-Tesla-3.jpg "Habitacle et écran" "Habitacle et écran" %}
+{% img https://assets.keltia.net/blog/320px-Tesla-3.jpg "Habitacle et écran" "Habitacle et écran" %}
 
 Google maps sur le grand écran pour choisir la destination, laquelle est transmise au GPS Garmin intégré pour la conduite elle-même (7 ans de mises à jour incluses…), radio FM/AM et Internet — *via* la liaison 3G gratuite incluse ! On peut évidemment brancher un téléphone par Bluetooth. Bref, pléthore de possibilités. Très impressionnant.
 
@@ -112,11 +112,11 @@ Plus d'informations sur ce site [ici](http://www.voiture-electrique-populaire.fr
 
 Voici les principales prises en Europe :
 
-{% img http://assets.keltia.net/blog/prises.png "Prises" "Prises" %}
+{% img https://assets.keltia.net/blog/prises.png "Prises" "Prises" %}
 
 Voir Wikipedia pour les différentes normes — {% wp Voiture_électrique#Modes_de_recharge.5B109.5D "ici" fr %}. Il existe par ailleurs un site communautaire les recense par ailleurs en France et dans le monde [Chargemap](http://chargemap.com/). À explorer.
 
-{% img http://assets.keltia.net/blog/chargermap.png "Chargemap" "Chargemap" %}
+{% img https://assets.keltia.net/blog/chargermap.png "Chargemap" "Chargemap" %}
 
 Pas évident donc mais a priori pour mes trajets, la recharge à domicile est suffisante, les superchargers étant plus pour les longs voyages et la couverture de ceux-ci s'améliore.
 

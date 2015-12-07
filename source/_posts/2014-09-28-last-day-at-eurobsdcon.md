@@ -13,13 +13,13 @@ Like yesterday, I only chaired some talks so I'm going to talk only about the on
 <!--more-->
 We start pretty fast with [Baptiste Daroussin's](http://2014.eurobsdcon.org/talks-and-schedule/talks/#BaptisteDaroussin) talk about cross-building the FreeBSD ports system with quite a load of specific issues depending on the ported software (usual culprits being Perl and Python, OpenJDK being the unexpected good neighbour).
 
-{% img http://assets.keltia.net/photos/EuroBSDCon-2014/Conference/medium/conference-32921.jpg 'Cross-compiling ports' 'bapt, cross-compile' %}
+{% img https://assets.keltia.net/photos/EuroBSDCon-2014/Conference/medium/conference-32921.jpg 'Cross-compiling ports' 'bapt, cross-compile' %}
 
 Then [Ted Unangst's](http://2014.eurobsdcon.org/talks-and-schedule/talks/#TedUnangst1) talk about [LibreSSL](http://libressl.org/) status after a few months after their fork of [OpenSSL](http://openssl.org/), less technical than [Bob Beck](https://www.bsdcan.org/2014/schedule/events/520.en.html)'s talk at [BSDCan](http://bsdcan.org/) but still interesting for the audit they made.
 
 [Theo Deraadt](http://2014.eurobsdcon.org/talks-and-schedule/talks/#TheodeRaadt) was next, speaking on the birth and life of `arc4random(3)` in [OpenBSD](http://openbsd.org/), describing the various algorithms used behind that.
 
-{% img http://assets.keltia.net/photos/EuroBSDCon-2014/Conference/medium/conference-5443.jpg 'Theo Deraadt', 'Theo, MS Comic Sans' %}
+{% img https://assets.keltia.net/photos/EuroBSDCon-2014/Conference/medium/conference-5443.jpg 'Theo Deraadt', 'Theo, MS Comic Sans' %}
 
 (yes, he is still using that MS Comic Sans compatible font, my eyes are always bleeding even though I know they do it on purpose).
 
@@ -27,7 +27,7 @@ Shawn Webb ([@lattera](https://twitter.com/littera) on Twitter) was next, giving
 
 Shawn is also the spiritual "father" of Groff the goat :)
 
-{% img http://assets.keltia.net/photos/EuroBSDCon-2014/Conference/medium/conference-5447.jpg 'Shawn and the goat' 'Shawn Webb, Groff' %}
+{% img https://assets.keltia.net/photos/EuroBSDCon-2014/Conference/medium/conference-5447.jpg 'Shawn and the goat' 'Shawn Webb, Groff' %}
 
 Ed Maste gave us an update on [LLDB on FreeBSD](http://2014.eurobsdcon.org/talks-and-schedule/talks/#EdMaste) with an insightful description of the history of gdb as well.
 
@@ -35,7 +35,7 @@ Finally, [Dag-Erling Smøgrav](http://2014.eurobsdcon.org/talks-and-schedule/tal
 
 We also had a final [keynote](http://2014.eurobsdcon.org/talks-and-schedule/talks/#AtanasChobanov) on how to submit documents anonymously, something fundamental for journalists and their sources (think whistleblowing and investigations in post-Wikileaks and Snowden era). Using {% wp SecureDrop %}, [Tails](https://tails.boum.org/) and [Tor](https://www.torproject.org/).
 
-{% img http://assets.keltia.net/photos/EuroBSDCon-2014/Conference/medium/conference-5457.jpg 'Atanas Chobanov' 'Atanas Chobanov, Whistleblowers' %}
+{% img https://assets.keltia.net/photos/EuroBSDCon-2014/Conference/medium/conference-5457.jpg 'Atanas Chobanov' 'Atanas Chobanov, Whistleblowers' %}
 
 Last but not least, the closing session!
 
@@ -45,10 +45,10 @@ Google did its giveaway (the "raffle") of an ACER Chromebook.
 
 Shteryana Shopova & Paul Schenkeveld did the presentation on the EuroBSDCon Foundation and the place of the next EuroBSDCon is…
 
-{% img http://assets.keltia.net/images/200px-Swedish_Flag-1.svg.png 'Sweden' 'Sweden flag' %} Stockholm, Sweden
+{% img https://assets.keltia.net/images/200px-Swedish_Flag-1.svg.png 'Sweden' 'Sweden flag' %} Stockholm, Sweden
 
 An enormous thank to Shteryana "syrinx" Shopova for hosting this great conference.
 
-All pictures [here](http://assets.keltia.net/photos/EuroBSDCon-2014/)
+All pictures [here](https://assets.keltia.net/photos/EuroBSDCon-2014/)
 
 {%footnotes_inline%}

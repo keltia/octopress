@@ -30,7 +30,7 @@ Oh, je suis le premier à aimer prendre un livre dans mes mains, le manipuler {
 
 Je me souviens encore de mon irrépressible envie de posséder le livre de {% wp Jean-François_Champollion "Jean-François Champollion" fr %} sur les principes de l'écriture sacrée égyptienne, spécialement dans cette édition de 1986, avec des reproductions des dessins de Champollion sur un papier magnifique, malheureusement trop cher pour moi à cette époque. Tout comme j'ai dans ma jeunesse écumé la bibliothèque municipale de Vanves et littéralement dévoré les livres de la collection Fleuve Noir dans tout ce qu'elle offrait de science-fiction de l'époque.
  
-{% img http://assets.keltia.net/blog/champollion.jpg "Hiéroglyphes" "Hiéroglyphes" %}
+{% img https://assets.keltia.net/blog/champollion.jpg "Hiéroglyphes" "Hiéroglyphes" %}
  
 Donc voila, je suis et reste fan de l'objet. Je déteste toujours autant voir des gens écrire des notes dans des livres, surligner des passages (même si je peux comprendre qu'ils en aient besoin — enfin, presque) et pire, des gens lire n'importe comment en tordant les pages ou en pliant un coin pour ne pas avoir à se souvenir de la dernière page lue.
 

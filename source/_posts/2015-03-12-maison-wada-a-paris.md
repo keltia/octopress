@@ -27,11 +27,11 @@ C'est un petit restaurant avec environ 25 places, perdu dans une petite rue derr
 
 L'intérieur est sympa avec la majeure partie du mur de droite constitué d'alcoves avec divers objets, plus ou moins asiatiques (le classique chat levant la patte, thé, etc.). Pas vraiment de place type « comptoir » comme souvent, ce que je regrette. Rien n'est plus intéressant que de voir le chef préparer les plats et c'est toujours l'occasion de discuter sur divers sujets, comme les poissons du jour, etc.
 
-{% img http://assets.keltia.net/blog/wada-06602.jpg "Mur à trésors" "Mur à trésors" %}
+{% img https://assets.keltia.net/blog/wada-06602.jpg "Mur à trésors" "Mur à trésors" %}
 
 Détail amusant, il flotte au plafond un kimono assez joli — non, il ne s'agit pas d'un fantôme et seul le vent des gens entrant ou sortant le fait bouger :)
 
-{% img http://assets.keltia.net/blog/wada-06601.jpg "Kimono flottant" "Kimono flottant" %}
+{% img https://assets.keltia.net/blog/wada-06601.jpg "Kimono flottant" "Kimono flottant" %}
 
 L'accueil par le patron est impeccable, malheureusement il commence par s'excuser d'un manque de choix de poissons, n'ayant pas eu tout ce qu'il voulait à Rungis… Le copain qui m'a proposé de découvrir le lieu le connait très bien mais vu l'accueil qui réservera à d'autres clients peu après montre qu'il est aimable avec tout le monde (excellent point !).
 
@@ -43,17 +43,17 @@ Avant ledit plateau, vont se succéder les deux entrées annoncées, elles même
 
 La première entrée est un tartare de saumon au saké. Un soupçon de sauce soja par dessus (par le patron lui-même !) et le palais se régale de l'alliance constituée du poisson gras et du saké, assez sec. C'est simple, très frais et très bon.
 
-{% img http://assets.keltia.net/blog/wada-06188.jpg "Tartare de saumon" "Tartare de saumon" %}
+{% img https://assets.keltia.net/blog/wada-06188.jpg "Tartare de saumon" "Tartare de saumon" %}
 
 La deuxième entrée tranche pas mal avec les deux premières, il s'agit d'une salade de calebasse {% fnin %}La calebasse est un grand fruit sec, malheureusement la {% wp Calebasse "page WP" fr %} n'est pas très diserte.{% endfnin %} confite. C'est assez bon, bien qu'assez ferme comme chair. Ca change de beaucoup de restaurant japonais qui, s'ils peuvent avoir cette entrée au menu, ne la mettent pas en avant ainsi.
 
-{% img http://assets.keltia.net/blog/wada-06189.jpg "Calebasse confite" "Calebasse confite" %}
+{% img https://assets.keltia.net/blog/wada-06189.jpg "Calebasse confite" "Calebasse confite" %}
 
 Passons maintenant au plat de résistance :)
 
 Ce plateau dégustation est constitué d'un assortiment de sushis et sashimis mais avec seulement trois poissons, somme toute assez classiques — thon rouge, saumon et daurade. Est-ce juste à cause du manque d'approvisionnement ? Je ne sais pas mais le reste de la carte ne montrait pas énormément de poissons (même si le thon gras (*toro*) était mentionné).
 
-{% img http://assets.keltia.net/blog/wada-06192.jpg "Plateau dégustation" "Plateau dégustation" %}
+{% img https://assets.keltia.net/blog/wada-06192.jpg "Plateau dégustation" "Plateau dégustation" %}
 
 La coupe reste un peu grossière {% fnin %}Je suis loin d'être un spécialiste de la coupe des sushis/sashimis et bien évidemment encore moins chef sushi mais pour en avoir fréquenté pas mal, j'ai connu plus subtil et plus fin.{% endfnin %} ce qui est un peu dommage. On pourrait croire qu'avoir plus de poisson est meilleur mais en fait, ça reste pour voir un plat où se mélange subtilement le riz vinaigré, le wasabi et le poisson ; la coupe a donc de l'importance.
 
@@ -63,7 +63,7 @@ Le poisson est de qualité et très bon mais j'espérais un peu plus de choix. D
 
 Après tout ça, j'avoue ne plus avoir faim mais ce n'est pas le cas de mon co-convive qui va prendre un maki de thon rouge, lequel va se réveler de fort belle taille, à mi-chemin entre le maki classique et le *futomaki*. voyez par vous-mêmes :
 
-{% img http://assets.keltia.net/blog/wada-06193.jpg "Maki « moyen »" "Maki « moyen »" %}
+{% img https://assets.keltia.net/blog/wada-06193.jpg "Maki « moyen »" "Maki « moyen »" %}
 
 Là encore, le thon rouge (*maguro*) est loin d'être mon poisson favori et je n'ai plus faim :)
 

@@ -10,4 +10,4 @@ Voici un peu plus d'un mois que Rakim a rejoint la maison… Adorable chaton de 
 
 On se s'en lasse pas :)
 
-{% img http://assets.keltia.net/blog/rakim-32798.jpg 'Rakim sur mon\^WSON fauteuil' 'Rakim' %}
+{% img https://assets.keltia.net/blog/rakim-32798.jpg 'Rakim sur mon\^WSON fauteuil' 'Rakim' %}

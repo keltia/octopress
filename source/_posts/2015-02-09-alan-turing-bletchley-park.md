@@ -13,21 +13,21 @@ Everybody (maybe even the dog {% fnin %}Old joke that goes generally as "Everyb
 
 For many people, Alan Turing is one of the fathers of the modern computer (along with {% wp John_von_Neumann "John Von Neumann" %}) and rightfully so.  What they need to know and what the movie is trying to do (I have yet to see it) is to show how influential he was.
 
-{% img http://assets.keltia.net/blog/225px-Alan_Turing_photo.jpg "Alan Turing" "Alan Turing" %}
+{% img https://assets.keltia.net/blog/225px-Alan_Turing_photo.jpg "Alan Turing" "Alan Turing" %}
 <!--more-->
 Bletchley Park
 --------------
 Alan Turing was one of the hundreds of people working at {% wp Bletchley Park "Bletchley Park" %}, a secret facility created by {% wp Government_Communications_Headquarters "GCHQ" %} to break the German cipher machine called the {% wp Enigma_machine "Enigma" %} during World War II.  He helped improve the Polish electrical machine called the {% wp Bombe "Bombe" %}, designed to rapidly explore the different possibilities of daily encryption keys used by the Germans and find the rotor's wirings.
 
-{% img http://assets.keltia.net/blog/180px-EnigmaMachineLabeled.jpg "Enigma machine" "Enigma machine" %}
+{% img https://assets.keltia.net/blog/180px-EnigmaMachineLabeled.jpg "Enigma machine" "Enigma machine" %}
 
 During his time at Bletchley Park, he also designed the first real computer, {% wp Colossus "Colossus" %} which was used to break another German cipher, the {% wp Lorenz_cipher "Lorenz ciphermachine" %}.
 
 I had the pleasure to visit Bletchley Park in 2012 during a [FreeBSD](http://www.freebsd.org/) developers' summit.  On our last day, we took the bus from Cambridge and got to BP.  What a wonderful day!
 
-Here are some pictures of [Bletchley Park](http://assets.keltia.net/photos/Bletchley-Park/) with the Enigma, the Colossus and the Park itself.
+Here are some pictures of [Bletchley Park](https://assets.keltia.net/photos/Bletchley-Park/) with the Enigma, the Colossus and the Park itself.
 
-{% img http://assets.keltia.net/photos/Bletchley-Park/Bletchley/thumbnail/bletchley-26903.jpg  "Bletchley Park" "Bletchley Park" %}
+{% img https://assets.keltia.net/photos/Bletchley-Park/Bletchley/thumbnail/bletchley-26903.jpg  "Bletchley Park" "Bletchley Park" %}
 
 David Kahn wrote a lot about the Enigma in "The Codebreakers" and more specifically in "Seizing the Enigma", although I think that some GCHQ information was still classified when he wrote the former in 1967.
 

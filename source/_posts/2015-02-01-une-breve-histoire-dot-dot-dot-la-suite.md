@@ -27,7 +27,7 @@ Interlude Minitel
 -----------------
 En France, nous avons eu l'immense chance (haha) d'avoir ce superbe joyau qu'était le {% wp Minitel "Minitel" fr %} qui, s'il lui faut reconnaître d'avoir poussé plein de gens dans le monde merveilleux de la communication informatique, n'en restait quand même un outil doté de caractéristiques techniques assez pourries (à la vitesse royale de 1200 bauds en descente et de 75 (!) en montée — le standard utilisé n'ayant été choisi que pour créer un lien de consommateur vers fournisseur, le modèle français de la communication {% fnin %}en opposition avec la notion infiniment plus équitable d'Internet où tout le monde est la fois producteur et consommateur d'information.{% endfnin %}).
 
-{% img http://assets.keltia.net/blog/320px_Minitel_terminal.jpg "Minitel" "Minitel" %}
+{% img https://assets.keltia.net/blog/320px_Minitel_terminal.jpg "Minitel" "Minitel" %}
 
 J'utilisais d'ailleurs un Minitel 1b (celui qui permettait d'échanger les vitesses en descente/montée — 1200/75 donc — en cours de communication) pour me connecter à la faculté de Jussieu sur le compte de ma professeur d'architecture système (Edwige P. sois en encore remerciée, tu ne sais sans doute pas ce que tu as déclenché) {% fnin %}Oui, je l'admets tout à fait, c'est Mal©® — on ne doit jamais partager un mot de passe ou un compte sur une machine. Je n'ai rien cassé par contre.{% endfnin %}
 
@@ -38,7 +38,7 @@ En 1991, une société américaine lance un des premiers modems V32bis abordable
 
 Je m'en suis acheté un (ne me demandez pas le prix; probablement aux alentours de de 400 FF — 60 € vu les prix US) et j'ai pu me lancer enfin dans l'aventure des {% wp Bulletin_board_system "BBS" fr %}, ces serveurs, généralement sous Windows (avec le logiciel PC-Board notamment — sur ModulaBBS, Suptel ou encore Li'LL BBS) ou QNX, OS temps-réel avec micro-noyau ([QBBS](http://www.qbbs.fr/)).
 
-{% img http://assets.keltia.net/blog/320px-SupraFAXmodem_144_LC.jpg "SupraFaxModem 14400" "SupraFaxModem 14400" %}
+{% img https://assets.keltia.net/blog/320px-SupraFAXmodem_144_LC.jpg "SupraFaxModem 14400" "SupraFaxModem 14400" %}
 
 On y trouvait des forums de discussion (le principal intérêt de ces serveurs), parfois des espaces de téléchargement de logiciels _freeware_ (gratuits donc) et _shareware_ (pour lesquels il était demandé de payer après une période de test) et parfois plus{% fnin %}On y trouvait aussi à quelques endroits des logiciels commerciaux, avec des noms comme Warez ou SLC, de manière plutôt discrète et réservés aux habitués, ces espaces étant clairement dans l'illégalité…{% endfnin %}.
 
@@ -56,7 +56,7 @@ Il deviendra un pilier de la partie francophone de Usenet, notamment dans le gro
 
 René était mon pote, un grand copain qui me manque toujours…
 
-{% img http://assets.keltia.net/blog/rene_cougnenc.jpg "René Cougnenc" "René Cougnenc" %}
+{% img https://assets.keltia.net/blog/rene_cougnenc.jpg "René Cougnenc" "René Cougnenc" %}
 
 Les BBS, suite
 --------------
@@ -72,13 +72,13 @@ Retour en arrière sur UNIX…
 
 Avant de passer à un UNIX libre en 1991, suite à mon entrée en licence à Jussieu Paris VII en 1988, après mon DUT à Orsay (voir l'article précédent), je tombe complètement dans l'univers UNIX au travers des machines mises à disposition des étudiants. C'est là que je suis confronté pour la première fois à un système {% wp Berkeley_Software_Distribution "BSD" fr %}, la machine principale étant un Gould Encore fonctionnant avec 4.2BSD, royalement dotée de 8 Mo de mémoire pour la quarantaine de terminaux, une partie de DEC VT100 et l'autre de Falco VT220, les deuxièmes étant reliés au Gould à 19 200 bps, les premiers ne l'étant qu'à 9 600.
 
-{% img http://assets.keltia.net/blog/falco-vt220.png "Falco VT220" "Falco VT220" %}
+{% img https://assets.keltia.net/blog/falco-vt220.png "Falco VT220" "Falco VT220" %}
 
 La différence n'est pas si importante que ça, jusqu'au moment où, ayant fini les divers TP et autres exercices, on décide de jouer un peu. Sur des jeux multi-joueurs comme `Banzai` (une modification du jeu classique `Hack` de l'époque — un espace en forme de labyrinthe dans lequel les joueurs évoluent et se tirent dessus, renaissant de manière aléatoire  dans lesquels la rapidité de réaction sur un terminal donné peut faire la différence entre gagner et perdre :)).
 
  C'est aussi à cet endroit que j'ai pu jouer à ces grands classiques que sont {% wp Rogue_(jeu_vidéo) "Rogue" fr %}, {% wp Larn "larn" fr %} et autres {% wp NetHack "Nethack" fr %} {% fnin %}Ces jeux existent toujours et sont encore disponibles sur les UNIX actuels comme FreeBSD et il m'arrive encore d'y jouer — un jeu ne nécessite pas forcément la dernière carte vidéo-de-la-mort-qui-tue et la fibre :){% endfnin %}.
 
-{% img http://assets.keltia.net/blog/larn.png "larn" "larn" %}
+{% img https://assets.keltia.net/blog/larn.png "larn" "larn" %}
 
 Les autres machines disponibles disposaient quant à elles d'une version de System V, l'autre grande famille UNIX (et l'origine en fait, BSD n'étant que les évolutions de l'Université de Berkeley, CA sur la Version 7 {% fnin %}Voir à ce propos, le [site d'Eric Levenez](http://www.levenez.com/unix/) qui raconte d'une manière graphique l'évolution complète des familles UNIX au travers des âges…{% endfnin %}. Dès le départ, j'ai pu voir que l'UNIX qu'elles utilisaient était moins pratique et moins puissant que le BSD d'à côté, c'est à ce moment que j'ai décidé de suivre cette voie plutôt que l'autre :)
 
@@ -104,7 +104,7 @@ Usenet (1990-20??)
 -------------
 {% wp Usenet "Usenet" fr %} est finalement arrivé à Jussieu aux alentours de 1990. Usenet n'était pas alors un serveur de logiciels piratés ou d'images « pieuses » comme beaucoup le croient maintenant, c'était principalement un ensemble de serveurs connectés entre eux (les nœuds) et servant des utilisateurs soit directement soit _via_ des serveurs « feuilles {% fnin %}La différence entre les deux est qu'une feuille n'a qu'un seul fournisseur alors qu'un nœud au moins deux.{% endfnin %} ».
 
-Je ne vais pas détailler l'histoire et le fonctionnement de Usenet ici, je vous renvoie à la conférence que j'ai donnée à [Pas Sage en Seine](http://www.passageenseine.org/Passage/pses-2013) en 2013, la présentation PDF est [ici](http://assets.keltia.net/pses2013.pdf) et la vidéo [ici](http://lacantine.ubicast.eu/channels/#pas-sage-en-seine-2013).
+Je ne vais pas détailler l'histoire et le fonctionnement de Usenet ici, je vous renvoie à la conférence que j'ai donnée à [Pas Sage en Seine](http://www.passageenseine.org/Passage/pses-2013) en 2013, la présentation PDF est [ici](https://assets.keltia.net/pses2013.pdf) et la vidéo [ici](http://lacantine.ubicast.eu/channels/#pas-sage-en-seine-2013).
 
 En résumé, j'ai participé à Usenet assez tard (Usenet est né en 1979, créé par des administrateurs dans des universités américains par, entre autres, [Steve Bellovin](https://www.cs.columbia.edu/~smb/blog/control/) et n'ai pas vu les premiers événements marquants (comme la grande réorganisation de `mod` et `net` vers le système actuel de Big8) mais j'ai pu participer à plein de groupes, vu l'essor des UNIX libres (et les _flame wars_ correspondantes en 1993 par exemple) et la montée en puissance de la hiérarchie francophone `fr.*`.
 
@@ -120,7 +120,7 @@ On y avait retrouvé en 1994 le cher concombre dans un des épisodes les plus c�
 
 À mes débuts, les seuls lecteurs de News étaient en mode texte sous UNIX (les terminaux VT220, vous vous souvenez ?) et portaient des noms comme `rn` (évolution de `readnews`par Larry Wall — également auteur de {% wp Perl_(langage) "Perl" fr %}) qui fut suivi de `trn` {% fnin %}Je l'utilise encore d'ailleurs, pour le peu de Usenet qu'il m'arrive encore de faire :){% endfnin %} (pour _threaded_ rn, affichant d'une manière assez géniale les fils de discussion, manière encore inégalée pour moi), `slrn`ou encore `tin`. Il existait aussi quelques lecteurs en mode « graphique » comme `Knews` et `pan2`.
 
-{% img http://assets.keltia.net/blog/trn4-arbre.png "trn4" "trn4 et la tree-view" %}
+{% img https://assets.keltia.net/blog/trn4-arbre.png "trn4" "trn4 et la tree-view" %}
 
 UUCP a été à l'origine le mode de transport privilégié de Usenet, en permettant l'échange de courriers électroniques puis de _batches_ (paquets de messages) puis, l'Internet étant arrivé et le protocole {% wp NNTP "NNTP" fr %} créé en 1986, NNTP est devenu la manière de connecter les différents serveurs dans le monde.
 
