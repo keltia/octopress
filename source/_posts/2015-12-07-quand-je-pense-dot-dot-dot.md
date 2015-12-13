@@ -7,7 +7,7 @@ sharing: true
 categories: poesie français 12ans
 ---
 
-En ces temps relativement sombres entre attentats, état d'urgence et problèmes de climat, une petite lumière de poésie écrite par ma grand fille de 12 ans…
+En ces temps relativement sombres entre attentats, état d'urgence et problèmes de climat, une petite lumière de poésie écrite par ma grande fille il y a quelques temps (12 ans maintenant)…
 
 ## Quand je pense…
 
@@ -24,6 +24,6 @@ En ces temps relativement sombres entre attentats, état d'urgence et problèmes
 >Quand je pense à la misère<br/>
 >La misère de la Terre<br/>
 >Je me dis : pourquoi ?<br/>
->Pourquoi l'homme continue comme ça?<br/>
+>Pourquoi l'homme continue comme ça ?<br/>
 
 {%footnotes_inline%}
