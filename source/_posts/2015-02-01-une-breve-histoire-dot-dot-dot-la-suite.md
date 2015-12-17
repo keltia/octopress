@@ -143,7 +143,8 @@ Références
 - [La programmation sous UNIX, by Jean-Marie Rifflet, Delmas et Cie, 1986](http://amzn.to/1zLq06W)
 - [La communication sous UNIX, 2nd ed., by Jean-Marie Rifflet, Delmas et Cie, 2000](http://amzn.to/1DuR3kt)
 - [UNIX Administration, by Jean-Michel Moreno, Ed. Delmas et Cie](http://amzn.to/1DuRwmF)
-- images de Wikipedia Commons sauf celle de René qui vient de [mans.gyptis.org](http://mans.gyptis.org/mw/index.php?title=Fichier:rené_cougnenc.gif) — stockées en local.
+
+Les images viennent de Wikipedia Commons sauf celle de René qui vient de [mans.gyptis.org](http://mans.gyptis.org/mw/index.php?title=Fichier:rené_cougnenc.gif) — et stockées en local.
 
 Notes
 -----
