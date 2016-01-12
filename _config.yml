@@ -2,13 +2,13 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://blog.keltia.net
+url: https://blog.keltia.net
 title: Le blog de 22h43
 subtitle: UNIX, chats, SF&amp;F, photos, rants, crypto and other stuff.
 author: Ollivier Robert
 simple_search: https://www.google.com/search
 description:
-canonical: http://blog.keltia.net/
+canonical: https://blog.keltia.net/
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
