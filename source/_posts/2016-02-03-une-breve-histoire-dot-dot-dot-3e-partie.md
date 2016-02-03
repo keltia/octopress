@@ -16,7 +16,7 @@ Après cette [trop] longue interruption de nos émissions, voici enfin la 3ème 
 
 {% img https://assets.keltia.net/images/bsd-daemon.png "BSD Daemon" "BSD Daemon" %}
 
-NOTE: la plupart des liens Wikipédia de cet article sont vers les versions françaises desdits articles ; je conseille néanmoins si vous le pouvez d'aller consulter les versions anglaises, beaucoup plus complètes à cet égard que les françaises, malheureusement.
+NOTE: la plupart des liens Wikipédia de cet article sont vers les versions françaises desdits articles ; je conseille néanmoins si vous le pouvez d'aller consulter les versions anglaises, beaucoup plus complètes à cet égard que les françaises, malheureusement {% fnin %}La page {% wp 386BSD "386BSD" fr %} en est d'ailleurs un terrible exemple :({% endfnin %}.
 <!--more-->
 BSD vs Linux
 ------------
