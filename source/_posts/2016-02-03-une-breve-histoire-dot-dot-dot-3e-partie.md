@@ -10,7 +10,7 @@ categories: french préhistoire informatique dino pc unix
 La suite
 --------
 
-Après cette [trop] longue interruption de nos émissions, voici enfin la 3ème partie de cette [toujours] brève histoire de *mon* informatique (en toute modestie hein), consacrée cette fois-ci à mon arrivée dans le monde joyeux de l'informatique libre et les {% wp UNIX "UNIX" fr %} libres en particulier. 
+Après cette [trop] longue interruption de nos émissions, voici enfin la 3ème partie de cette [toujours] brève histoire de *mon* informatique (en toute modestie hein), consacrée cette fois-ci à mon arrivée dans le monde joyeux de l'informatique libre et des {% wp UNIX "UNIX" fr %} libres en particulier. 
 
 À lire après la [première partie](/2015/01/06/une-breve-histoire-de-linformatique/) et la [seconde](/2015/02/01/une-breve-histoire-dot-dot-dot-la-suite/) bien entendu :)
 
@@ -25,12 +25,12 @@ BSD vs Linux
 
 Ah, le titre qui en jette, une petite *flamewar* pour se mettre en jambe ?
 
-En fait non, surtout pas. Ce n'est pas comme ça que tout à commencé, en tout cas pour moi. Rappelons nous l'article précédent, je suis à la faculté de Jussieu Paris VII depuis 1988 après mes deux ans d'IUT d'informatique de gestion à Orsay, ayant donc déjà un peu tâté d'Internet et d'un système BSD (4.2BSD sur Gould).
+En fait non, surtout pas. Ce n'est pas comme ça que tout à commencé, en tout cas pour moi. Rappelons-nous l'article précédent, je suis à la faculté de Jussieu Paris VII depuis 1988 après mes deux ans d'IUT d'informatique de gestion à Orsay, ayant donc déjà un peu tâté d'Internet et d'un système BSD (4.2BSD sur Gould).
 
 System V R4 (1988-1990)
 -----------------------
  
-À ce moment, sur ma machine perso — un Compaq 386DX-25, je tourne un MS-DOS 3.31 (de manière à pouvoir gérer plus de 32 Mo {% fnin %}Oui oui, pas d'erreur, on parle bien de méga-octets, remettez ça dans le contexte de l'époque, il y a presque 20 ans…{% endfnin %} sur le disque dur).
+À ce moment-là, sur ma machine perso — un Compaq 386DX-25 tourne un MS-DOS 3.31 (de manière à pouvoir gérer plus de 32 Mo {% fnin %}Oui oui, pas d'erreur, on parle bien de méga-octets, remettez ça dans le contexte de l'époque, il y a presque 20 ans…{% endfnin %} sur le disque dur) qui me sert, entre autres, de support pour le BBS, Finonet, etc.
 
 Le virus UNIX a pourtant déjà pris et je me mets donc à jouer avec à la maison, principalement en regardant Xenix (oui, celui écrit et utilisé au départ par Microsoft puis distribué par Santa Cruz Operations (SCO {% fnin %}Le SCO de cette époque n'a rien à voir avec l'actuel, attention. Il s'appelle maintenant {% wp Tarantella_(entreprise) "Tarantella" fr %} alors que c'est la société {% wp Caldera_(company) "Caldera (EN)" %} qui s'est renommée SCO puis {% wp SCO_Group "SCO Group (EN)" %} et qui « trolle » le monde du libre avec ses soi-disants brevets ou éléments de propriété intellectuelle liés à Linux).{% endfnin %}) qui est un {% wp UNIX_System_V "System V" fr %} R2 (pas très évolué, pas de *sockets* par exemple donc pas de connexion Internet possible facilement, etc.) et, plus prometteur, le System V R4 de la société {% wp Microport "Microport (EN)" %}.
 
@@ -53,13 +53,13 @@ DESS & IHES (1991)
 
 Le réseau de l'IHES comprenait le serveur principal, une {% wp SPARCstation "Sparcstation 2" fr %} (SS2) avec 32 Mo de mémoire pour faire du partage de fichier avec {% wp NFS fr %} et serveur des {% wp Terminal_X "terminaux X" fr %} utilisés par les mathématiciens, physiciens et autres astro-physiciens du monde entier qui venaient travailler sur leurs recherches dans l'institut.
 
-X Window était en version 4 (X11R4) à ce moment là, prenant 125 Mo pour les sources et prenant 4h à compiler sur cette machine — machine qui se ferait tailler des croupières par ne serait que le moindre *smartphone* actuel ;-) Sur les machines actuelles, ça doit prendre quelques minutes, ce sont maintenant les mastodontes façon Firefox ou pire, OpenOffice qui prennent des temps équivalents et ce, sur des processeurs 100x plus puissants que le pauvre Sparc de la SS2… 
+X Window était en version 4 (X11R4) à ce moment là, avec 125 Mo pour les sources ce qui prend environ 4h à compiler sur cette machine — machine qui se ferait tailler des croupières par ne serait que le moindre *smartphone* actuel ;-) Sur les machines actuelles, ça doit prendre quelques minutes, ce sont maintenant les mastodontes façon Firefox ou pire, OpenOffice qui prennent des temps équivalents et ce, sur des processeurs 100x plus puissants que le pauvre Sparc de la SS2… 
 
 {% img https://assets.keltia.net/images/sun.sparcstation2.4.jpg "Sparcstation 2" "Sparcstation 2" %}
 
-C'est aussi ma première expérience avec l'hybride SVR4 — 4.2BSD que représente SunOS4 (bientôt appelé dans une tentative de réécriture de l'histoire par Sun Solaris 1). Sun a démarré sa transition du monde BSD vers le monde System V, probablement vu comme plus industriel et moins universitaire. Erreur que j'ai longtemps déploré même si ça avait sans doute un sens en terme de *business*… J'ai l'habitude de dire que ce faisant, Sun a échangé les anciens — mais connus — *bugs* 4.2BSD pour les anciens *bugs* SVR4 {% fnin %}SVRn comme System V Release n, une manière courante à l'époque pour nommer rapidement cette branche d'UNIX.{% endfnin %} et bien entendu les nouveaux *bugs* qu'ils ont introduits eux-même.
+C'est aussi ma première expérience avec l'hybride SVR4 — 4.2BSD que représente SunOS4 (bientôt appelé dans une tentative de réécriture de l'histoire par Sun, Solaris 1). Sun a démarré sa transition du monde BSD vers le monde System V, probablement vu comme plus industriel et moins universitaire. Erreur que j'ai longtemps déplorée même si ça avait sans doute un sens en terme de *business*… J'ai l'habitude de dire que ce faisant, Sun a échangé les anciens — mais connus — *bugs* 4.2BSD pour les anciens *bugs* SVR4 {% fnin %}SVRn comme System V Release n, une manière courante à l'époque pour nommer rapidement cette branche d'UNIX.{% endfnin %} et bien entendu les nouveaux *bugs* qu'ils ont introduits eux-même.
 
-Il faut quand même savoir que la première version « réellement » utilisable de Solaris fut la 2.5 (vite mise à jour en 2.5.1 d'ailleurs) vu l'étendue des *bugs* et instabilités des précédentes. Sun a même réussi l'exploit de casser complètement l'API DNS (`gethostbyname(3)` et consorts) en 2.3 ou 2.4 étant passé de mémoire de la pile Lachman d'origine — la même que dans SVR3.2 — à une implémentation maison — un comble pour une API issue de BSD, la famille d'origine de Sun…
+Il faut quand même savoir que la première version « réellement » utilisable de Solaris fut la 2.5 (vite mise à jour en 2.5.1 d'ailleurs) vue l'étendue des *bugs* et instabilités des précédentes. Sun a même réussi l'exploit de casser complètement l'API DNS (`gethostbyname(3)` et consorts) en 2.3 ou 2.4 étant passé de mémoire de la pile Lachman d'origine — la même que dans SVR3.2 — à une implémentation maison — un comble pour une API issue de BSD, la famille d'origine de Sun…
    
 Ça nous donnait un joyeux mélange de comportements SVR4/BSD selon les {% wp API fr %} avec `/usr/lib` et `/usr/5lib`, un jeu de commande dupliqué entre `/usr/bin` et `/usr/5bin`, etc.
 
@@ -69,7 +69,7 @@ En attendant, ça permettait aux chercheurs de travailler, lire et répondre aux
 
 {% img https://assets.keltia.net/images/texCode.gif "TeXtures" "TeXtures" %}
 
-Expérience très enrichissante pour moi par ailleurs, baigner dans ce monde multi-culturel m'a beaucoup aidé pour l'anglais et m'a aussi — entre autres choses — de rentrer dans mon boulot actuel en 1996.
+Expérience très enrichissante pour moi par ailleurs, baigner dans ce monde multi-culturel m'a beaucoup aidé pour l'anglais et m'a aussi — entre autres choses — permis de rentrer dans mon boulot actuel en 1996 (en plus d'être chez Hervé Schauer Consultants évidemment).
 
 Le DESS a été une année intéressante : avec un éventail assez large en terme de connaissances (de Postscript {% fnin %}Oui, le langage de description de page d'Adobe, langage intéressant avec une syntaxe postfixée — arguments puis appel de fonction — qui me donna l'occasion lors d'un exercice d'utiliser la 4ème de couverture d'« Elric le nécromancien « de M. Moorcock comme texte :){% endfnin %} à la théorie de la programmation en passant par le réseau et l'anglais — de retour dans le cursus, j'en avais pas fait depuis l'IUT {%fnin %}Aahhh, tout un poême que ce cours d'anglais qui me vit ridiculiser un de mes co-étudiants au {% wp Test_of_English_as_a_Foreign_Language "TOEFL" fr %} : il avait débarqué en début d'année en roulant des mécaniques, déclarant avoir passé 6 mois ou je ne sais plus au Texas (il en avait certes l'accent incompréhensible). Plus dure fut la chute :){% endfnin %})
 
@@ -84,7 +84,7 @@ UNIX est formellement né en 1969 dans les {% wp Laboratoires_Bell "Bell Labs" f
 
 BSD est selon moi pendant longtemps la principale source d'innovation dans le monde UNIX, AT&T au départ n'ayant pas vraiment prévu de le vendre de manière industriel mais plus sur un point de vue recherche sur les systèmes d'exploitation. Le principal apport à ce niveau étant en 1983 d'être la plateforme de référence pour les protocoles TCP/IP que l'on connait maintenant et l'API `socket(3)` associées.
 
-J'ai dit que c'était un résumé, voir notamment Wikipedia pour plein d'articles bien plus poussés sur le sujet au combien passionnant mais quelque peu hors sujet ici :)
+J'ai dit que c'était un résumé, voir notamment Wikipedia pour plein d'articles bien plus poussés sur le sujet au combien passionnants mais quelque peu hors sujet ici :)
 
 Dans les années 80 nous avons donc cette famille BSD, maintenant avec les versions 4.x dont 4.2BSD (qui comprend la pile TCP/IP et le {% wp Berkeley_Fast_File_System "Fast File System" fr %} écrit par {% wp Marshall_Kirk_McKusick "Kirk McKusick" fr %}), 4.3BSD (comprenant un nouveau système de mémoire virtuelle et une pile TCP/IP améliorée) et 4.4BSD.
 
@@ -101,7 +101,7 @@ La liste complète des articles est trouvable dans les liens plus bas ; les art
 
 Il suffira pour notre article présent de préciser que cette série d'articles fut ce qui me décida à attendre fermement la sortie de 386BSD, prévue en 1992, y compris quand, quelques mois plus tard, sorti un machin venu d'un étudiant finnois appelé à un avenir encore incertain à l'époque, un certain {% wp Linus_Torvalds "Linus Torvalds" fr %} et son bout d'OS, « bootable » mais pas tellement plus {% fnin %}Le processus `init(8)` était en gros le *shell* `/bin/bash` ce qui donne une idée du degré de développement à ce stade. Ça suffit par contre à René (cf. article précédent) pour se lancer avec un bonheur ineffable dedans :){% endfnin %}.
 
-Mon insistance à vouloir mon BSD fut l'occasion de beaucoup de discussions entre René et moi d'ailleurs, se moquant gentiment :) {% fnin %}Tu me manques encore, 'spèce d'idiot — tu dois bien désespérer à voir ce qu'ils font de ta France maintenant d'ailleurs, bisous.{% endfnin %}.
+Mon insistance à vouloir mon BSD fut l'occasion de beaucoup de discussions entre René et moi d'ailleurs, lui se moquant gentiment {% fnin %}Tu me manques encore, 'spèce d'idiot — tu dois bien désespérer à voir ce qu'ils font de ta France maintenant d'ailleurs, bisous.{% endfnin %} et moi cherchant à le convertir :).
 
 Linus aurait d'ailleurs déclaré que si 386BSD avait été disponible quand il avait commencé Linux, celui-ci n'aurait probabelement jamais été créé… ([Source](https://en.wikiquote.org/wiki/Linus_Torvalds#Attributed)).
 
@@ -143,7 +143,9 @@ Voici comment j'ai pris le train FreeBSD et que je ne l'ai plus quitté depuis :
 
 Peu de temps après cette 1.0 est sortie 1.0.2 puis c'est parti sur la branche 1.1, déjà dénommée CURRENT, expression classique pour désigner la branche de code en cours de développement. Celui-ci se passe principalement au travers des listes de discussions, les plus connues (à part les listes privées des développeurs) étant `freebsd-current`, `freebsd-hackers`, `freebsd-arch` et plein plein d'autres, classées par sujet ou architecture.
 
-À la base, le but de FreeBSD est d'améliorer et faire progresser BSD sur la plateforme Intel sans trop se préoccuper d'autres plateformes plus « exotiques » comme la famille Motorola (68000 et consorts — comme le Mac ou l'Amiga) et autres Sparc ; toutes ces architectures largement moins utilisées ou moins documentées ayant tendance à monopoliser des développeurs. C'est là la principale différence au départ entre NetBSD et FreeBSD. Ça reste encore vrai aujourd'hui même si les deux (et maintenant plus) systèmes. De son côté pendant 1993-1994, NetBSD sortira 0.8 et 0.9 et enfin 1.0 en octobre 1994. Ça changera bien entendu au fil des années (l'intégration du support {% wp DEC_Alpha "Alpha" fr %} 64 bits venant de NetBSD par exemple nous redonnera cet aspect multi-plateformes).
+À la base, le but de FreeBSD est d'améliorer et faire progresser BSD sur la plateforme Intel sans trop se préoccuper d'autres plateformes plus « exotiques » comme la famille Motorola (68000 et consorts — comme le Mac ou l'Amiga) et autres Sparc ; toutes ces architectures largement moins utilisées ou moins documentées ayant tendance à monopoliser des développeurs. C'est là la principale différence au départ entre NetBSD et FreeBSD. Ça reste encore vrai aujourd'hui même si les deux (et maintenant plus) systèmes partagent si ce n'est du code, tout du moins des plateformes. Ça évoluera bien entendu au fil des années (l'intégration du support {% wp DEC_Alpha "Alpha" fr %} 64 bits venant de NetBSD par exemple nous redonnera cet aspect multi-plateformes). 
+
+De son côté pendant 1993-1994, NetBSD sortira 0.8 et 0.9 et enfin 1.0 en octobre 1994. 
 
 Linux continue de se développer dans son coin, acquérant de plus en plus d'utilisateurs et de développeurs, il arrive à sa version 1.0 assez complète en mars 1994.
 
@@ -152,11 +154,11 @@ Mais se profile déjà l'événement qui va bouleverser les deux écosystèmes d
 Le procès AT&T - BSDI (1993 - 1994)
 -----------------------------------
 
-Comment parler des systèmes BSD dans le contexte des UNIX libres sans parler du fameux procès entre {% wp Unix_System_Laboratories "Unix Systems Laboratories (EN)" %} (ex-Bell Labs) et la société BSDI ?  Cette dernière, crée donc par des membres de CSRG (voir au dessus) dont Bill Jolitz, récupère le code Net/2, y ajoute les éléments manquants — notons le parallèle avec le *patchkit*, il y a duplication du boulot — et vend le résultat sous le nom BSD/386. 
+Comment parler des systèmes BSD dans le contexte des UNIX libres sans parler du fameux procès entre {% wp Unix_System_Laboratories "Unix Systems Laboratories (EN)" %} (ex-Bell Labs) et la société BSDI ?  Cette dernière, créée donc par des membres de CSRG (voir au dessus) dont Bill Jolitz, récupère le code Net/2, y ajoute les éléments manquants — notons le parallèle avec le *patchkit*, il y a duplication du boulot — et vend le résultat sous le nom BSD/386. 
 
-Ils vont surtout dans leur enthousiasme (inconscience ? :)) en faire de la publicité au travers d'un mécanisme classique aux USA, l'utilisation des lettres pouvant exprimer un numéro de téléphone (qui s'en souviens ici hmmmm ? :)) et vont donc prendre un numéro s'exprimant par 0800-ITS-UNIX. Notons le UNIX à la fin.
+Ils vont surtout dans leur enthousiasme (inconscience ? :)) en faire de la publicité au travers d'un mécanisme classique aux USA, l'utilisation des lettres pouvant exprimer un numéro de téléphone (qui s'en souviens ici hmmmm ? :)) et vont donc prendre un numéro s'exprimant par 0800-ITS-UNIX. Notons le UNIX à la fin, il va être *très* important très vite.
 
-L'histoire retiendra qu'USL — filiale d'AT&T — a utilisé cette violation présumée (et assumée par BSDI puisque tout le but de la campagne de dire que c'est un UNIX) de sa propriété intellectuelle (PI) sur la marque UNIX pour déclencher un procès arguant qu'outre cette question — assez secondaire il faut le dire — de PI que BSDI a violé les termes de la licence UNIX que possèdait l'Université de Berkeley (non citée de prime abord) et qu'elle n'aurait pas du rendre disponible Net/2. Du coup le juge leur demande soit d'impliquer l'Université de Berkeley (UCB) ou de laisser tomber.
+L'histoire retiendra qu'USL — filiale d'AT&T — a utilisé cette violation présumée (et assumée par BSDI puisque tout le but de la campagne de dire que c'est un UNIX) de sa propriété intellectuelle (PI) sur la marque UNIX pour déclencher un procès arguant qu'outre cette question — assez secondaire il faut le dire — de PI, BSDI a violé les termes de la licence UNIX que possédait l'Université de Berkeley (non citée de prime abord) et qu'elle n'aurait pas du rendre disponible Net/2. Du coup le juge leur demande soit d'impliquer l'Université de Berkeley (UCB) ou de laisser tomber.
 
 USL choisit de redéposer sa plainte en impliquant UCB en plus de BSDI. Après d'intenses échanges avec le juge au travers de moultes papiers écrit par les membres de CSRG, tous les points soulevés par USL sauf deux sont rejetés et suite à ça, l'Université décide de contre-attaquer par une plainte de son côté, arguant que USL de son côté avait failli à l'obligation de reconnaitre la contribution {% fnin%}C'est une des clauses les plus connues de la licence BSD originale — cf. [cette page WP](https://en.wikipedia.org/wiki/BSD_licenses#4-clause_license_.28original_.22BSD_License.22.29){% endfnin %} d'UCB dans le code System V.
 
@@ -169,18 +171,18 @@ Il *faut* à ce propos voir la conférence de Kirk sur les 20 ans d'UNIX à Berk
 
 Sans rentrer dans les détails, 3 fichiers sont enlevés de 4.4BSD (qui restera comme 4.4BSD-Encumbered), d'autres sont modifiés, un copyright AT&T est ajouté dans plein d'autres et s'en suit la création de 4.4BSD-Lite, la base de NetBSD et FreeBSD puisqu'au terme de cette accord, la redistribution de systèmes dérivés se serait pas impacté *si* ils se basaient sur 4.4BSD-Lite.
 
-À ce moment, FreeBSD et NetBSD vont prendre une approche radicalement opposée et si ça n'aura pas d'impact pour les utilisateurs, celui sur les développeurs sera plus profond du côté NetNSD :
+À ce moment, FreeBSD et NetBSD vont prendre une approche radicalement opposée et si ça n'aura pas d'impact pour les utilisateurs, celui sur les développeurs sera plus profond du côté NetBSD :
 
 - FreeBSD décide de repartir des sources « vierges » de 4.4BSD-Lite et d'y ré-appliquer les modifications dévéloppées depuis. Un nouveau dépôt CVS est donc créé avec les sources de 4.4BSD-Lite ;
 - NetBSD eux décident de garder leur dépôt CVS et d'y incorporer les sources de 4.4BSD-Lite.
 
 La conséquence est que le dépôt CVS de NetBSD ne sera pas disponible pour le reste du monde pendant pas mal de temps vu qu'à un certain moment dans le temps (le but d'un système de gestion de sources est justement de garder précieusement cet historique !) il est toujours emcombré des sources problématiques Net/2…
 
-Ça n'a peut-être pas l'air très important en soi, surtout 20 ans après mais c'est la chose qui a détourné plein de développeurs et sans doute de boîtes commerciales de se lancer dans l'aventure BSD et ceux-ci se sont retrouvés dans Linux, lui donnant un élan qui n'a pas été rattrapé comme je le disais avant.
+Ça n'a peut-être pas l'air très important en soi, surtout 20 ans après mais c'est la chose qui a découragé plein de développeurs et sans doute de boîtes commerciales de l'aventure BSD et ceux-ci se sont tournés vers Linux, lui donnant un élan qui n'a pas été rattrapé comme je le disais avant.
 
 C'est la vie©®
 
-L'année d'après, arrive l'expulsion de Theo Deraadt de la *core team* de NetBSD, lequel ira fonder OpenBSD pour se consacrer aux aspects sécurité avec audit de code, intégration de code tiers pour le maîtriser {% fnin %}La formule « diplomatique » pour *fork*, sachant que ça a pour conséquence de compliquer la maintenance a fortiori si le code en question est abandonné après par les auteurs originaux cf. bind4…{% endfnin %}. Il a en celà partiellement réussi son coup selon moi : oui, surtout au départ, OpenBSD a été plus sécurisé que les deux autres mais je pense que les autres l'ont ratrappé. Et Theo n'a pas manqué de montrer à quel point NetBSD avait eu raison de se séparer de lui ; son attitude a toujours été très agressive allant jusqu'à menacer de pirater FreeBSD (et s'est fait bannir des listes de diffusion).
+L'année d'après, arrive l'expulsion de Theo Deraadt de la *core team* de NetBSD, lequel ira fonder OpenBSD pour se consacrer aux aspects sécurité avec audit de code, intégration de code tiers pour le maîtriser {% fnin %}La formule « diplomatique » pour *fork*, sachant que ça a pour conséquence de compliquer la maintenance a fortiori si le code en question est abandonné après par les auteurs originaux cf. bind4…{% endfnin %}. Il a en cela partiellement réussi son coup selon moi : oui, surtout au départ, OpenBSD a été plus sécurisé que les deux autres mais je pense que les autres l'ont rattrapé. Et Theo n'a pas manqué de montrer à quel point NetBSD avait eu raison de se séparer de lui ; son attitude a toujours été très agressive allant jusqu'à menacer de pirater FreeBSD (et s'est fait bannir des listes de diffusion).
 
 Cathédrale et bazar
 -------------------
@@ -200,7 +202,7 @@ Néanmoins, puisqu'on parle d'histoire : je deviens committer {% fnin %}Ce ter
 
 C'est ainsi que le projet FreeBSD a adopté `linuxdoc-sgml`pour toute sa documentation. Maintenant, nous utilisons plutôt {% wp DocBook "DocBook" fr %} dans sa version {% wp XML "XML" fr %} (et plus {% wp SGML "SGML" fr %}), plus complet (et plus verbeux).
 
-Après deux ans dans la documentation, je suis passé au développement dans le noyau en 2007-2008 et travaillé un temps dans la partie *Virtual File System* (VFS) et les systèmes de fichiers empilables (*stackable filesystems*) avec `unionfs` et `nullfs`. Maintenant, ayant malheureusement moins de temps à consacrer à FreeBSD, je m'occupe de quelques ports et un peu de {% wp Ntpd "ntpd(8)" fr %} dans le système de base ({% wp Network_Time_Protocol "NTP" fr %} pour le protocole).
+Après deux ans dans la documentation, je suis passé au développement dans le noyau en 2007-2008 et j'ai travaillé un temps dans la partie *Virtual File System* (VFS) et les systèmes de fichiers empilables (*stackable filesystems*) avec `unionfs` et `nullfs`. Maintenant, ayant malheureusement moins de temps à consacrer à FreeBSD, je m'occupe de quelques ports et un peu de {% wp Ntpd "ntpd(8)" fr %} dans le système de base ({% wp Network_Time_Protocol "NTP" fr %} pour le protocole).
 
 Je reste un fervent supporter de FreeBSD qui est, pour mes besoins et mes centres d'intérêt, le meilleur UNIX libre pour tout ce qui concerne la partie serveur, le côté *desktop* ayant basculé en 2003 sur MacOS X qui est la plus ergonomique et la plus utilisable des interfaces graphiques. Tous mes serveurs tournent FreeBSD avec {% wp ZFS "ZFS" fr %} pour assurer l'intégrité de mes données (chiffrées bien sûr).
 
