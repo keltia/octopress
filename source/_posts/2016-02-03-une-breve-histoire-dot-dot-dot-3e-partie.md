@@ -211,6 +211,8 @@ Conclusion
 
 Je vais, pour cette troisième partie m'arrêter là, il en reste plein à dire sur la suite de cette histoire, merci chère lectrice — cher lecteur d'être arrivé si loin :)
 
+PS : merci à deuzeffe pour la relecture :)
+
 Références
 ----------
 
