@@ -234,6 +234,10 @@ Références
 - [Projet FreeBSD](https://www.FreeBSD.org/)
 - [Projet NetBSD](https://netbsd.org/)
 - [Projet OpenBSD](http://www.openbsd.org/)
+- [Projet DragonflyBSD](https://www.dragonflybsd.org/)
+
+- [Projet HardenedBSD — FreeBSD sécurisé](https://hardenedbsd.org/)
+- [Projet PC-BSD - FreeBSD pour le desktop](https://www.pcbsd.org/)
 - [Linux Documentation Project](http://www.tldp.org/)
 
 Images de Wikipédia sauf pour la SS2 (http://sunstuff.org/pictures/).
