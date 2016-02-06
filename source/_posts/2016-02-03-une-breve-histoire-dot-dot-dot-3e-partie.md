@@ -59,9 +59,9 @@ X Window était en version 4 (X11R4) à ce moment là, avec 125 Mo pour les sour
 
 C'est aussi ma première expérience avec l'hybride SVR4 — 4.2BSD que représente SunOS4 (bientôt appelé dans une tentative de réécriture de l'histoire par Sun, Solaris 1). Sun a démarré sa transition du monde BSD vers le monde System V, probablement vu comme plus industriel et moins universitaire. Erreur que j'ai longtemps déplorée même si ça avait sans doute un sens en terme de *business*… J'ai l'habitude de dire que ce faisant, Sun a échangé les anciens — mais connus — *bugs* 4.2BSD pour les anciens *bugs* SVR4 {% fnin %}SVRn comme System V Release n, une manière courante à l'époque pour nommer rapidement cette branche d'UNIX.{% endfnin %} et bien entendu les nouveaux *bugs* qu'ils ont introduits eux-même.
 
-Il faut quand même savoir que la première version « réellement » utilisable de Solaris fut la 2.5 (vite mise à jour en 2.5.1 d'ailleurs) vue l'étendue des *bugs* et instabilités des précédentes. Sun a même réussi l'exploit de casser complètement l'API DNS (`gethostbyname(3)` et consorts) en 2.3 ou 2.4 étant passé de mémoire de la pile Lachman d'origine — la même que dans SVR3.2 — à une implémentation maison — un comble pour une API issue de BSD, la famille d'origine de Sun…
+Il faut quand même savoir que la première version « réellement » utilisable de Solaris fut la 2.5 (vite mise à jour en 2.5.1 d'ailleurs) vue l'étendue des *bugs* et instabilités des précédentes. Sun a même réussi l'exploit de casser complètement l'{% wp Interface_de_programmation "API" fr %} DNS (`gethostbyname(3)` et consorts) en 2.3 ou 2.4 étant passé de mémoire de la pile Lachman d'origine — la même que dans SVR3.2 — à une implémentation maison — un comble pour une API issue de BSD, la famille d'origine de Sun…
    
-Ça nous donnait un joyeux mélange de comportements SVR4/BSD selon les {% wp API fr %} avec `/usr/lib` et `/usr/5lib`, un jeu de commande dupliqué entre `/usr/bin` et `/usr/5bin`, etc.
+Ça nous donnait un joyeux mélange de comportements SVR4/BSD selon les API et les chemins utilisés, avec `/usr/lib` et `/usr/5lib`, un jeu de commande dupliqué entre `/usr/bin` et `/usr/5bin`, etc.
 
 Rappel, pour ceux qui voudraient comprendre les ramifications des différentes familles UNIX, le site de référence reste le [site d'Eric Levenez](http://www.levenez.com/unix/) :)
 
