@@ -120,6 +120,8 @@ Je vois évoluer Linux, c'est très intéressant d'ailleurs et l'épisode de la 
 
 Les deux systèmes sont bien présents sur {% wp Usenet "Usenet" fr %}, l'un dans `comp.os.linux` et l'autre dans `comp.unix.bsd.386bsd.*` {% fnin %}La différence de placement dans la hiérarchie `comp` des deux systèmes fut sujette à moultes discussions, les BSDistes trouvant dommage d'être relégués dans un morceau de `comp.unix.bsd` et les Linuxiens regrettant d'être considéré comme un « moindre » UNIX...{% endfnin %}.
 
+{% img https://assets.keltia.net/images/newsrc-unix.png "Extrait de .newsrc" "Extrait de .newsrc" %}
+
 Pourquoi mentionner Usenet dans ce contexte ?
 
 Parce que bien plus que les *mailing-lists* (liste de discussion/diffusion) qui sont le reflet de l'avancée des systèmes au jour le jour entre développeurs, Usenet est pendant longtemps l'endroit où vont s'affronter — parfois littéralement — les partisans des deux systèmes. Voire entre partisans de chaque camp comme on va le voir maintenant…
