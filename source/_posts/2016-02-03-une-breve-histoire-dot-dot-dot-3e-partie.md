@@ -124,7 +124,7 @@ Les deux systèmes sont bien présents sur {% wp Usenet "Usenet" fr %}, l'un dan
 
 Pourquoi mentionner Usenet dans ce contexte ?
 
-Parce que bien plus que les *mailing-lists* (liste de discussion/diffusion) qui sont le reflet de l'avancée des systèmes au jour le jour entre développeurs, Usenet est pendant longtemps l'endroit où vont s'affronter — parfois littéralement — les partisans des deux systèmes. Voire entre partisans de chaque camp comme on va le voir maintenant…
+Parce que bien plus que les *mailing-lists* ({% wp Liste_de_diffusion "liste de discussion/diffusion" fr %}) qui sont le reflet de l'avancée des systèmes au jour le jour entre développeurs, Usenet est pendant longtemps l'endroit où vont s'affronter — parfois littéralement — les partisans des deux systèmes. Voire entre partisans de chaque camp comme on va le voir maintenant…
 
 Usenet fut donc le théâtre d'une des plus grosses *flamewars* qui vit au final la scission entre BSDistes et la création en 1993 de {% wp NetBSD "NetBSD" fr %} puis {% wp FreeBSD "FreeBSD" fr %}. Il faut voir qu'à la sortie de 386BSD 0.0 puis 0.1, le système était relativement instable et les *bugs* foisonnaient. 386BSD attira beaucoup d'adeptes venant du monde BSD (ou pas) et ceux-ci commencèrent à écrire des *patches* qu'il envoyèrent à Bill & Lynne Jolitz pour améliorer et stabiliser le système.
 
