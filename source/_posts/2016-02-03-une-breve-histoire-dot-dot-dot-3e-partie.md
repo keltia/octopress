@@ -78,6 +78,8 @@ BSD UNIX
 
 Même si je n'ai pas l'intention de nous expliquer en détail l'histoire complète d'UNIX depuis sa conception dans les Bell Labs fin des années 60, un petit résumé historique s'impose néanmois.
 
+{% img https://assets.keltia.net/images/Ken_n_dennis.jpg "Ken Thompson & Dennis Richie" "Ken Thompson & Dennis Richie" %} 
+
 UNIX est formellement né en 1969 dans les {% wp Laboratoires_Bell "Bell Labs" fr %} (appartenant au géant des télécoms {% wp American_Telephone_%26_Telegraph "AT&T" fr %}) créé notamment par {% wp Ken_Thompson "Ken Thompson" fr %} et {% wp Dennis_Ritchie "Dennis Ritchie" fr %}. Fin des années 70, l'Université de Berkeley en Californie achète une licence à Bell Labs et réalise (merci {% wp Bill_Joy "Bill Joy" fr %} {% fnin %}Également auteur de la pile {% wp Suite_des_protocoles_Internet "TCP/IP" fr %} originelle de Berkeley ainsi que de `vi(1)` et `csh(1)` — le {% wp C_shell "C-Shell" fr %}.{% endfnin %} !) les premières releases appelées BSD, pour *Berkeley Software Distributions*.
 
 {% img https://assets.keltia.net/images/240px-Seal_of_University_of_California_Berkeley.svg.png "Logo University of California Berkeley" "Logo University of California Berkeley" %}
