@@ -51,7 +51,7 @@ DESS & IHES (1991)
 
 {% img https://assets.keltia.net/images/320px-IHES_main_building.jpg "IHES" "IHES" %}
 
-Le réseau de l'IHES comprenait le serveur principal, une {% wp SPARCstation "Sparcstation 2" fr %} (SS2) avec 32 Mo de mémoire pour faire du partage de fichier avec {% wp NFS fr %} et serveur des {% wp Terminal_X "terminaux X" fr %} utilisés par les mathématiciens, physiciens et autres astro-physiciens du monde entier qui venaient travailler sur leurs recherches dans l'institut.
+Le réseau de l'IHES comprenait le serveur principal, une {% wp SPARCstation "Sparcstation 2" fr %} (SS2) avec 32 Mo de mémoire pour faire du partage de fichier avec {% wp Network_File_System "NFS" fr %} et serveur des {% wp Terminal_X "terminaux X" fr %} utilisés par les mathématiciens, physiciens et autres astro-physiciens du monde entier qui venaient travailler sur leurs recherches dans l'institut.
 
 X Window était en version 4 (X11R4) à ce moment là, avec 125 Mo pour les sources ce qui prend environ 4h à compiler sur cette machine — machine qui se ferait tailler des croupières par ne serait que le moindre *smartphone* actuel ;-) Sur les machines actuelles, ça doit prendre quelques minutes, ce sont maintenant les mastodontes façon Firefox ou pire, OpenOffice qui prennent des temps équivalents et ce, sur des processeurs 100x plus puissants que le pauvre Sparc de la SS2… 
 
