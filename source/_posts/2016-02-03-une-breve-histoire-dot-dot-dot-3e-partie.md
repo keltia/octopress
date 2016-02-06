@@ -138,7 +138,7 @@ Nul ne sait pourquoi les Jolitz eurent cette attitude (je ne me souviens pas que
 
 En bref, une descente du niveau des discussions largement en dessous de la ceinture qui n'est à l'honneur de personne. C'est à ce stade de l'histoire qu'il faut que je mentionne que c'est précisément les actions du trio Demetriou, Deraadt & Hannum qui me poussèrent à rejoindre FreeBSD quelques mois après, ulcéré que j'étais de leurs actions.
 
-Après quelques tentatives de créer une sorte de 386BSD 0.2, Jordan Hubbard, Terry Lambert, Rod Grimes et David Greenman finiront par créer FreeBSD en juillet 1993 et réussissent à sortir la première version 1.0 en décembre 1993.
+Après quelques tentatives de créer une sorte de 386BSD 0.2, {% wp Jordan_Hubbard "Jordan Hubbard" fr %}, Nate Williams, Rod Grimes et David Greenman finiront par créer FreeBSD en juillet 1993 et réussissent à sortir la première version 1.0 en décembre 1993.
 
 FreeBSD (1993-)
 ---------------
@@ -206,7 +206,7 @@ Néanmoins, puisqu'on parle d'histoire : je deviens committer {% fnin %}Ce ter
 
 C'est ainsi que le projet FreeBSD a adopté `linuxdoc-sgml`pour toute sa documentation. Maintenant, nous utilisons plutôt {% wp DocBook "DocBook" fr %} dans sa version {% wp XML "XML" fr %} (et plus {% wp SGML "SGML" fr %}), plus complet (et plus verbeux).
 
-Après deux ans dans la documentation, je suis passé au développement dans le noyau en 2007-2008 et j'ai travaillé un temps dans la partie *Virtual File System* (VFS) et les systèmes de fichiers empilables (*stackable filesystems*) avec `unionfs` et `nullfs`. Maintenant, ayant malheureusement moins de temps à consacrer à FreeBSD, je m'occupe de quelques ports et un peu de {% wp Ntpd "ntpd(8)" fr %} dans le système de base ({% wp Network_Time_Protocol "NTP" fr %} pour le protocole).
+Après deux ans dans la documentation, je suis passé au développement dans le noyau en 1997-1999 et j'ai travaillé un temps dans la partie *Virtual File System* (VFS) et les systèmes de fichiers empilables (*stackable filesystems*) avec `unionfs` et `nullfs`. Maintenant, ayant malheureusement moins de temps à consacrer à FreeBSD, je m'occupe de quelques ports et un peu de {% wp Ntpd "ntpd(8)" fr %} dans le système de base ({% wp Network_Time_Protocol "NTP" fr %} pour le protocole).
 
 Je reste un fervent supporter de FreeBSD qui est, pour mes besoins et mes centres d'intérêt, le meilleur UNIX libre pour tout ce qui concerne la partie serveur, le côté *desktop* ayant basculé en 2003 sur MacOS X qui est la plus ergonomique et la plus utilisable des interfaces graphiques. Tous mes serveurs tournent FreeBSD avec {% wp ZFS "ZFS" fr %} pour assurer l'intégrité de mes données (chiffrées bien sûr).
 
