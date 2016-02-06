@@ -63,7 +63,7 @@ Il faut quand même savoir que la première version « réellement » utilisab
    
 Ça nous donnait un joyeux mélange de comportements SVR4/BSD selon les {% wp API fr %} avec `/usr/lib` et `/usr/5lib`, un jeu de commande dupliqué entre `/usr/bin` et `/usr/5bin`, etc.
 
-Rappel pour ceux qui voudraient comprendre les ramifications des différentes familles UNIX, le site de référence reste le [site d'Eric Levenez](http://www.levenez.com/unix/) :)
+Rappel, pour ceux qui voudraient comprendre les ramifications des différentes familles UNIX, le site de référence reste le [site d'Eric Levenez](http://www.levenez.com/unix/) :)
 
 En attendant, ça permettait aux chercheurs de travailler, lire et répondre aux mails, faire du TeX/LaTeX pour leurs papiers, etc. Anecdote marrante par ailleurs sur le dernier point, les secrétaires scientifiques étaient celles qui rédigeaient et corrigeaient les papiers des chercheurs, en TeX, sur Mac et haro sur celui ou celle qui osait suggérer un Word ou un Wordperfect comme alternative !  Nul ne pouvait leur arracher leur TeXtures/Mac :)
 
