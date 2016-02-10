@@ -9,6 +9,8 @@ categories: french voiture electrique ecologie tesla
 
 {% img https://assets.keltia.net/blog/320px-TeslaModelSsedan.jpg "Tesla S" "Tesla S" %}
 
+MAJ : la suite de cet article est [ici](/2016/01/09/une-tesla/) si vous voulez savoir la suite…
+
 Préambule
 ---------
 Je n'aime pas les voitures. Si si c'est vrai. J'aime bien conduire, c'est pratique, c'est sympa, on peut avoir de la musique, etc. mais la partie qui consiste à lire des revues de voitures, aller au salon, me passionner pour une Porsche, une Audi ou autre Ferrari, franchement bof.
