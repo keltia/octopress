@@ -17,9 +17,9 @@ We start pretty fast with [Baptiste Daroussin's](http://2014.eurobsdcon.org/talk
 
 Then [Ted Unangst's](http://2014.eurobsdcon.org/talks-and-schedule/talks/#TedUnangst1) talk about [LibreSSL](http://libressl.org/) status after a few months after their fork of [OpenSSL](http://openssl.org/), less technical than [Bob Beck](https://www.bsdcan.org/2014/schedule/events/520.en.html)'s talk at [BSDCan](http://bsdcan.org/) but still interesting for the audit they made.
 
-[Theo Deraadt](http://2014.eurobsdcon.org/talks-and-schedule/talks/#TheodeRaadt) was next, speaking on the birth and life of `arc4random(3)` in [OpenBSD](http://openbsd.org/), describing the various algorithms used behind that.
+[Theo de Raadt](http://2014.eurobsdcon.org/talks-and-schedule/talks/#TheodeRaadt) was next, speaking on the birth and life of `arc4random(3)` in [OpenBSD](http://openbsd.org/), describing the various algorithms used behind that.
 
-{% img https://assets.keltia.net/photos/EuroBSDCon-2014/Conference/medium/conference-5443.jpg 'Theo Deraadt', 'Theo, MS Comic Sans' %}
+{% img https://assets.keltia.net/photos/EuroBSDCon-2014/Conference/medium/conference-5443.jpg 'Theo de Raadt', 'Theo, MS Comic Sans' %}
 
 (yes, he is still using that MS Comic Sans compatible font, my eyes are always bleeding even though I know they do it on purpose).
 
