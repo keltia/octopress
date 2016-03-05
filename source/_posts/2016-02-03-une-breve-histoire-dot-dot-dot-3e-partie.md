@@ -97,7 +97,7 @@ NOTE: Net/2 est aussi à l'origine de la société {% wp Berkeley_Software_Desig
 386BSD (1992-1993)
 ------------------
 
-Début 1991, Bill et Lynne Jolitz, vétérans du {% wp Computer_Systems_Research_Group "CSRG (EN)" %} décident dans une série de 18 articles dans le mensuel "Dr. Dobb's Journal" de décrire leur portage de la bande Net/2 sur le processeur Intel i386 — le premier à avoir des fonctionnalités modernes nécessaires au support de {% wp Système_d%27exploitation "systèmes d'exploitation" fr %} (OS) modernes tels qu'UNIX {% fnin %}J'entends « moderne » par « sans passer par des hacks affreux » notamment en terme de gestion mémoire. Oui, Xenix a eu une version sur {% wp Intel_80286 "80286" fr %}, non je ne veux pas perdre 5/10e ou plus à mes yeux en regardant le source.{% endfnin %}.
+Début 1991, Bill et Lynne Jolitz, vétérans du {% wp Computer_Systems_Research_Group "CSRG (EN)" %} décident dans une série de 18 articles dans le mensuel "Dr. Dobb's Journal" de décrire leur portage de la bande Net/2 sur le processeur Intel i386 — le premier à avoir des fonctionnalités modernes nécessaires au support de {% wp Système_d%27exploitation "systèmes d&#39;exploitation" fr %} (OS) modernes tels qu'UNIX {% fnin %}J'entends « moderne » par « sans passer par des hacks affreux » notamment en terme de gestion mémoire. Oui, Xenix a eu une version sur {% wp Intel_80286 "80286" fr %}, non je ne veux pas perdre 5/10e ou plus à mes yeux en regardant le source.{% endfnin %}.
 
 La liste complète des articles est trouvable dans les liens plus bas ; les articles eux-mêmes sont par contre sûrement très difficiles à retrouver, ça date de 25 ans et sur un suport papier uniquement, pas de Web généralisé encore à cette époque…
 
