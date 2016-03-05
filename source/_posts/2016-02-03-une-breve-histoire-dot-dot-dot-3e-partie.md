@@ -105,7 +105,7 @@ Il suffira pour notre article présent de préciser que cette série d'articles 
 
 Mon insistance à vouloir mon BSD fut l'occasion de beaucoup de discussions entre René et moi d'ailleurs, lui se moquant gentiment {% fnin %}Tu me manques encore, 'spèce d'idiot — tu dois bien désespérer à voir ce qu'ils font de ta France maintenant d'ailleurs, bisous.{% endfnin %} et moi cherchant à le convertir :).
 
-Linus aurait d'ailleurs déclaré que si 386BSD avait été disponible quand il avait commencé Linux, celui-ci n'aurait probabelement jamais été créé… ([Source](https://en.wikiquote.org/wiki/Linus_Torvalds#Attributed)).
+Linus aurait d'ailleurs déclaré que si 386BSD avait été disponible quand il avait commencé Linux, celui-ci n'aurait probablement jamais été créé… ([Source](https://en.wikiquote.org/wiki/Linus_Torvalds#Attributed)).
 
 Usenet
 ------
