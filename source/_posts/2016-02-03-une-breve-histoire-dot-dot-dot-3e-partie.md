@@ -30,7 +30,7 @@ En fait non, surtout pas. Ce n'est pas comme ça que tout à commencé, en tout 
 System V R4 (1988-1990)
 -----------------------
  
-À ce moment-là, sur ma machine perso — un Compaq 386DX-25 tourne un MS-DOS 3.31 (de manière à pouvoir gérer plus de 32 Mo {% fnin %}Oui oui, pas d'erreur, on parle bien de méga-octets, remettez ça dans le contexte de l'époque, il y a presque 20 ans…{% endfnin %} sur le disque dur) qui me sert, entre autres, de support pour le BBS, Finonet, etc.
+À ce moment-là, sur ma machine perso — un Compaq 386DX-25 tourne un MS-DOS 3.31 (de manière à pouvoir gérer plus de 32 Mo {% fnin %}Oui oui, pas d'erreur, on parle bien de méga-octets, remettez ça dans le contexte de l'époque, il y a presque 20 ans…{% endfnin %} sur le disque dur) qui me sert, entre autres, de support pour le BBS, Fidonet, etc.
 
 Le virus UNIX a pourtant déjà pris et je me mets donc à jouer avec à la maison, principalement en regardant Xenix (oui, celui écrit et utilisé au départ par Microsoft puis distribué par Santa Cruz Operations (SCO {% fnin %}Le SCO de cette époque n'a rien à voir avec l'actuel, attention. Il s'appelle maintenant {% wp Tarantella_(entreprise) "Tarantella" fr %} alors que c'est la société {% wp Caldera_(company) "Caldera (EN)" %} qui s'est renommée SCO puis {% wp SCO_Group "SCO Group (EN)" %} et qui « trolle » le monde du libre avec ses soi-disants brevets ou éléments de propriété intellectuelle liés à Linux).{% endfnin %}) qui est un {% wp UNIX_System_V "System V" fr %} R2 (pas très évolué, pas de *sockets* par exemple donc pas de connexion Internet possible facilement, etc.) et, plus prometteur, le System V R4 de la société {% wp Microport "Microport (EN)" %}.
 
