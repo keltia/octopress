@@ -9,7 +9,7 @@ categories: photo french hybride fujifilm
 
 Introduction
 ------------
-Ça fait un peu plus d'un mois que j'utilise le [Fujifilm X-T1](/une-page-se-tourne-dot-dot-dot/) comme appareil photo principal (l'iPhone 6 qui me tient lieu aussi de téléphone est toujours là :)) et je dois dire que ça me fait un bien fou.
+Ça fait un peu plus d'un mois que j'utilise le [Fujifilm X-T1](/2014/12/12/la-fin-dune-epoque-dot-dot-dot/) comme appareil photo principal (l'iPhone 6 qui me tient lieu aussi de téléphone est toujours là :)) et je dois dire que ça me fait un bien fou.
 
 Cet appareil est tout simplement fantastique. Attention, cet article n'est pas un test en tant que tel, d'autres s'y sont très bien pris pendant les mois suivant sa sortie, comme [DPreview (EN)](http://www.dpreview.com/reviews/fujifilm-x-t1) ou [Focus numérique (FR)](http://www.focus-numerique.com/test-1833/compact-a-objectifs-interchangeables-fujifilm-x-t1-presentation-caracteristiques-1.html) mais plus un retour d'expérience d'un photographe amateur, n'ayant pas plus de prétention que de se faire plaisir :)  Enfin, cet appareil n'est pas forcément pour tout le monde, il est cher et à titre personnel, vu les objectifs que j'ai pris, certaines photos ne sont pas possible (animalier ou zolis navions notamment).
 <!--more-->
