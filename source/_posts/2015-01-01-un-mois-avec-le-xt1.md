@@ -85,7 +85,7 @@ Les mauvais points
 ------------------
 Aucun appareil n'est parfait et le X-T1 ne fait pas exception.
 
-L'auto-focus pourrait être plus efficace comme l'on signalé les revues, notamment sur les sujets en mouvement. Je ne fais pas souvent de photos de sport donc je suis moins gêné que d'autres mais c'est à noter que de temps en temps, quand on en a besoin, il pourrait être plus efficace.
+L'auto-focus pourrait être plus efficace comme l'ont signalé les revues, notamment sur les sujets en mouvement. Je ne fais pas souvent de photos de sport donc je suis moins gêné que d'autres mais c'est à noter que de temps en temps, quand on en a besoin, il pourrait être plus efficace.
 
 Le *vrai* point noir vient principalement de la batterie qui est beaucoup trop faible en autonomie. Il est clair que l'EVF a une grosse part de responsabilité (et je n'utilise quasiment jamais le mode "live-view", préférant celui où le viseur électronique est enclenché par l'approche de l'œil et fait tout, visée et menus). J'ai deux batteries et heureusement, je me serais sinon trouvé fort marri lors de mes deux promenades parisiennes.
 
