@@ -7,7 +7,7 @@ sharing: true
 categories: freebsd devsummit bsdcan english ottawa
 ---
 
-Let's begin this new series on [BSDCan 2016](http://2016.bsdcan.org/)!
+Let's begin this new series on [BSDCan 2016](https://bsdcan.org/2016/)!
 
 As usual, we will have two days of both tutorials and [FreeBSD](https://www.FreeBSD.org/) devsummit, a regular event in almost all BSD-related conferences now.
 
