@@ -61,4 +61,11 @@ The day ended with the devsummit dinner with Pizza, softs and beer in the hackin
 
 {% img https://assets.keltia.net/blog/blog-13466.jpg "Dinner" "Dinner" %}
 
+Pictures
+--------
+
+Like the last few years, I've taken a few pictures :)  Be sure to visit every day for updates!
+
+[BSDCan 2016](https://assets.keltia.net/photos/BSDCan-2016/)
+
 {%footnotes_inline%}
