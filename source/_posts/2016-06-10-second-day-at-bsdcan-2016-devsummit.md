@@ -9,7 +9,7 @@ categories: freebsd devsummit bsdcan english ottawa
 
 Second day of the devsummit at BSDCan. One very important session on the morning, the one about what was finally put into upcoming 11-RELEASE and what we want to have (or at least try to) for release 12.0.  See below.
 
-This is a followup on yesterday's [post](/2015/06/10/first-day-at-bsdcan-2015-devsummit/)
+This is a followup on yesterday's [post](/2016/06/09/first-day-at-bsdcan-2016-devsummit/)
 
 {% img https://assets.keltia.net/blog/blog-13510.jpg "my Group photo" "my Group photo" %}
 <!--more-->
@@ -22,6 +22,8 @@ The list if always more impressive than many think.  Have a look at the differen
 Next, what we need / want for 12.  The main items being trying to get 12.0 GPL-free and have a proper replacement for the `rc.d` stuff which is showing its age now (whoever thought `systemd` can remove him- or herself out of here, thanks).
 
 You can see the list of interesting things people want, including better external toolchain support and a few things about ZFS like compressed ARC and encryption.
+
+You can find a more readable version [here](https://pad.riseup.net/p/FreeBSD_11_12).
 
 FreeBSD Foundation
 ------------------
