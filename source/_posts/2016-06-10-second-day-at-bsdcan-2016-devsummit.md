@@ -17,7 +17,7 @@ What's cookin' for 12?
 ----------------------
 It has become some kind of a tradition during the BSDCan's devsummit to more or less give ourselves a set of goals for the next major release.  But before, as 11.0 is really around the corner, we did a list of what is in 11.0.
 
-The list if always more impressive than many think.  Have a look at the different pictures I got in [the slides section](https://assets.keltia.net/photos/BSDCan-2016/Devsummit-slides/index_2.html); the first two are what we had in mind before really thinking about it, the next two or three are the really long list :)
+The list is always more impressive than many think at first.  Have a look at the different pictures I got in [the slides section](https://assets.keltia.net/photos/BSDCan-2016/Devsummit-slides/index_2.html); the first two are what we had in mind before really thinking about it, the next two or three are the really long list :)
 
 Next, what we need / want for 12.  The main items being trying to get 12.0 GPL-free and have a proper replacement for the `rc.d` stuff which is showing its age now (whoever thought `systemd` can remove him- or herself out of here, thanks).
 
