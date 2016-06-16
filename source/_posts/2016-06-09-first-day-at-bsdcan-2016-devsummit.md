@@ -19,7 +19,7 @@ The Goat BoF
 ------------
 Like last year, BSDCan kind of unofficially starts with the Goat BoF, the day before the devsummit & tutorials start.  Groff was a bit late this year so I have less pictures :)
 
-While waiting for Groff to arrive, I noticed his little brother watching over us :)
+While waiting for [Groff](https://twitter.com/GroffTheBSDGoat) to arrive, I noticed his little brother watching over us :)
 
 {% img https://assets.keltia.net/blog/goat-13302.jpg "Little goat" "Little Goat" %}
 
