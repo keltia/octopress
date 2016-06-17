@@ -26,7 +26,7 @@ Then, one of most interesting talk for me today.  Rod Grimes is one of founders 
 
 The thing is, I was there like many 386BSD users both on the mailing-lists and the Usenet newsgroups and it was nice to hear this from himself.  The talk was so popular it had to be moved into the larger room to fill everyone (despite the excellent talks at the same time, sorry guys!) :)
 
-After lunch, I attended the talk from Bernard Spil about the state of OpenSSL/LibreSSL, the latter being a fork of OpenSSL by the OpenBSD guys.  [Miod Viallat](https://twitter.com/MiodVallat), Bob Beck and others started a very large and much needed cleanup of the ancient codebase.  Who needs VAX code now?  Or code for some never-released big-endian i386 (yes, the code for this did exist).
+After lunch, I attended the talk from Bernard Spil about the state of [OpenSSL](https://www.openssl.org/)/[LibreSSL](https://www.libressl.org/), the latter being a fork of OpenSSL by the OpenBSD guys.  [Miod Viallat](https://twitter.com/MiodVallat), Bob Beck and others started a very large and much needed cleanup of the ancient codebase.  Who needs VAX code now?  Or code for some never-released big-endian i386 (yes, the code for this did exist).
 
 {% img https://assets.keltia.net/blog/blog-13626.jpg "Versions" "Versions" %}
 
