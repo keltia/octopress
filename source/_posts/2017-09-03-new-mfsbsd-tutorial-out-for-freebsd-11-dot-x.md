@@ -10,7 +10,7 @@ categories: freebsd mfsbsd english tutorial
 ## Preambule
 
 You may remember these articles I posted a while ago in the "howtos" category on my [website](https://www.keltia.net/).  I had two pf them on my ZFS-on-root setup, [one on FreeBSD 8.2](https://www.keltia.net/howtos/mfsbsd-zfsv28/) for a local machine and one for a [remotely managed server on FreeBSD 9.2](https://www.keltia.net/howtos/mfsbsd-zfs91/).
-<!--more-->
+
 The most important one was the latter as I moved all my services on dedicated servers hosted in datacentres (all managed by [Online](https://www.online.net/){% fnin %}You may have noticed there is this slightly bigger and and even more well-known French hosting provider called OVH.  They seem to have weird technical design choices (like watercooling), an even more weird network setup (can you say fscked up IPv6?) and some "interesting" notions on spam filtering I happen to disagree with.  In short, I do not trus them for my stuff.{% endfnin %}).
 
 My most heavily used machine at Online is getting old now by today's standards and, to stay within the scope of the aforementioned articles, lacking the cryptographic hardware extenstions in its CPU (an [Intel Xeon L3426](http://ark.intel.com/products/43233/Intel-Xeon-Processor-L3426-8M-Cache-1_86-GHz) — as you can see, old :)).
@@ -18,7 +18,7 @@ My most heavily used machine at Online is getting old now by today's standards a
 While I was just running my web & mail site out of it, I do not really need blazing fast disks (or I'd have taken SSD) but still, now that I'm sharing stuff with the [Transmission](http://www.transmissionbt.com/) P2P client and building my own set of FreeBSD packages for the host and its [jails](https://www.keltia.net/howtos/jail-mgmt-with-ansible/) with [Poudriere](https://github.com/freebsd/poudriere/wiki), the bandwidth limitation is taking its toll (35 MB/s without the {% wp AES_instruction_set "AES-NI" %} instructions vs 150 MB/s).
 
 I may also running out of disks space (ahem), the disks are 90% filled…
-
+<!--more-->
 ## Remote Management
 
 There is also this slightly (read: enormously) annoying thing with both HP and Dell machines, their remote management systems (known as {% wp Intelligent_Platform_Management_Interface#Baseboard_management_controller "BMC" %}), respectively iLO and iDRAC, just *sucks*.  These thingy require either a .Net machine (read: Windows) or a Java applet to be run to be able to access the remote console.  The keyboard when running the java applets is completely fscked up (not to mention heavily biaised toward QWERTY ones).  I just hate them.
