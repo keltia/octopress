@@ -10,7 +10,7 @@ categories: freebsd mfsbsd english tutorial
 ## Preambule
 
 You may remember these articles I posted a while ago in the "howtos" category on my [website](https://www.keltia.net/).  I had two pf them on my ZFS-on-root setup, [one on FreeBSD 8.2](https://www.keltia.net/howtos/mfsbsd-zfsv28/) for a local machine and one for a [remotely managed server on FreeBSD 9.2](https://www.keltia.net/howtos/mfsbsd-zfs91/).
-
+<!--more-->
 The most important one was the latter as I moved all my services on dedicated servers hosted in datacentres (all managed by [Online](https://www.online.net/){% fnin %}You may have noticed there is this slightly bigger and and even more well-known French hosting provider called OVH.  They seem to have weird technical design choices (like watercooling), an even more weird network setup (can you say fscked up IPv6?) and some "interesting" notions on spam filtering I happen to disagree with.  In short, I do not trus them for my stuff.{% endfnin %}).
 
 My most heavily used machine at Online is getting old now by today's standards and, to stay within the scope of the aforementioned articles, lacking the cryptographic hardware extenstions in its CPU (an [Intel Xeon L3426](http://ark.intel.com/products/43233/Intel-Xeon-Processor-L3426-8M-Cache-1_86-GHz) — as you can see, old :)).
